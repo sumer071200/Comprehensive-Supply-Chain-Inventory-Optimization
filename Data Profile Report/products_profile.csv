@@ -1,0 +1,12 @@
+Columns,DataType,Missing Values,Unique Values
+ProductID,int64,0,2000
+ProductName,object,1,407
+Category,object,0,12
+Brand,object,0,37
+UnitPrice,float64,0,1895
+CostPrice,float64,0,1841
+VendorID,float64,1,484
+ProductStatus,object,0,3
+LaunchDate,object,0,1104
+SupplierCategory,object,0,3
+WeightVolume,float64,0,781

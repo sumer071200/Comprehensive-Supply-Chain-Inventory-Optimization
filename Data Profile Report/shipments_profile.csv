@@ -1,0 +1,14 @@
+Columns,DataType,Missing Values,Unique Values
+ShipmentID,int64,0,20000
+VendorID,int64,0,500
+ProductID,int64,0,2000
+Quantity,int64,0,100
+ShipDate,object,0,731
+ActualDeliveryDate,object,1022,760
+ExpectedDeliveryDate,object,0,755
+Status,object,0,4
+ShippingMode,object,0,3
+CarrierName,object,0,20
+DelayReason,object,17897,5
+DeliveryCost,float64,0,12541
+TrackingID,object,1,19999

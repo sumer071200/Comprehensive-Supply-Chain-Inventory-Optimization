@@ -1,0 +1,12 @@
+Columns,DataType,Missing Values,Unique Values
+InventoryID,int64,0,40001
+ProductID,int64,0,2000
+WarehouseID,int64,0,200
+StockOnHand,int64,0,992
+ReorderLevel,float64,1,71
+SafetyStock,int64,0,10
+StockAgeDays,int64,0,366
+AvgMonthlySales,float64,0,4502
+StockStatus,object,0,4
+LastPurchasePrice,float64,0,27436
+LastUpdated,object,0,366

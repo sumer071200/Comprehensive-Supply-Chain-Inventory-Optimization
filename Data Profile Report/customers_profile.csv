@@ -1,0 +1,11 @@
+Columns,DataType,Missing Values,Unique Values
+CustomerID,object,0,20000
+CustomerName,object,1,17962
+Region,object,1,6
+Segment,object,0,2
+JoinDate,object,0,1096
+CustomerType,object,0,2
+LoyaltyScore,float64,0,975
+AvgOrderValue,float64,1,16951
+PreferredCategory,object,0,11
+SignupChannel,object,0,5

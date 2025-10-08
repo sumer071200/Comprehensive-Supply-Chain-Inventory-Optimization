@@ -1,0 +1,11 @@
+Columns,DataType,Missing Values,Unique Values
+VendorID,int64,0,500
+VendorName,object,3,497
+LeadTimeDays,int64,0,28
+ReliabilityScore,float64,2,39
+Region,object,0,7
+VendorType,object,0,2
+RatingScore,float64,0,32
+PaymentTerms,int64,0,3
+TotalDeliveredQty,int64,0,495
+TotalReturnedQty,int64,0,212

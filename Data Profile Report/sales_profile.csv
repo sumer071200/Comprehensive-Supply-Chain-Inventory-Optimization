@@ -1,0 +1,14 @@
+Columns,DataType,Missing Values,Unique Values
+SaleID,int64,0,200000
+Date,object,0,732
+ProductID,int64,0,2000
+CustomerID,int64,0,13443
+Quantity,int64,0,6
+SalesAmount,float64,1,7926
+Discount,float64,0,35763
+WarehouseID,int64,0,200
+SalesChannel,object,0,3
+OrderStatus,object,0,4
+ShippingCost,float64,0,4502
+PromoCode,object,40351,4
+PaymentMethod,object,0,3

@@ -1,0 +1,9 @@
+Columns,DataType,Missing Values,Unique Values
+WarehouseID,int64,0,200
+Location,object,0,200
+Capacity,int64,0,198
+WarehouseManager,object,0,200
+RegionType,object,0,2
+AvgDispatchTime,float64,0,177
+CapacityUsed,float64,0,58
+TemperatureControlled,object,0,3
