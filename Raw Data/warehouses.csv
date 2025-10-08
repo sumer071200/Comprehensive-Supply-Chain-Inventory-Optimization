@@ -1,0 +1,201 @@
+WarehouseID,Location,Capacity,WarehouseManager,RegionType,AvgDispatchTime,CapacityUsed,TemperatureControlled
+1,Robertfurt,15139,Natasha Kelley,Rural,2.21,0.93,No
+2,West Nicoleton,18465,Spencer Green,Urban,1.32,0.91,No
+3,Martinezview,18603,Amy Harvey,Rural,2.72,0.9,No
+4,East Josephshire,18292,Eric Acosta,Urban,1.58,0.87,Yes
+5,Port Tina,15197,Matthew Cabrera,Urban,2.37,0.95,Yes
+6,Graceville,17549,Daniel Hill,Rural,2.25,0.89,Yes
+7,Wilcoxville,16801,Jeffrey Wright,Urban,2.69,0.98,No
+8,West Davidborough,17241,Crystal Clark,Rural,2.56,0.86,Yes
+9,East Amandaport,18597,Cheryl Jones,Urban,1.99,0.92,No
+10,Port Suzanneburgh,15664,Kimberly Green,Rural,2.85,0.95,No
+11,Mendozafurt,19838,Lindsey Shaw,Urban,1.76,1.5,No
+12,Jenniferstad,16597,Joshua Burns,Urban,2.58,-0.1,Yes
+13,WEST JOHN,17614,Kelsey Harris,Urban,1.72,0.97,Yes
+14,PORT THERESA,17483,Debra Brown,Urban,2.12,0.9,Yes
+15,FRANKVIEW,15415,Jacqueline Molina,Urban,1.51,0.88,Yes
+16,HOWARDMOUTH,16256,Shawn Butler,Rural,1.04,0.86,No
+17,Priceport,19311,Valerie Hoffman,Rural,1.64,0.9,yEs
+18,New Kayla,17440,Meghan Pittman,Urban,-1.0,0.89,No
+19,Barretthaven,15670,Margaret Campbell,Urban,1.82,0.95,No
+20,Murphyhaven,17741,Elizabeth Smith,Urban,1.7,0.86,No
+21,New David,11820,Ashley Mclaughlin,Urban,9.02,0.47,No
+22,East Reneeberg,5298,Leah Gonzalez,Rural,8.16,0.55,No
+23,Leonardstad,14682,Keith Adams DVM,Rural,6.95,0.8,No
+24,East Vanessa,5763,Victoria Taylor,Urban,6.03,0.79,No
+25,North Ryan,14103,Samantha Jones,Urban,6.45,0.42,Yes
+26,Andersonside,9975,Richard Miller,Urban,8.91,0.78,No
+27,Lake Angela,9047,Zachary Solis,Rural,7.41,0.56,Yes
+28,Hannahchester,11464,Martin Rasmussen,Urban,9.77,0.41,Yes
+29,Lake Andrewchester,13099,Richard Allen,Urban,3.24,0.45,Yes
+30,East Richard,12738,Brian Guerra,Rural,8.13,0.52,Yes
+31,Chelseaport,5955,Melanie Brady,Rural,7.78,0.7,Yes
+32,Port Juliechester,7770,Kylie Nash,Urban,9.81,0.59,Yes
+33,Derekton,9801,Matthew Parker,Urban,3.18,0.68,Yes
+34,Matthewberg,13039,Matthew Camacho,Urban,9.23,0.47,No
+35,Sanfordstad,13178,Eric Jackson,Urban,4.39,0.47,Yes
+36,East Angela,10610,Tina Glover,Urban,4.86,0.59,Yes
+37,New Heatherburgh,5248,James Bruce,Urban,8.84,0.64,Yes
+38,New Williamville,6997,Mr. Michael Hernandez DDS,Urban,6.31,0.64,No
+39,Nathanborough,8161,James Carroll,Urban,4.36,0.71,No
+40,Kathyshire,12579,David Welch,Urban,3.51,0.69,No
+41,Baileybury,8691,Antonio Nelson,Rural,5.26,0.62,No
+42,Stevenborough,5885,Julie Pacheco,Urban,9.57,0.81,No
+43,Mccannshire,9938,Matthew Jimenez,Urban,8.2,0.8,No
+44,South Jill,14346,Maria Maddox,Rural,5.99,0.58,No
+45,Benderville,8664,Emily Cruz,Urban,5.72,0.48,Yes
+46,North Jennifer,7773,Richard Smith,Urban,6.19,0.78,Yes
+47,Wolfville,11029,Tara Thompson,Urban,9.35,0.64,Yes
+48,Judyhaven,8019,Alicia Thomas,Rural,6.04,0.47,No
+49,Diaztown,5731,Vincent Hawkins,Rural,7.64,0.57,No
+50,Jasminehaven,9954,Andrew Salazar,Rural,4.94,0.64,Yes
+51,Brownside,6031,Monica Diaz,Urban,6.49,0.5,No
+52,Dukehaven,12503,Cindy Edwards,Urban,6.72,0.51,Yes
+53,Bradville,7252,Thomas Lin,Urban,6.95,0.51,No
+54,South Taylorfurt,11907,Jillian White,Urban,7.26,0.46,No
+55,Michellestad,6479,Jason Ortega,Rural,6.14,0.78,Yes
+56,Arthurchester,11910,Ruben Swanson,Rural,3.74,0.46,Yes
+57,East Micheleland,10717,Michael Berry,Urban,3.85,0.47,No
+58,Clarkside,10610,Donald Santiago,Rural,5.82,0.79,No
+59,Juliemouth,9184,Miss Jessica Goodwin,Rural,8.76,0.55,Yes
+60,Lake Sabrinaton,7797,Joann Leon,Urban,9.1,0.67,No
+61,Kimberlybury,7920,Gabrielle Holmes,Rural,8.06,0.74,Yes
+62,West Emilyview,13546,Margaret Flores,Urban,4.25,0.73,Yes
+63,Riveraborough,6854,Stephanie Chan,Urban,3.45,0.41,No
+64,West Jennifer,10373,Shari Hayden,Urban,8.82,0.77,No
+65,North Thomas,7437,Jennifer Holmes,Urban,8.66,0.72,No
+66,Lake Jeremyside,12667,Teresa Martin,Rural,9.07,0.45,No
+67,Dawnburgh,7429,Corey Cooper,Rural,4.79,0.65,No
+68,Port Sandra,6941,John Thomas,Urban,9.83,0.8,No
+69,Kathleenhaven,9925,Robin Gordon,Rural,3.2,0.44,Yes
+70,Port Thomas,11196,Jason Gates,Rural,8.04,0.55,No
+71,Wolfbury,10772,Renee Park,Urban,5.29,0.76,Yes
+72,Cynthiaton,10475,Joshua Gray,Urban,4.48,0.68,Yes
+73,Burtonborough,11460,Samantha Shaw,Rural,8.95,0.66,Yes
+74,Petersonfort,9195,Heidi Clark,Rural,6.63,0.7,No
+75,Kington,11748,Jaime Robinson,Rural,5.23,0.58,No
+76,Lake Christopherton,6345,Benjamin Lewis,Urban,4.57,0.77,Yes
+77,Nancyshire,12353,Danielle Hendrix,Urban,8.47,0.83,Yes
+78,Port Christopherbury,14455,John Gonzalez,Rural,7.02,0.51,Yes
+79,Aprilstad,7365,Mr. Thomas Price,Rural,3.75,0.53,Yes
+80,West Ralphton,11584,Joseph Waters,Urban,3.56,0.72,No
+81,West James,14840,Debra Williams,Rural,4.82,0.67,Yes
+82,New Karinastad,10591,Catherine Hunt,Rural,5.95,0.73,No
+83,Bernardview,5861,Katherine Lee,Urban,8.79,0.49,No
+84,Tinashire,9162,Tony Erickson,Urban,3.91,0.81,Yes
+85,Lake Ashleyview,10161,Earl Lawson,Rural,5.8,0.46,No
+86,North Reneemouth,5604,Anita Henderson,Rural,3.16,0.81,Yes
+87,Stephaniestad,7264,Darrell Watson,Urban,8.65,0.66,No
+88,East Stacyview,13651,Christina Salazar,Urban,7.12,0.83,Yes
+89,Cherylberg,13071,Richard Nguyen,Urban,7.23,0.81,Yes
+90,Rebeccabury,5987,Jerome Scott,Rural,4.33,0.65,No
+91,West Kristinland,7771,Ronald Martin,Rural,9.29,0.75,No
+92,West Micheal,11041,Jody Adams,Rural,4.74,0.46,No
+93,Port Diane,13077,Rick White,Rural,4.73,0.49,No
+94,Adrianside,10276,David Robinson,Rural,7.11,0.55,No
+95,New Diane,14424,Christine Walker,Urban,3.7,0.47,No
+96,Bellside,12140,Ashley Ramirez,Rural,4.95,0.68,No
+97,Zunigaton,10392,Kaitlyn Kemp,Rural,7.15,0.75,Yes
+98,Beckerchester,13767,Wanda Jensen,Urban,4.81,0.62,No
+99,Jameschester,7336,Dana Johns,Urban,9.37,0.59,Yes
+100,Leefort,7464,Holly Lewis,Urban,3.93,0.72,No
+101,Billyfort,7126,Hector Boone,Rural,8.18,0.72,Yes
+102,Davidsonborough,14058,Misty Bishop,Urban,7.55,0.7,Yes
+103,Martinville,8828,Patrick Smith,Urban,3.43,0.69,Yes
+104,Williammouth,12112,Jesse Holland,Rural,4.35,0.42,Yes
+105,Barreraview,8316,Jessica Edwards,Urban,9.13,0.82,Yes
+106,Louishaven,5875,Juan Peterson,Urban,5.97,0.55,No
+107,Rachelshire,10830,Deanna Evans,Rural,4.33,0.66,Yes
+108,North Robertville,6179,Hayden Kelley,Rural,6.28,0.4,Yes
+109,Allenview,6485,Matthew Brown,Rural,5.42,0.46,Yes
+110,Carterburgh,10169,John Perry,Urban,3.88,0.8,No
+111,New Carrieport,12649,Samantha Yoder,Urban,3.57,0.59,No
+112,North Michael,7166,Melanie Gross,Urban,8.16,0.68,Yes
+113,Lake Ashleyton,6621,Bobby Aguilar,Urban,8.37,0.41,Yes
+114,Rodriguezton,13624,Darren Wilson,Urban,5.46,0.59,No
+115,Lake Benjamin,6474,Bradley Patterson,Rural,7.83,0.6,No
+116,Lake Kimberly,13202,Matthew Ryan,Rural,6.07,0.44,Yes
+117,Catherinestad,14131,Susan Gonzales,Urban,3.79,0.82,Yes
+118,New Tammyfurt,13434,Sarah Tyler,Urban,8.5,0.42,No
+119,New Tammytown,9295,James Kelly,Rural,6.88,0.58,Yes
+120,Port William,10337,Toni Cunningham,Urban,6.54,0.66,Yes
+121,Thompsonshire,14341,Miss Pamela Stein,Rural,5.13,0.66,No
+122,Port Melindabury,11934,Rodney Roberson,Rural,3.6,0.71,Yes
+123,New Robyn,12395,Lisa Sanchez,Urban,3.85,0.46,Yes
+124,Port Brianmouth,6491,Nancy White,Rural,9.72,0.51,No
+125,South Melissa,12670,Sheila Hopkins,Urban,3.5,0.61,Yes
+126,North Erin,6163,Bradley Clarke,Urban,7.59,0.79,No
+127,Port Megan,12095,Brianna Clark,Rural,8.2,0.79,Yes
+128,Kristenshire,14161,David Hudson,Urban,6.23,0.76,Yes
+129,North Danaburgh,11894,Patrick Gibson,Urban,4.33,0.68,Yes
+130,Port Michael,13351,Lisa Marquez,Urban,9.93,0.54,No
+131,South Jeffreyview,8337,Robert Jennings,Urban,7.85,0.52,Yes
+132,Jasonport,7480,Ronald Foster,Rural,3.64,0.76,No
+133,Lake Daniel,11872,Patrick Robinson,Urban,4.07,0.56,No
+134,Mikeville,11807,Elizabeth Gonzalez,Rural,4.33,0.62,Yes
+135,New Amandaville,14106,David Jones,Urban,7.9,0.59,Yes
+136,East Brianstad,12865,Jessica Gomez,Urban,4.14,0.57,Yes
+137,Port Shaun,6054,Regina Rivas,Urban,8.74,0.53,No
+138,West Jonathan,14919,Ashley French,Urban,5.43,0.8,No
+139,New Danaport,8883,Vincent Hill,Urban,6.67,0.84,No
+140,Lake Kevinhaven,14667,Aimee Lowe,Urban,4.81,0.62,Yes
+141,South Peggystad,9747,Donald Brown,Urban,3.85,0.52,Yes
+142,Rachelton,11315,Eric Gibson,Rural,3.59,0.82,No
+143,Kathrynstad,5968,Tara Rodriguez,Urban,9.16,0.7,No
+144,Angelaport,12121,Jesus Richardson,Rural,3.68,0.66,Yes
+145,Lesliefurt,7647,Kevin Nunez,Rural,7.78,0.69,No
+146,Petertown,9858,Jesse Ayala,Urban,3.45,0.63,No
+147,Martinborough,10260,Roger Marshall,Urban,7.55,0.82,No
+148,Port Elizabethview,7852,Sarah Lee,Urban,3.97,0.61,No
+149,New Coreychester,10892,Jeffrey Greer,Rural,7.34,0.61,Yes
+150,New Zachary,10906,Patrick Tucker,Urban,8.63,0.47,Yes
+151,Amandastad,12553,Natalie Thompson,Urban,4.93,0.73,No
+152,Camposbury,13201,Sierra Rogers,Urban,4.99,0.67,Yes
+153,West Angelatown,11843,Ernest Farley,Rural,8.32,0.58,No
+154,North Tammyfurt,10352,Crystal Green,Rural,8.84,0.46,No
+155,East Sheena,9523,Tracy Mccoy,Rural,8.84,0.43,No
+156,East Donald,11313,Scott Hudson,Urban,6.72,0.83,Yes
+157,Holdershire,9861,Tracy Lopez,Rural,3.76,0.5,No
+158,North Albert,10203,Beverly Castaneda,Urban,6.49,0.69,No
+159,South Chloefurt,7379,Julie Cruz,Urban,8.14,0.56,No
+160,Seanmouth,11792,Lisa Smith,Urban,8.42,0.64,No
+161,North Joanville,14502,Pamela Edwards,Rural,5.58,0.79,No
+162,Bakerland,8860,Jenna Flowers,Rural,8.79,0.45,Yes
+163,South Bobmouth,9007,Amber Hernandez,Urban,9.97,0.62,No
+164,Lake John,11375,Pamela Cooper,Rural,5.22,0.63,Yes
+165,Lake Toniport,6053,Joanna Ochoa,Rural,3.69,0.77,No
+166,Sullivanburgh,11786,Mr. Wayne Kennedy,Rural,4.71,0.5,No
+167,New Marissamouth,13799,Jacqueline Drake,Rural,4.68,0.77,No
+168,West William,14058,Belinda Garcia,Urban,5.35,0.63,No
+169,Jamesland,12426,John Cain,Rural,3.44,0.65,No
+170,Hamiltonmouth,14812,Erica Harper,Urban,3.33,0.84,No
+171,East Russellburgh,5643,Linda Owens,Urban,6.99,0.69,No
+172,New Jasonstad,7391,Barbara David,Rural,5.46,0.68,Yes
+173,East Stevenhaven,6642,Scott Lewis,Urban,6.09,0.72,Yes
+174,North Sarahhaven,11367,Jordan Campos,Rural,3.32,0.66,No
+175,Kristenchester,14590,Alyssa Kennedy,Urban,9.54,0.55,Yes
+176,Lauraport,10912,Denise Matthews,Urban,6.2,0.58,No
+177,South Michael,5624,Bradley Cochran,Urban,4.37,0.82,No
+178,West Jason,14875,Shawn Schmidt,Rural,7.44,0.58,Yes
+179,Bradbury,11284,Leslie Koch,Rural,3.97,0.71,No
+180,West Jessica,11680,Melissa Johnson,Urban,9.37,0.81,No
+181,New Nathan,9613,Justin Hernandez,Urban,7.34,0.52,Yes
+182,North Jamesburgh,11469,Lisa Hernandez,Urban,8.73,0.65,No
+183,Jenniferville,12708,Emily Gonzales,Rural,4.75,0.54,Yes
+184,Justinmouth,5807,Joseph Nelson,Rural,8.31,0.59,Yes
+185,Lisaland,9979,Melanie Odom,Urban,3.76,0.74,Yes
+186,Traceytown,7842,Gregory Frazier,Rural,7.66,0.8,Yes
+187,East Virginiahaven,7320,Mark Ellis,Urban,6.57,0.5,No
+188,New Barbara,11950,Dustin Thomas,Rural,4.45,0.58,Yes
+189,North Stacey,8977,Regina Beard,Rural,5.93,0.68,No
+190,Mckeeview,8702,Thomas Jacobson,Urban,9.34,0.76,No
+191,Smithville,6225,Christina Walker,Urban,6.83,0.56,No
+192,Mejiastad,5010,Kayla Lee,Rural,5.69,0.56,No
+193,Davidbury,6680,Holly Mcintosh,Urban,7.67,0.45,No
+194,Davidborough,8649,Daniel Moss,Rural,3.55,0.82,Yes
+195,Romanville,14791,Erik Day,Rural,7.77,0.79,No
+196,Alvaradoland,9774,Dawn Robertson,Urban,3.28,0.46,No
+197,Robinsonville,7689,Aimee Marshall,Urban,7.47,0.65,Yes
+198,Danielleville,6813,Justin Cook,Urban,8.64,0.7,Yes
+199,North Lisaport,8928,Douglas Spencer,Urban,5.13,0.67,No
+200,Lake Markfort,12963,Robert Moore,Urban,6.84,0.68,No
