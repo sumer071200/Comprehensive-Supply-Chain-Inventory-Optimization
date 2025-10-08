@@ -1,0 +1,2001 @@
+ProductID,ProductName,Category,Brand,UnitPrice,CostPrice,VendorID,ProductStatus,LaunchDate,SupplierCategory,WeightVolume
+1,HarperCollins Sci-Fi Paperback,Books,HarperCollins,30.49,24.38,17.0,Active,2022-06-22,Local,0.57
+2,Penguin Random House Fiction Novel,Books,Penguin Random House,53.57,31.61,42.0,Active,2024-09-23,International,0.66
+3,Clorox Glass Cleaner,Household,Clorox,31.78,26.07,39.0,Active,2021-06-21,International,4.74
+4,Columbia Sleeping Bag,Sports & Outdoors,Columbia,261.04,156.83,30.0,Active,2021-12-04,International,8.33
+5,Penguin Random House Fantasy Series,Books,Penguin Random House,15.33,13.59,43.0,Active,2021-02-27,Local,0.72
+6,Fitbit Electric Toothbrush,Health & Wellness,Fitbit,36.28,23.02,5.0,Active,2022-01-23,Local,0.9
+7,Ashley Furniture Media Console,Furniture,Ashley Furniture,404.29,325.93,34.0,Active,2021-12-06,International,82.21
+8,Yeti Sleeping Bag,Sports & Outdoors,Yeti,121.39,95.72,9.0,Active,2022-07-14,International,2.96
+9,Columbia Soft Cooler,Sports & Outdoors,Columbia,230.89,180.84,38.0,Active,2023-08-15,Local,7.4
+10,Ashley Furniture Sectional Sofa,Furniture,Ashley Furniture,1373.81,883.91,43.0,Active,2021-06-01,Local,69.19
+11,Duplicate Product Name,Home Goods,Vitamix,99.17,78.98,9.0,Active,2022-07-11,Local,13.78
+12,Duplicate Product Name,Beauty,Aveeno,36.67,29.25,15.0,Active,2022-07-16,International,0.23
+13,Duplicate Product Name,Books,HarperCollins,35.87,24.69,8.0,Active,2023-08-28,Local,0.96
+14,,Household,Clorox,26.27,17.15,44.0,Active,2024-05-24,Local,4.34
+15,  Leading Space Product  ,Grocery,Starbucks,35.12,30.1,37.0,Discontinued,2023-03-18,Local,1.75
+16,Patagonia Slim Jeans,Apparel,Patagonia,94.86,59.32,12.0,Active,2022-06-28,Local,0.39
+17,Penguin Random House Self-Help Guide,Books,Penguin Random House,37.03,30.06,49.0,Active,2023-04-23,Local,0.6
+18,Tide Fabric Softener,Household,Tide,7.68,4.45,35.0,Active,2023-12-01,Local,1.95
+19,Califia Farms Black Tea Bags,Grocery,Califia Farms,53.18,42.2,41.0,Active,2020-12-23,International,0.76
+20,Yeti Portable Hammock,Sports & Outdoors,Yeti,192.03,101.03,11.0,Active,2023-06-08,International,4.83
+21,HarperCollins Children's Book,Books,HarperCollins,-10.0,31.0,44.0,Active,2022-05-17,International,0.55
+22,Vitamix Cordless Vacuum,Home Goods,Vitamix,100000.0,43.98,15.0,Active,2022-10-20,International,9.26
+23,Adidas Graphic T-Shirt,Apparel,Adidas,168.67,253.005,3.0,Active,2023-10-01,International,0.97
+24,Samsung Gaming Laptop,Electronics,Samsung,147.98,76.85,2.0,Active,2021-05-22,Local,0.71
+25,Swiffer Fabric Softener,Household,Swiffer,13.24,10.25,45.0,Active,2020-11-15,Local,0.95
+26,Fitbit Resistance Bands,Health & Wellness,Fitbit,99.72,66.57,9.0,Active,2024-02-22,Local,1.89
+27,Nike Down Vest,Apparel,Nike,127.06,73.68,39.0,Active,2023-06-18,Local,0.38
+28,Columbia Insulated Bottle,Sports & Outdoors,Columbia,79.6,55.6,36.0,Active,2022-07-03,International,3.64
+29,Samsung Fitness Watch,Electronics,Samsung,135.08,112.67,8.0,Active,2021-04-03,Local,0.54
+30,Nike Running Shorts,Apparel,Nike,206.43,122.3,42.0,Discontinued,2021-09-10,Local,0.75
+31,All-Clad Aromatherapy Diffuser,otheR,All-Clad,518.0,425.09,24.0,Active,2023-05-01,International,2.33
+32,LogiTech Gaming Laptop,Electronics,LogiTech,650.1,493.35,43.0,Active,2022-03-14,International,4.78
+33,Adidas Down Vest,Apparel,Adidas,188.92,103.06,12.0,Active,2024-07-19,Local,1.27
+34,Tide Floor Cleaner,Household,Tide,31.83,17.35,11.0,Active,2020-11-17,Local,4.74
+35,Patagonia Hooded Sweatshirt,Apparel,Patagonia,207.69,170.49,31.0,Active,2021-05-13,Local,0.63
+36,Penguin Random House Self-Help Guide,Books,Penguin Random House,53.82,47.87,47.0,Active,2022-07-20,International,0.38
+37,Clorox Kitchen Cleaner,Household,Clorox,9.88,6.18,42.0,Active,2022-03-26,International,3.95
+38,Penguin Random House Self-Help Guide,Books,Penguin Random House,59.01,50.11,43.0,Active,2022-07-11,International,0.73
+39,IKEA Media Console,Furniture,IKEA,800.61,616.88,43.0,Active,2021-01-21,International,60.25
+40,LogiTech Mesh Router,Electronics,LogiTech,509.29,357.64,11.0,Active,2021-04-20,Local,0.91
+41,Tide Heavy-Duty Trash Bags,Household,Tide,16.53,8.6,,Active,2022-03-21,International,2.31
+42,Patagonia Wool Scarf,Apparel,Patagonia,116.62,79.21,37.0,Active,2022-01-03,Local,0.27
+43,IKEA Media Console,Furniture,IKEA,288.57,148.42,27.0,Active,2021-11-12,International,81.26
+44,Ashley Furniture Office Desk,Furniture,Ashley Furniture,1351.65,787.66,36.0,Active,2024-08-04,International,42.7
+45,Starbucks Black Tea Bags,Grocery,Starbucks,29.91,22.37,50.0,Active,2020-11-07,International,1.49
+46,Levi's Down Vest,Apparel,Levi's,30.43,25.32,23.0,Discontinued,2021-06-29,Local,0.83
+47,Nike Graphic T-Shirt,Apparel,Nike,204.89,113.96,32.0,Active,2022-10-27,International,0.25
+48,Califia Farms Greek Yogurt,Grocery,Califia Farms,15.65,9.17,26.0,Active,2024-05-27,Local,0.81
+49,Samsung Fitness Watch,Electronics,Samsung,640.29,351.7,38.0,Active,2021-03-22,Local,2.99
+50,Vitamix Water Filter,Home Goods,Vitamix,47.41,24.63,48.0,Discontinued,2023-11-07,International,7.76
+51,Dyson Coffee Maker,Home Goods,Dyson,366.1,302.43,47.0,inactive,2023-07-26,International,9.49
+52,Hasbro Building Blocks,Toys,Hasbro,75.88,65.74,39.0,Active,2021-08-10,Local,2.9
+53,Clorox Dish Soap,Household,Clorox,12.68,9.89,39.0,Active,2023-03-13,Local,3.66
+54,Mattel Remote Drone,Toys,Mattel,50.21,37.64,14.0,Active,2023-07-11,Local,2.12
+55,Mattel Puzzle Set,Toys,Mattel,111.02,87.06,21.0,Active,2024-09-28,Local,1.87
+56,Ashley Furniture Office Desk,Furniture,Ashley Furniture,1334.59,1098.8,28.0,Active,2021-07-20,Local,23.08
+57,Starbucks Whole Grain Bread,Grocery,Starbucks,58.14,51.94,11.0,Active,2021-04-17,Local,0.31
+58,Bertolli Artisanal Bread,Grocery,Bertolli,9.68,5.24,29.0,Active,2021-01-17,International,1.76
+59,Ashley Furniture Dining Table,Furniture,Ashley Furniture,470.75,289.54,45.0,Active,2021-06-10,International,44.88
+60,LEGO Classic Board Game,Toys,LEGO,24.15,14.04,17.0,Active,2023-08-09,International,1.5
+61,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,1169.4,930.12,35.0,Active,2025-11-01,International,27.41
+62,Dyson Toaster Oven,Home Goods,Dyson,86.33,68.55,12.0,Active,2023-12-29,Local,4.91
+63,All-Clad Coffee Maker,Home Goods,All-Clad,369.11,185.39,17.0,Active,2024-08-14,International,1.56
+64,Penguin Random House Biography,Books,Penguin Random House,49.81,37.17,41.0,Active,2024-09-11,Local,0.7
+65,Adidas Polo Shirt,Apparel,Adidas,132.45,93.81,12.0,Active,2023-06-03,Local,0.86
+66,Adidas Graphic T-Shirt,Apparel,Adidas,73.13,55.97,14.0,Active,2023-08-03,Local,1.43
+67,Hasbro Building Blocks Set,Toys,Hasbro,149.57,133.48,49.0,Active,2022-12-13,International,1.5
+68,Penguin Random House Fantasy Series,Books,Penguin Random House,58.15,49.68,44.0,Active,2021-11-29,International,0.38
+69,Mattel Starship Set,Toys,Mattel,58.56,48.54,34.0,Active,2021-12-13,International,1.5
+70,Fitbit Foam Roller,Health & Wellness,Fitbit,47.05,25.07,33.0,Active,2021-05-19,International,2.34
+71,Samsung Bluetooth Earbuds,Electronics,Samsung,119.19,89.61,43.0,Active,2023-08-03,Internationl,4.19
+72,Mattel Remote Drone,Toys,Mattel,134.53,108.98,48.0,Active,2023-07-21,International,2.32
+73,Dell HD Webcam,Electronics,Dell,558.89,299.01,3.0,Active,2021-06-12,International,2.83
+74,Starbucks Granola Bars,Grocery,Starbucks,35.02,26.34,29.0,Active,2022-03-13,Local,1.41
+75,Samsung Fitness Watch,Electronics,Samsung,561.19,450.29,5.0,Active,2021-08-24,International,0.46
+76,Adidas Cargo Pants,Apparel,Adidas,183.44,136.23,20.0,Active,2024-09-09,International,0.63
+77,Dell USB-C Hub,Electronics,Dell,180.52,100.11,15.0,Active,2023-12-02,International,2.77
+78,Vitamix Cordless Vacuum,Home Goods,Vitamix,420.9,319.54,47.0,Discontinued,2021-09-11,Local,13.25
+79,Nike Down Vest,Apparel,Nike,30.98,20.37,39.0,Active,2022-09-22,Local,0.39
+80,CeraVe Cleansing Balm,Beauty,CeraVe,55.23,46.43,42.0,Active,2022-03-12,Local,0.35
+81,Califia Farms Spaghetti Sauce,Grocery,Califia Farms,19.74,16.6,37.0,Active,2023-01-15,International,1.99
+82,IKEA Dining Table,Furniture,IKEA,542.38,325.58,5.0,Active,2022-08-14,Local,95.64
+83,Dyson Coffee Maker,Home Goods,Dyson,408.79,251.02,7.0,Active,2024-09-06,Local,7.8
+84,HarperCollins Fiction Novel,Books,HarperCollins,46.21,33.56,10.0,Active,2021-04-08,Local,0.6
+85,CeraVe Charcoal Face Mask,Beauty,CeraVe,91.6,72.91,46.0,Active,2024-04-14,International,0.15
+86,Tide Glass Cleaner,Household,Tide,24.2,15.06,50.0,Active,2021-01-05,Local,3.23
+87,Dyson Water Filter,Home Goods,Dyson,154.02,131.62,47.0,Active,2022-05-05,Local,1.26
+88,IKEA Sectional Sofa,Furniture,IKEA,1247.07,825.63,38.0,Active,2023-08-14,International,59.64
+89,Hasbro Building Blocks,Toys,Hasbro,105.87,68.43,10.0,Active,2022-08-31,International,2.28
+90,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,323.12,212.84,6.0,Active,2022-05-24,International,12.87
+91,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,49.07,33.29,9.0,Active,2022-05-22,International,0.76
+92,Tide Heavy-Duty Trash Bags,Household,Tide,9.02,6.27,49.0,Active,2023-01-18,Local,0.69
+93,Hasbro Plush Toy,Toys,Hasbro,71.98,61.37,30.0,Active,2021-04-02,International,0.58
+94,Ashley Furniture Media Console,Furniture,Ashley Furniture,1277.08,934.12,17.0,Active,2022-01-07,Local,44.07
+95,IKEA Dining Table,Furniture,IKEA,847.49,753.48,25.0,Active,2021-01-17,Local,83.55
+96,Tide Glass Cleaner,Household,Tide,40.77,28.57,1.0,Active,2022-08-12,Local,0.85
+97,Califia Farms Organic Coffee,Grocery,Califia Farms,20.12,14.91,24.0,Active,2022-10-26,International,0.95
+98,Patagonia Rain Jacket,Apparel,Patagonia,161.67,94.46,31.0,Active,2021-04-06,International,0.13
+99,Dyson Toaster Oven,Home Goods,Dyson,373.75,280.99,9.0,Active,2024-01-25,Local,1.78
+100,Dyson Toaster Oven,Home Goods,Dyson,576.82,512.04,39.0,Active,2022-12-15,International,11.19
+101,Levi's Graphic T-Shirt,Apparel,Levi's,117.59,99.59,31.0,Active,2023-02-06,International,0.94
+102,Dyson High-Speed Blender,Home Goods,Dyson,411.11,233.14,17.0,Active,2023-10-27,International,9.35
+103,Starbucks Olive Oil,Grocery,Starbucks,33.52,16.98,7.0,Active,2021-04-07,International,1.43
+104,Penguin Random House Cookbook,Books,Penguin Random House,22.98,17.0,40.0,Active,2022-10-05,Local,0.83
+105,Swiffer Air Freshener,Household,Swiffer,12.39,8.87,39.0,Active,2024-03-22,International,3.55
+106,Hasbro Puzzle Set,Toys,Hasbro,69.72,54.32,3.0,Active,2024-01-28,International,1.6
+107,Aveeno Lip Balm,Beauty,Aveeno,56.49,39.03,17.0,Active,2022-10-27,International,0.21
+108,Columbia Sleeping Bag,Sports & Outdoors,Columbia,87.12,69.47,46.0,Active,2021-12-19,Local,5.44
+109,IKEA Bookshelf,Furniture,IKEA,1078.49,715.62,21.0,Active,2021-05-25,Local,62.68
+110,Hasbro Plush Toy,Toys,Hasbro,94.5,57.67,40.0,Active,2024-06-27,International,1.42
+111,Clorox Air Freshener,Household,Clorox,21.38,14.83,36.0,Discontinued,2021-08-26,Local,3.98
+112,Dyson Air Fryer,Home Goods,Dyson,111.09,75.39,15.0,Active,2024-07-16,Local,4.0
+113,Aveeno Sunscreen,Beauty,Aveeno,30.67,15.4,41.0,Active,2022-10-29,Local,0.47
+114,Nike Graphic T-Shirt,Apparel,Nike,81.3,43.25,24.0,Active,2021-11-19,Local,1.48
+115,Ashley Furniture Office Desk,Furniture,Ashley Furniture,1110.67,580.86,39.0,Active,2021-01-24,Local,54.49
+116,Bertolli Smoked Salmon,Grocery,Bertolli,70.33,43.21,34.0,Active,2021-07-14,Local,1.13
+117,Penguin Random House Self-Help Guide,Books,Penguin Random House,45.33,27.0,24.0,Active,2024-07-29,Local,1.0
+118,L'Oréal Cleansing Balm,Beauty,L'Oréal,54.53,38.56,13.0,Active,2021-11-05,Local,0.14
+119,Mattel Starship Set,Toys,Mattel,66.88,39.49,18.0,Discontinued,2023-04-02,Local,1.39
+120,Renpho Foam Roller,Health & Wellness,Renpho,74.41,53.83,7.0,Active,2023-03-17,Local,0.44
+121,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,126.18,75.72,37.0,Active,2021-02-14,Local,1.5
+122,L'Oréal Body Lotion,Beauty,L'Oréal,81.46,68.82,38.0,Active,2023-04-25,Local,0.25
+123,IKEA Two-Seat Sofa,Furniture,IKEA,1230.22,1085.27,27.0,Active,2023-02-12,Local,84.9
+124,Renpho Smart Jump Rope,Health & Wellness,Renpho,73.36,60.77,48.0,Active,2023-01-27,International,1.48
+125,Bertolli Artisanal Bread,Grocery,Bertolli,25.66,19.84,48.0,Discontinued,2021-06-08,Local,0.56
+126,Starbucks Black Tea Bags,Grocery,Starbucks,21.46,17.9,13.0,Active,2023-04-01,Local,1.6
+127,Patagonia Hooded Sweatshirt,Apparel,Patagonia,149.7,126.17,49.0,Discontinued,2024-05-10,International,0.62
+128,Swiffer Kitchen Cleaner,Household,Swiffer,40.08,22.97,32.0,Active,2022-02-06,Local,2.29
+129,All-Clad Handheld Steamer,Home Goods,All-Clad,336.78,232.83,28.0,Active,2024-06-11,Local,6.51
+130,Vitamix Air Fryer,Home Goods,Vitamix,586.96,415.15,45.0,Active,2020-11-30,Local,10.44
+131,Penguin Random House Historical Fiction,Books,Penguin Random House,29.64,25.04,40.0,Active,2024-03-15,Local,0.49
+132,Neutrogena Cleansing Balm,Beauty,Neutrogena,32.93,19.24,28.0,Active,2021-01-27,Local,0.44
+133,Clorox Fabric Softener,Household,Clorox,28.93,22.4,37.0,Active,2024-07-17,International,4.12
+134,Columbia Portable Hammock,Sports & Outdoors,Columbia,88.97,49.81,48.0,Active,2023-11-01,Local,5.25
+135,Mattel Remote Drone,Toys,Mattel,62.76,38.91,32.0,Active,2021-10-22,Local,1.38
+136,Anker External SSD,Electronics,Anker,624.33,521.68,31.0,Active,2021-08-04,International,1.37
+137,Mattel Building Blocks Set,Toys,Mattel,141.31,90.11,17.0,Active,2023-01-14,Local,2.13
+138,Bertolli Granola Bars,Grocery,Bertolli,46.37,33.17,42.0,Discontinued,2023-03-23,Local,0.79
+139,Swiffer Floor Cleaner,Household,Swiffer,24.26,15.83,6.0,Active,2020-11-14,International,1.15
+140,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,719.45,524.23,40.0,Active,2024-04-21,Local,24.58
+141,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,78.67,47.75,46.0,Active,2022-12-07,Local,0.28
+142,HarperCollins Cookbook,Books,HarperCollins,33.63,28.31,12.0,Active,2023-04-26,Local,0.48
+143,Califia Farms Greek Yogurt,Grocery,Califia Farms,34.3,18.03,7.0,Active,2021-12-16,Local,0.25
+144,LEGO Classic Board Game,Toys,LEGO,35.75,20.1,40.0,Active,2021-09-23,International,1.14
+145,Optimum Nutrition Smart Jump Rope,Health & Wellness,Optimum Nutrition,102.38,72.76,9.0,Active,2023-12-24,Local,1.13
+146,Tide Fabric Softener,Household,Tide,44.06,38.51,35.0,Active,2022-05-17,Local,4.77
+147,Dyson Water Filter,Home Goods,Dyson,376.66,301.16,41.0,Active,2022-07-25,Local,9.96
+148,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,83.91,68.96,15.0,Active,2023-07-04,Local,0.85
+149,LogiTech Speaker,Electronics,LogiTech,428.24,359.37,49.0,Active,2021-05-19,Local,0.14
+150,Tide Heavy-Duty Trash Bags,Household,Tide,7.84,6.42,28.0,Active,2022-05-31,International,2.97
+151,Yeti Hiking Poles,Sports & Outdoors,Yeti,152.24,86.06,16.0,Active,2022-08-10,Local,4.09
+152,Patagonia Hiking Boots,Apparel,Patagonia,151.94,122.44,34.0,Discontinued,2022-02-10,International,1.06
+153,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,707.42,405.33,5.0,Active,2021-04-28,International,65.6
+154,HarperCollins Fantasy Series,Books,HarperCollins,23.45,13.15,2.0,Discontinued,2024-03-12,Local,0.98
+155,Renpho Yoga Mat,Health & Wellness,Renpho,113.69,57.22,47.0,Active,2022-01-10,Local,0.73
+156,Optimum Nutrition Bathroom Scale,Health & Wellness,Optimum Nutrition,149.74,116.61,30.0,Active,2024-09-13,Local,2.28
+157,Sony Headphones,Electronics,Sony,598.57,429.34,5.0,Active,2022-02-17,International,1.33
+158,LogiTech Smart Mouse,Electronics,LogiTech,732.85,439.41,46.0,Active,2022-05-06,Local,3.71
+159,Starbucks Whole Grain Bread,Grocery,Starbucks,57.13,40.47,7.0,Discontinued,2023-10-17,Local,1.43
+160,CeraVe Cleansing Balm,Beauty,CeraVe,76.34,60.91,3.0,Active,2022-10-23,Local,0.29
+161,Starbucks Olive Oil,Grocery,Starbucks,67.41,39.58,43.0,Active,2021-03-05,International,0.78
+162,Fitbit Smart Scale,Health & Wellness,Fitbit,37.76,19.01,16.0,Active,2021-09-19,International,1.48
+163,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,472.79,266.22,16.0,Active,2021-03-29,International,14.03
+164,IKEA Dining Table,Furniture,IKEA,230.7,129.55,42.0,Active,2022-07-19,Local,53.91
+165,Mattel Building Blocks,Toys,Mattel,118.98,94.38,29.0,Active,2021-04-24,Local,2.26
+166,Dell External SSD,Electronics,Dell,551.97,341.05,36.0,Active,2020-12-13,Local,1.01
+167,L'Oréal Cleansing Balm,Beauty,L'Oréal,41.84,36.22,39.0,Active,2024-07-13,Local,0.16
+168,Fitbit Smart Scale,Health & Wellness,Fitbit,69.31,56.17,1.0,Active,2024-03-16,International,2.66
+169,CeraVe Face Wash,Beauty,CeraVe,46.27,35.32,5.0,Active,2022-06-03,Local,0.31
+170,LEGO Starship Set,Toys,LEGO,100.66,66.83,21.0,Active,2024-08-07,Local,2.08
+171,All-Clad Air Fryer,Home Goods,All-Clad,529.79,287.58,13.0,Active,2024-05-11,Local,9.98
+172,Ashley Furniture Office Desk,Furniture,Ashley Furniture,859.86,632.96,45.0,Active,2024-01-02,Local,74.61
+173,Bertolli Greek Yogurt,Grocery,Bertolli,40.67,27.95,6.0,Active,2024-06-26,Local,1.54
+174,Aveeno Body Lotion,Beauty,Aveeno,95.31,67.82,18.0,Active,2023-08-20,International,0.13
+175,LEGO Remote Drone,Toys,LEGO,35.41,25.24,15.0,Active,2021-07-05,Local,0.97
+176,Mattel Puzzle Set,Toys,Mattel,93.66,50.78,48.0,Active,2021-05-21,Local,1.54
+177,Levi's Wool Scarf,Apparel,Levi's,184.53,121.9,36.0,Active,2024-09-25,Local,1.5
+178,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,68.63,57.51,21.0,Active,2022-08-14,International,0.43
+179,Penguin Random House Bestseller Novel,Books,Penguin Random House,40.34,26.22,14.0,Active,2024-04-07,International,0.55
+180,Tide Glass Cleaner,Household,Tide,7.51,6.71,3.0,Active,2022-09-27,Local,4.97
+181,Sony Gaming Laptop,Electronics,Sony,739.47,622.85,14.0,Active,2021-02-09,International,3.48
+182,Mattel Action Figure,Toys,Mattel,93.43,52.5,37.0,Active,2022-04-28,Local,0.67
+183,Penguin Random House Biography,Books,Penguin Random House,25.48,13.68,20.0,Active,2022-07-31,International,0.81
+184,Clorox Disinfectant Wipes,Household,Clorox,25.81,20.16,45.0,Active,2021-09-17,Local,3.39
+185,HarperCollins Cookbook,Books,HarperCollins,18.53,16.1,4.0,Active,2023-01-31,International,0.6
+186,Bertolli Granola Bars,Grocery,Bertolli,51.56,44.93,39.0,Active,2020-12-11,International,0.3
+187,Sony Headphones,Electronics,Sony,439.45,277.18,10.0,Active,2021-11-16,Local,3.4
+188,Swiffer Laundry Pods,Household,Swiffer,29.07,17.12,6.0,Active,2023-02-20,Local,1.09
+189,Swiffer Floor Cleaner,Household,Swiffer,35.45,23.39,36.0,Active,2024-02-14,Local,3.98
+190,Vitamix Water Filter,Home Goods,Vitamix,355.41,233.91,32.0,Active,2023-06-10,Local,14.96
+191,Califia Farms Greek Yogurt,Grocery,Califia Farms,12.34,8.29,50.0,Active,2021-11-22,Local,0.4
+192,Columbia Portable Grill,Sports & Outdoors,Columbia,128.93,82.23,21.0,Active,2020-10-12,International,2.11
+193,HarperCollins Cookbook,Books,HarperCollins,43.04,22.29,29.0,Active,2021-03-07,Local,0.56
+194,Nike Down Vest,Apparel,Nike,77.39,67.38,40.0,Active,2021-04-14,International,0.12
+195,Adidas Hiking Boots,Apparel,Adidas,117.76,74.51,2.0,Active,2021-10-22,Local,0.86
+196,Hasbro Plush Toy,Toys,Hasbro,101.94,79.31,10.0,Active,2022-03-19,Local,2.75
+197,Sony Smart Mouse,Electronics,Sony,189.97,110.24,19.0,Active,2022-05-13,Local,2.38
+198,Patagonia Cargo Pants,Apparel,Patagonia,158.77,133.5,43.0,Active,2020-12-06,International,0.13
+199,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,294.7,262.47,33.0,Active,2020-12-14,Local,8.73
+200,Levi's Hiking Boots,Apparel,Levi's,68.78,49.82,30.0,Active,2022-12-30,Local,1.39
+201,L'Oréal Lip Balm,Beauty,L'Oréal,35.57,18.05,81.0,Active,2022-03-14,Local,0.22
+202,Renpho Resistance Bands,Health & Wellness,Renpho,68.19,44.66,450.0,Discontinued,2021-11-26,International,2.84
+203,Califia Farms Spicy Salsa,Grocery,Califia Farms,20.38,15.55,202.0,Active,2022-04-18,Local,1.93
+204,IKEA Sectional Sofa,Furniture,IKEA,475.6,266.86,294.0,Discontinued,2022-07-20,International,39.64
+205,All-Clad Cordless Blender,Home Goods,All-Clad,271.41,194.48,298.0,Active,2022-12-13,International,5.33
+206,LEGO Action Figure,Toys,LEGO,51.56,45.9,466.0,Active,2024-01-19,International,2.78
+207,Nike Polo Shirt,Apparel,Nike,43.94,37.43,430.0,Active,2023-03-30,International,1.33
+208,Columbia Soft Cooler,Sports & Outdoors,Columbia,102.53,84.96,479.0,Active,2023-03-12,International,1.94
+209,Levi's Graphic T-Shirt,Apparel,Levi's,44.02,39.37,391.0,Active,2021-04-06,International,0.96
+210,Califia Farms Spaghetti Sauce,Grocery,Califia Farms,35.93,19.11,184.0,Active,2021-02-19,Local,1.72
+211,Ashley Furniture Office Desk,Furniture,Ashley Furniture,265.58,185.0,199.0,Active,2022-03-30,Local,12.9
+212,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,33.92,30.37,344.0,Active,2024-09-11,Local,2.79
+213,HarperCollins Self-Help Guide,Books,HarperCollins,30.64,20.93,444.0,Active,2022-12-24,Local,0.33
+214,L'Oréal Hydrating Serum,Beauty,L'Oréal,49.75,36.26,381.0,Active,2022-03-19,International,0.38
+215,LEGO Starship Set,Toys,LEGO,53.39,45.44,424.0,Active,2021-04-29,Local,1.75
+216,Hasbro Building Blocks,Toys,Hasbro,58.87,52.1,323.0,Active,2023-02-28,Local,2.69
+217,Clorox Floor Mop,Household,Clorox,15.56,13.5,314.0,Active,2022-05-10,International,2.59
+218,Nike Wool Scarf,Apparel,Nike,43.37,37.95,300.0,Active,2020-11-28,Local,0.68
+219,Anker Portable Power Bank,Electronics,Anker,254.16,199.53,460.0,Active,2020-11-26,Local,1.33
+220,IKEA Accent Chair,Furniture,IKEA,746.54,400.5,64.0,Active,2023-08-09,International,17.68
+221,Mattel Remote Drone,Toys,Mattel,95.73,68.94,194.0,Active,2023-12-19,Local,1.21
+222,All-Clad Toaster Oven,Home Goods,All-Clad,96.18,50.06,365.0,Active,2022-10-29,International,14.45
+223,IKEA Wooden Bed Frame,Furniture,IKEA,205.8,181.96,68.0,Active,2021-05-06,International,11.1
+224,Swiffer Air Freshener,Household,Swiffer,25.19,21.49,312.0,Active,2024-04-27,Local,2.64
+225,Clorox Heavy-Duty Trash Bags,Household,Clorox,20.03,11.98,4.0,Active,2021-04-23,International,3.01
+226,Anker HD Webcam,Electronics,Anker,116.72,74.66,335.0,Active,2024-06-22,Local,2.93
+227,Optimum Nutrition Electric Toothbrush,Health & Wellness,Optimum Nutrition,93.23,50.68,26.0,Discontinued,2022-01-09,Local,0.92
+228,Penguin Random House Biography,Books,Penguin Random House,38.99,28.52,384.0,Discontinued,2022-04-28,Local,0.51
+229,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,157.73,113.6,432.0,Active,2023-03-20,Local,7.1
+230,L'Oréal Lip Balm,Beauty,L'Oréal,44.1,25.74,357.0,Active,2024-02-14,Local,0.49
+231,Patagonia Hooded Sweatshirt,Apparel,Patagonia,114.13,99.7,310.0,Discontinued,2023-02-15,Local,0.95
+232,Fitbit Electric Toothbrush,Health & Wellness,Fitbit,63.89,40.99,320.0,Active,2022-10-12,Local,1.61
+233,Tide Disinfectant Wipes,Household,Tide,25.2,18.74,453.0,Active,2022-10-15,International,0.51
+234,Swiffer Dish Soap,Household,Swiffer,24.92,20.91,378.0,Active,2022-09-16,International,2.36
+235,CeraVe Lip Balm,Beauty,CeraVe,10.73,8.33,104.0,Active,2023-01-01,Local,0.22
+236,Aveeno Waterproof Mascara,Beauty,Aveeno,17.4,11.08,171.0,Active,2022-08-25,International,0.11
+237,Starbucks Spaghetti Sauce,Grocery,Starbucks,42.52,32.7,473.0,Discontinued,2020-10-25,International,1.36
+238,Dyson Cordless Blender,Home Goods,Dyson,200.43,143.26,443.0,Active,2022-01-27,International,6.8
+239,Apple USB-C Hub,Electronics,Apple,284.48,224.74,290.0,Active,2021-03-10,Local,1.12
+240,Neutrogena Waterproof Mascara,Beauty,Neutrogena,14.3,8.75,77.0,Active,2022-06-01,International,0.35
+241,HarperCollins Fiction Novel,Books,HarperCollins,15.62,13.21,60.0,Active,2021-12-24,International,0.52
+242,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,22.38,13.32,450.0,Active,2024-05-06,International,0.73
+243,All-Clad Stand Mixer,Home Goods,All-Clad,168.46,136.64,20.0,Discontinued,2024-03-28,Local,1.35
+244,LEGO Robot Pet,Toys,LEGO,31.17,21.61,473.0,Active,2023-04-08,Local,1.18
+245,Mattel Starship Set,Toys,Mattel,99.38,78.49,106.0,Active,2023-02-20,International,1.71
+246,Renpho Electric Toothbrush,Health & Wellness,Renpho,73.4,62.3,305.0,Active,2021-10-23,International,0.4
+247,Renpho Foam Roller,Health & Wellness,Renpho,64.09,48.42,160.0,Active,2023-05-16,Local,0.93
+248,L'Oréal Lip Balm,Beauty,L'Oréal,53.62,30.01,140.0,Active,2024-08-21,Local,0.35
+249,Levi's Cotton T-Shirt,Apparel,Levi's,90.53,56.8,282.0,Active,2023-01-24,International,0.5
+250,All-Clad Handheld Steamer,Home Goods,All-Clad,145.21,92.28,457.0,Active,2021-08-29,Local,7.59
+251,LogiTech Portable Power Bank,Electronics,LogiTech,222.62,149.29,45.0,Active,2020-12-15,Local,3.0
+252,Swiffer Floor Mop,Household,Swiffer,13.89,11.49,171.0,Active,2022-09-02,International,2.9
+253,Penguin Random House Bestseller Novel,Books,Penguin Random House,12.79,11.1,411.0,Active,2022-11-05,Local,0.78
+254,Clorox Dish Soap,Household,Clorox,28.69,24.23,74.0,Active,2023-08-20,International,2.26
+255,L'Oréal Charcoal Face Mask,Beauty,L'Oréal,41.69,28.77,34.0,Active,2023-11-06,Local,0.17
+256,Penguin Random House Fantasy Series,Books,Penguin Random House,25.24,20.87,208.0,Active,2022-04-09,Local,0.75
+257,Hasbro Robot Pet,Toys,Hasbro,49.07,29.22,212.0,Active,2024-01-14,Local,1.6
+258,CeraVe Body Lotion,Beauty,CeraVe,62.9,42.3,303.0,Discontinued,2021-09-19,Local,0.24
+259,Dyson Stand Mixer,Home Goods,Dyson,277.75,242.29,379.0,Active,2023-01-15,Local,9.29
+260,Aveeno Conditioning Shampoo,Beauty,Aveeno,63.43,39.53,91.0,Active,2023-07-21,Local,0.37
+261,Columbia Insulated Bottle,Sports & Outdoors,Columbia,111.5,58.49,339.0,Active,2021-07-06,Local,6.02
+262,Dyson Coffee Maker,Home Goods,Dyson,85.21,52.54,273.0,Active,2022-07-07,Local,3.88
+263,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,82.52,51.31,348.0,Discontinued,2022-06-04,Local,2.95
+264,Nike Running Jacket,Apparel,Nike,99.49,65.83,262.0,Active,2022-05-27,Local,0.62
+265,LogiTech Headphones,Electronics,LogiTech,366.51,326.74,421.0,Active,2021-07-25,Local,0.25
+266,HarperCollins Bestseller Novel,Books,HarperCollins,28.76,18.78,365.0,Active,2022-10-04,Local,0.76
+267,All-Clad Handheld Steamer,Home Goods,All-Clad,235.51,204.84,432.0,Active,2023-03-13,Local,14.96
+268,All-Clad Cordless Vacuum,Home Goods,All-Clad,34.29,17.36,332.0,Active,2022-08-21,Local,7.11
+269,Levi's Graphic T-Shirt,Apparel,Levi's,103.49,87.35,213.0,Active,2024-02-22,International,1.4
+270,Vitamix Ceramic Pan Set,Home Goods,Vitamix,218.48,180.91,283.0,Active,2023-08-29,Local,6.95
+271,HarperCollins Fiction Novel,Books,HarperCollins,35.4,27.78,122.0,Active,2023-07-29,International,0.7
+272,HP Portable Power Bank,Electronics,HP,267.47,145.84,189.0,Active,2022-10-28,International,0.8
+273,Hasbro Robot Pet,Toys,Hasbro,54.52,38.67,41.0,Active,2022-12-29,Local,2.0
+274,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,651.74,415.43,463.0,Active,2024-09-28,Local,56.14
+275,HarperCollins Historical Fiction,Books,HarperCollins,22.63,20.17,492.0,Active,2022-08-30,Local,0.79
+276,Fitbit Resistance Bands,Health & Wellness,Fitbit,81.73,42.87,134.0,Active,2022-04-04,Local,0.25
+277,Penguin Random House Historical Fiction,Books,Penguin Random House,18.6,10.24,43.0,Active,2024-07-29,International,0.48
+278,Optimum Nutrition Electric Toothbrush,Health & Wellness,Optimum Nutrition,87.92,70.03,8.0,Active,2022-08-03,International,2.24
+279,Tide Disinfectant Wipes,Household,Tide,25.2,20.49,134.0,Active,2022-11-18,Local,2.87
+280,Aveeno Sunscreen,Beauty,Aveeno,72.88,63.67,305.0,Active,2022-12-08,Local,0.5
+281,Bertolli Whole Grain Bread,Grocery,Bertolli,24.81,14.07,327.0,Active,2023-06-15,International,0.3
+282,Nike Cotton T-Shirt,Apparel,Nike,41.79,28.86,205.0,Active,2024-03-21,International,1.39
+283,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,148.48,89.84,243.0,Active,2023-06-22,Local,3.24
+284,Yeti Sleeping Bag,Sports & Outdoors,Yeti,80.25,62.05,272.0,Active,2023-12-19,International,6.56
+285,HarperCollins Children's Book,Books,HarperCollins,20.05,16.46,137.0,Active,2021-10-22,Local,0.62
+286,IKEA Ergonomic Chair,Furniture,IKEA,567.96,440.8,347.0,Active,2022-09-08,Local,70.55
+287,Dell Smart Mouse,Electronics,Dell,93.96,72.74,54.0,Active,2024-07-30,International,1.33
+288,HP 4K Monitor,Electronics,HP,91.37,67.4,481.0,Active,2021-11-12,Local,3.04
+289,Nike Slim Jeans,Apparel,Nike,131.34,85.42,67.0,Active,2021-12-11,International,1.22
+290,Levi's Polo Shirt,Apparel,Levi's,52.93,40.45,240.0,Active,2024-07-07,Local,1.49
+291,Ashley Furniture Office Desk,Furniture,Ashley Furniture,331.6,175.61,400.0,Active,2024-09-05,Local,39.94
+292,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,30.12,20.98,36.0,Discontinued,2023-11-01,International,0.62
+293,Levi's Running Shorts,Apparel,Levi's,90.28,53.03,221.0,Active,2023-07-27,International,1.1
+294,LogiTech USB-C Hub,Electronics,LogiTech,81.69,49.03,373.0,Active,2023-07-06,International,0.83
+295,LogiTech Portable Power Bank,Electronics,LogiTech,349.07,195.7,137.0,Active,2022-09-15,Local,0.12
+296,Tide Air Freshener,Household,Tide,15.9,12.58,433.0,Active,2022-09-01,Local,1.52
+297,Clorox Laundry Pods,Household,Clorox,19.18,17.2,479.0,Active,2022-12-28,Local,0.75
+298,Neutrogena Sunscreen,Beauty,Neutrogena,15.23,12.25,236.0,Active,2024-06-27,Local,0.32
+299,IKEA Wooden Bed Frame,Furniture,IKEA,368.98,316.8,200.0,Active,2023-08-21,Local,17.64
+300,Califia Farms Granola Bars,Grocery,Califia Farms,6.61,5.21,13.0,Active,2021-11-25,Local,0.31
+301,Ashley Furniture Office Desk,Furniture,Ashley Furniture,549.72,458.3,495.0,Active,2023-01-16,International,13.33
+302,Aveeno Lip Balm,Beauty,Aveeno,36.36,29.92,109.0,Active,2022-12-03,Local,0.37
+303,Dyson Smart Toaster,Home Goods,Dyson,244.36,129.22,474.0,Active,2024-05-01,Local,1.27
+304,Anker 4K Monitor,Electronics,Anker,365.58,184.89,67.0,Active,2022-04-30,International,4.12
+305,Swiffer Kitchen Cleaner,Household,Swiffer,9.27,4.87,303.0,Active,2022-02-17,Local,3.18
+306,Califia Farms Black Tea Bags,Grocery,Califia Farms,41.2,26.16,219.0,Active,2023-11-04,International,0.92
+307,IKEA Ergonomic Chair,Furniture,IKEA,389.43,318.26,494.0,Active,2021-05-03,Local,40.2
+308,Renpho Massage Gun,Health & Wellness,Renpho,79.39,61.81,87.0,Active,2020-12-01,Local,2.78
+309,All-Clad Ceramic Pan Set,Home Goods,All-Clad,322.69,240.4,324.0,Active,2024-07-27,Local,7.82
+310,Anker Mesh Router,Electronics,Anker,466.76,355.07,362.0,Active,2021-01-24,Local,4.06
+311,Swiffer Kitchen Cleaner,Household,Swiffer,8.17,6.18,74.0,Active,2024-06-11,Local,4.72
+312,HP Headphones,Electronics,HP,131.0,97.57,256.0,Active,2023-05-17,International,1.58
+313,HP Fitness Watch,Electronics,HP,156.04,139.6,61.0,Discontinued,2023-09-27,International,4.33
+314,LEGO Action Figure Set,Toys,LEGO,54.46,41.59,321.0,Active,2021-08-09,Local,2.45
+315,Clorox Dish Soap,Household,Clorox,8.99,4.65,473.0,Active,2024-01-23,Local,2.46
+316,HarperCollins Children's Picture Book,Books,HarperCollins,11.3,5.89,380.0,Active,2021-11-01,Local,0.32
+317,Nike Hooded Sweatshirt,Apparel,Nike,136.36,92.44,370.0,Active,2022-12-31,Local,1.15
+318,Califia Farms Black Tea Bags,Grocery,Califia Farms,19.68,11.71,51.0,Active,2021-11-01,Local,1.8
+319,Swiffer Dish Soap,Household,Swiffer,17.11,11.54,456.0,Active,2021-03-09,International,1.3
+320,Vitamix Smart Toaster,Home Goods,Vitamix,296.33,190.67,324.0,Active,2023-09-18,Local,1.45
+321,Sony Gaming Laptop,Electronics,Sony,111.43,76.46,437.0,Active,2021-09-15,International,1.18
+322,Penguin Random House Children's Book,Books,Penguin Random House,33.69,29.68,327.0,Discontinued,2020-12-14,Local,0.69
+323,Patagonia Rain Jacket,Apparel,Patagonia,131.41,111.03,251.0,Active,2024-05-15,Local,0.75
+324,Yeti Camping Tent,Sports & Outdoors,Yeti,177.7,112.11,127.0,Active,2021-08-26,International,6.12
+325,Penguin Random House Children's Picture Book,Books,Penguin Random House,22.53,11.63,23.0,Active,2021-09-06,International,0.32
+326,Columbia Insulated Bottle,Sports & Outdoors,Columbia,166.7,138.11,357.0,Active,2021-02-24,Local,5.81
+327,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,48.22,28.72,152.0,Discontinued,2022-01-26,Local,6.86
+328,Swiffer Floor Cleaner,Household,Swiffer,23.68,21.09,13.0,Active,2022-08-22,Local,3.66
+329,L'Oréal Hydrating Serum,Beauty,L'Oréal,55.75,47.06,1.0,Active,2023-06-23,International,0.23
+330,Optimum Nutrition Protein Powder,Health & Wellness,Optimum Nutrition,79.0,69.4,358.0,Active,2021-04-19,International,2.38
+331,HarperCollins Self-Help Guide,Books,HarperCollins,32.07,22.64,29.0,Discontinued,2024-08-10,Local,0.34
+332,L'Oréal Body Lotion,Beauty,L'Oréal,50.24,32.48,188.0,Active,2024-08-29,International,0.32
+333,Vitamix Cordless Blender,Home Goods,Vitamix,118.29,89.85,59.0,Active,2021-05-19,International,13.2
+334,Bertolli Black Tea Bags,Grocery,Bertolli,39.24,25.16,165.0,Active,2023-05-12,International,0.7
+335,Neutrogena Lip Balm,Beauty,Neutrogena,39.41,28.01,257.0,Active,2024-04-09,International,0.37
+336,Optimum Nutrition Vitamin Gummies,Health & Wellness,Optimum Nutrition,67.78,52.14,410.0,Active,2022-08-26,International,2.66
+337,Clorox Laundry Pods,Household,Clorox,7.0,4.0,460.0,Discontinued,2023-05-09,Local,1.24
+338,Vitamix Water Filter,Home Goods,Vitamix,85.68,60.69,105.0,Active,2023-10-10,Local,14.57
+339,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,158.28,125.85,228.0,Active,2021-11-24,Local,1.31
+340,Bertolli Organic Oatmeal,Grocery,Bertolli,34.01,24.88,211.0,Active,2021-11-21,International,1.08
+341,Mattel Classic Board Game,Toys,Mattel,52.85,38.42,156.0,Active,2020-12-26,Local,2.43
+342,Tide Kitchen Cleaner,Household,Tide,29.27,24.53,395.0,Active,2023-10-29,Local,4.8
+343,Dyson Cordless Vacuum,Home Goods,Dyson,228.07,202.82,94.0,Active,2023-05-12,International,10.33
+344,All-Clad Cordless Blender,Home Goods,All-Clad,73.26,53.47,163.0,Active,2021-09-05,Local,3.87
+345,Samsung 4K Monitor,Electronics,Samsung,192.62,107.71,177.0,Active,2023-09-15,International,2.71
+346,Dell Portable Power Bank,Electronics,Dell,468.98,261.76,394.0,Active,2024-02-25,Local,0.12
+347,Mattel Building Blocks Set,Toys,Mattel,43.16,26.68,362.0,Active,2020-11-24,International,2.34
+348,IKEA Office Desk,Furniture,IKEA,819.62,707.13,374.0,Active,2024-06-08,International,75.85
+349,Dyson Coffee Maker,Home Goods,Dyson,233.86,119.25,158.0,Active,2022-06-03,Local,6.0
+350,HP 4K Monitor,Electronics,HP,338.59,240.59,299.0,Active,2024-02-06,International,1.06
+351,Hasbro Building Blocks Set,Toys,Hasbro,72.55,38.81,491.0,Active,2024-06-26,Local,1.16
+352,LEGO Starship Set,Toys,LEGO,92.22,60.78,185.0,Active,2020-11-23,Local,1.34
+353,Optimum Nutrition Yoga Mat,Health & Wellness,Optimum Nutrition,44.87,38.13,229.0,Active,2024-02-04,International,1.39
+354,Tide Kitchen Cleaner,Household,Tide,9.09,8.07,373.0,Active,2023-11-26,International,1.13
+355,Penguin Random House Historical Fiction,Books,Penguin Random House,14.31,9.87,156.0,Active,2021-06-30,International,0.35
+356,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,26.16,22.65,328.0,Active,2023-09-30,Local,7.25
+357,Califia Farms Whole Grain Bread,Grocery,Califia Farms,42.45,30.63,149.0,Active,2024-03-28,International,1.7
+358,Swiffer Floor Mop,Household,Swiffer,23.5,12.0,115.0,Active,2021-11-27,Local,4.8
+359,Adidas Wool Scarf,Apparel,Adidas,74.23,64.04,252.0,Active,2020-11-24,Local,1.17
+360,Adidas Running Shorts,Apparel,Adidas,95.54,64.43,290.0,Active,2021-12-10,International,1.46
+361,Aveeno Charcoal Face Mask,Beauty,Aveeno,64.94,47.58,84.0,Active,2023-02-28,Local,0.38
+362,All-Clad Handheld Steamer,Home Goods,All-Clad,130.89,98.76,215.0,Discontinued,2024-06-18,Local,5.08
+363,Levi's Hooded Sweatshirt,Apparel,Levi's,119.64,96.41,94.0,Active,2022-02-02,Local,0.55
+364,Ashley Furniture Office Desk,Furniture,Ashley Furniture,344.31,266.96,358.0,Active,2022-07-26,Local,84.1
+365,Dyson Cordless Vacuum,Home Goods,Dyson,134.12,93.07,399.0,Active,2023-04-25,International,2.43
+366,LEGO Plush Toy,Toys,LEGO,85.68,73.58,408.0,Active,2022-11-06,International,1.72
+367,Mattel Starship Set,Toys,Mattel,79.29,52.88,59.0,Discontinued,2024-04-22,Local,0.65
+368,Tide Dish Soap,Household,Tide,12.79,7.11,186.0,Active,2021-04-15,International,2.85
+369,Dyson Microfiber Sheets,Home Goods,Dyson,142.73,117.87,382.0,Active,2022-10-07,International,2.99
+370,Renpho Digital Thermometer,Health & Wellness,Renpho,32.84,22.0,41.0,Active,2021-11-03,Local,0.15
+371,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,59.36,48.51,17.0,Active,2023-12-26,Local,1.63
+372,LogiTech Bluetooth Earbuds,Electronics,LogiTech,185.74,148.93,6.0,Active,2022-01-27,International,1.11
+373,Dyson Coffee Maker,Home Goods,Dyson,160.07,89.35,47.0,Active,2023-09-04,Local,9.12
+374,Dyson Ceramic Pan Set,Home Goods,Dyson,318.9,190.3,314.0,Active,2023-05-06,Local,9.09
+375,LEGO Robot Pet,Toys,LEGO,75.84,46.47,494.0,Discontinued,2023-08-16,Local,2.93
+376,Bertolli Olive Oil,Grocery,Bertolli,43.31,28.0,244.0,Active,2020-10-21,Local,1.92
+377,L'Oréal Facial Moisturizer,Beauty,L'Oréal,37.57,22.2,264.0,Active,2022-02-05,International,0.15
+378,LEGO Robot Pet,Toys,LEGO,57.14,44.68,185.0,Active,2021-12-06,Local,1.19
+379,Columbia Hiking Poles,Sports & Outdoors,Columbia,104.97,65.59,377.0,Discontinued,2023-06-13,Local,5.76
+380,HydroFlask Insulated Water Bottle,Sports & Outdoors,HydroFlask,174.94,146.32,459.0,Active,2021-07-10,International,2.2
+381,IKEA Media Console,Furniture,IKEA,456.73,348.68,268.0,Active,2023-03-12,Local,46.06
+382,Levi's Cotton T-Shirt,Apparel,Levi's,28.41,16.47,500.0,Active,2023-04-22,International,0.67
+383,Yeti Sleeping Bag,Sports & Outdoors,Yeti,112.34,88.23,392.0,Active,2022-05-16,Local,8.0
+384,L'Oréal Facial Moisturizer,Beauty,L'Oréal,53.33,35.29,487.0,Active,2022-06-17,Local,0.41
+385,Adidas Running Shorts,Apparel,Adidas,83.61,62.82,119.0,Active,2022-01-23,Local,0.17
+386,Swiffer Laundry Pods,Household,Swiffer,5.67,3.7,92.0,Active,2022-05-09,Local,3.3
+387,Patagonia Running Jacket,Apparel,Patagonia,123.06,75.98,104.0,Active,2021-02-17,Local,0.86
+388,LEGO Puzzle Set,Toys,LEGO,95.97,86.02,17.0,Active,2024-09-04,Local,1.52
+389,Tide Floor Mop,Household,Tide,5.9,4.26,91.0,Active,2022-08-29,Local,3.68
+390,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,79.68,55.38,200.0,Active,2024-06-29,International,6.77
+391,HarperCollins Self-Help Guide,Books,HarperCollins,24.28,13.66,438.0,Active,2020-10-10,Local,0.71
+392,HarperCollins Biography,Books,HarperCollins,32.99,20.72,146.0,Active,2022-04-14,Local,0.89
+393,Penguin Random House Biography,Books,Penguin Random House,32.96,20.98,321.0,Active,2022-07-15,Local,0.55
+394,Samsung Gaming Laptop,Electronics,Samsung,159.9,121.4,121.0,Active,2021-10-26,International,0.42
+395,Adidas Polo Shirt,Apparel,Adidas,42.07,26.52,276.0,Active,2022-01-25,International,0.9
+396,Renpho Protein Powder,Health & Wellness,Renpho,74.16,37.74,302.0,Active,2023-01-29,Local,1.04
+397,Clorox Kitchen Cleaner,Household,Clorox,22.27,14.13,106.0,Active,2023-01-15,International,2.03
+398,Optimum Nutrition Foam Roller,Health & Wellness,Optimum Nutrition,97.4,68.06,104.0,Active,2021-10-18,International,2.54
+399,Starbucks Black Tea Bags,Grocery,Starbucks,16.93,15.21,153.0,Active,2022-03-10,Local,1.54
+400,Penguin Random House Cookbook,Books,Penguin Random House,27.76,14.63,140.0,Active,2021-09-11,Local,0.45
+401,Ashley Furniture Media Console,Furniture,Ashley Furniture,554.18,373.05,154.0,Active,2023-06-03,Local,46.21
+402,Hasbro Building Blocks Set,Toys,Hasbro,72.08,41.25,281.0,Active,2022-08-11,International,2.63
+403,Clorox Kitchen Cleaner,Household,Clorox,21.52,17.15,422.0,Active,2021-05-22,International,2.9
+404,Yeti Hiking Poles,Sports & Outdoors,Yeti,152.16,107.87,31.0,Active,2023-06-30,Local,1.93
+405,Columbia Hiking Poles,Sports & Outdoors,Columbia,80.76,69.81,426.0,Active,2024-06-10,International,3.04
+406,IKEA Bookshelf,Furniture,IKEA,330.8,196.64,308.0,Active,2024-04-20,Local,12.49
+407,Tide Disinfectant Wipes,Household,Tide,19.0,12.71,224.0,Discontinued,2023-10-30,Local,1.73
+408,Optimum Nutrition Massage Gun,Health & Wellness,Optimum Nutrition,70.99,53.79,91.0,Active,2023-07-06,International,2.37
+409,Adidas Running Shorts,Apparel,Adidas,98.21,51.6,444.0,Discontinued,2023-04-22,International,1.04
+410,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,172.48,93.96,121.0,Active,2024-07-06,International,5.46
+411,Hasbro Building Blocks Set,Toys,Hasbro,57.2,34.05,47.0,Active,2022-03-21,International,1.19
+412,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,155.19,103.85,479.0,Active,2021-08-19,Local,9.71
+413,Columbia Sleeping Bag,Sports & Outdoors,Columbia,176.01,122.53,29.0,Active,2024-07-30,International,3.51
+414,Swiffer Glass Cleaner,Household,Swiffer,11.16,9.51,143.0,Discontinued,2022-08-30,Local,3.72
+415,Samsung Mesh Router,Electronics,Samsung,485.06,249.28,311.0,Active,2022-07-27,International,0.37
+416,IKEA Ergonomic Chair,Furniture,IKEA,327.68,204.38,197.0,Discontinued,2024-09-14,Local,83.1
+417,LEGO Building Blocks,Toys,LEGO,87.9,44.23,199.0,Discontinued,2022-03-30,International,2.78
+418,Levi's Cargo Pants,Apparel,Levi's,58.66,50.22,441.0,Discontinued,2023-07-23,International,1.33
+419,HydroFlask Portable Grill,Sports & Outdoors,HydroFlask,72.96,60.5,42.0,Discontinued,2024-05-26,Local,4.42
+420,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,169.27,102.3,358.0,Active,2023-10-12,Local,7.43
+421,L'Oréal Waterproof Mascara,Beauty,L'Oréal,55.19,28.75,391.0,Active,2023-12-16,International,0.42
+422,Dell Mesh Router,Electronics,Dell,140.03,87.59,157.0,Active,2024-01-20,Local,2.63
+423,IKEA Platform Bed,Furniture,IKEA,862.26,572.65,352.0,Discontinued,2023-10-19,Local,88.62
+424,Renpho Yoga Mat,Health & Wellness,Renpho,73.43,46.34,424.0,Active,2023-06-21,Local,1.17
+425,Yeti Water-Resistant Backpack,Sports & Outdoors,Yeti,64.29,32.74,486.0,Active,2023-02-18,International,2.67
+426,Clorox Laundry Pods,Household,Clorox,11.54,6.55,437.0,Active,2023-11-25,Local,1.67
+427,CeraVe Face Wash,Beauty,CeraVe,71.57,36.19,61.0,Active,2022-11-07,International,0.47
+428,Levi's Polo Shirt,Apparel,Levi's,112.76,99.05,98.0,Active,2022-11-11,Local,1.15
+429,Vitamix Cordless Vacuum,Home Goods,Vitamix,346.84,203.33,308.0,Active,2022-03-13,International,3.65
+430,HydroFlask Insulated Water Bottle,Sports & Outdoors,HydroFlask,30.04,18.17,500.0,Active,2024-06-02,International,4.01
+431,Nike Down Vest,Apparel,Nike,80.95,50.94,447.0,Active,2021-03-13,International,1.1
+432,Yeti Portable Grill,Sports & Outdoors,Yeti,129.51,69.69,38.0,Active,2024-01-24,Local,2.73
+433,Penguin Random House Children's Picture Book,Books,Penguin Random House,10.16,7.6,259.0,Active,2024-05-12,Local,0.56
+434,HP External SSD,Electronics,HP,130.72,91.7,87.0,Discontinued,2021-07-23,International,0.75
+435,Hasbro Building Blocks,Toys,Hasbro,27.05,16.91,60.0,Discontinued,2022-11-24,Local,2.93
+436,L'Oréal Sunscreen,Beauty,L'Oréal,28.39,17.18,449.0,Active,2021-05-29,International,0.31
+437,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,302.64,243.77,252.0,Active,2024-03-02,International,10.2
+438,Clorox Air Freshener,Household,Clorox,9.72,5.75,28.0,Active,2022-07-08,Local,3.68
+439,Patagonia Down Vest,Apparel,Patagonia,25.3,22.66,183.0,Active,2023-06-21,Local,0.26
+440,All-Clad Toaster Oven,Home Goods,All-Clad,159.35,135.01,105.0,Active,2023-08-14,Local,8.12
+441,Penguin Random House Children's Book,Books,Penguin Random House,27.51,13.8,498.0,Active,2022-09-15,Local,0.94
+442,Swiffer Kitchen Cleaner,Household,Swiffer,7.36,3.76,169.0,Active,2024-05-06,International,2.27
+443,Adidas Hiking Boots,Apparel,Adidas,39.99,27.36,42.0,Active,2022-07-13,Local,0.98
+444,Penguin Random House Historical Fiction,Books,Penguin Random House,19.88,15.16,23.0,Discontinued,2020-12-21,Local,0.81
+445,All-Clad Smart Toaster,Home Goods,All-Clad,349.41,264.66,411.0,Active,2021-04-11,Local,1.99
+446,HydroFlask Soft Cooler,Sports & Outdoors,HydroFlask,94.8,56.5,92.0,Active,2022-05-30,Local,0.69
+447,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,318.41,241.63,146.0,Discontinued,2023-01-02,Local,5.18
+448,Yeti Portable Grill,Sports & Outdoors,Yeti,166.11,143.1,159.0,Active,2022-12-26,Local,1.41
+449,LEGO Puzzle Set,Toys,LEGO,56.62,37.1,454.0,Active,2023-06-10,International,0.54
+450,CeraVe Waterproof Mascara,Beauty,CeraVe,38.22,20.53,219.0,Active,2021-12-25,International,0.37
+451,Swiffer Glass Cleaner,Household,Swiffer,20.74,11.07,269.0,Active,2020-11-01,Local,4.11
+452,All-Clad High-Speed Blender,Home Goods,All-Clad,283.2,236.93,154.0,Active,2021-10-07,Local,1.67
+453,HP External SSD,Electronics,HP,98.43,65.48,218.0,Active,2020-10-05,International,4.08
+454,Fitbit Yoga Mat,Health & Wellness,Fitbit,21.95,11.12,258.0,Active,2021-08-15,Local,2.38
+455,LogiTech HD Webcam,Electronics,LogiTech,237.31,146.91,361.0,Active,2021-01-15,Local,3.38
+456,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,97.17,80.07,447.0,Active,2022-06-12,Local,2.95
+457,IKEA Accent Chair,Furniture,IKEA,490.42,246.36,10.0,Active,2023-07-21,Local,52.94
+458,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,372.52,331.38,417.0,Active,2022-11-30,International,72.13
+459,Renpho Massage Gun,Health & Wellness,Renpho,25.63,14.77,8.0,Active,2020-12-28,International,0.65
+460,Starbucks Black Tea Bags,Grocery,Starbucks,34.19,20.4,333.0,Active,2024-04-29,International,1.17
+461,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,27.59,14.04,217.0,Active,2024-09-10,Local,2.14
+462,Clorox Dish Soap,Household,Clorox,26.49,15.82,300.0,Active,2022-08-21,International,2.26
+463,LogiTech Portable Power Bank,Electronics,LogiTech,333.68,224.47,366.0,Active,2021-11-24,Local,2.94
+464,Hasbro Action Figure Set,Toys,Hasbro,18.15,12.6,205.0,Active,2021-06-20,International,2.13
+465,Bertolli Greek Yogurt,Grocery,Bertolli,7.73,5.17,10.0,Active,2021-04-16,Local,1.81
+466,Clorox Heavy-Duty Trash Bags,Household,Clorox,17.37,13.17,481.0,Active,2023-04-26,Local,1.23
+467,Tide Floor Mop,Household,Tide,15.95,9.38,260.0,Discontinued,2023-09-01,Local,3.21
+468,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,297.51,262.98,200.0,Active,2024-08-09,International,11.28
+469,Clorox Floor Cleaner,Household,Clorox,20.55,15.95,145.0,Active,2022-04-01,Local,1.28
+470,HarperCollins Fiction Novel,Books,HarperCollins,13.03,11.43,213.0,Active,2024-04-25,Local,0.69
+471,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,33.21,18.93,82.0,Active,2022-07-18,Local,0.42
+472,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,133.07,96.45,62.0,Active,2024-06-01,International,7.96
+473,Hasbro Action Figure Set,Toys,Hasbro,91.19,70.77,437.0,Active,2022-04-05,International,2.21
+474,Clorox Disinfectant Wipes,Household,Clorox,29.37,21.86,401.0,Active,2021-01-26,International,4.21
+475,LEGO Action Figure Set,Toys,LEGO,29.2,24.77,61.0,Discontinued,2024-08-09,Local,1.09
+476,Hasbro Classic Board Game,Toys,Hasbro,77.27,43.4,51.0,Active,2024-03-31,International,0.63
+477,Tide Laundry Pods,Household,Tide,24.23,14.49,4.0,Active,2021-04-13,Local,2.77
+478,Optimum Nutrition Yoga Mat,Health & Wellness,Optimum Nutrition,75.79,48.83,213.0,Active,2024-03-10,Local,2.29
+479,Califia Farms Organic Oatmeal,Grocery,Califia Farms,41.08,35.62,212.0,Active,2021-03-23,International,1.13
+480,Aveeno Charcoal Face Mask,Beauty,Aveeno,38.77,19.54,395.0,Active,2024-09-20,International,0.13
+481,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,100.96,81.14,202.0,Active,2022-04-28,International,9.07
+482,Ashley Furniture Dining Table,Furniture,Ashley Furniture,477.37,368.7,454.0,Active,2021-04-05,Local,76.84
+483,Apple Fitness Watch,Electronics,Apple,175.9,130.9,271.0,Active,2024-08-30,Local,3.26
+484,HarperCollins Cookbook,Books,HarperCollins,30.92,25.5,455.0,Active,2024-02-02,International,0.92
+485,HP Bluetooth Earbuds,Electronics,HP,200.52,157.92,372.0,Active,2023-10-10,Local,2.75
+486,Adidas Hiking Boots,Apparel,Adidas,87.77,66.2,388.0,Active,2024-08-30,International,0.86
+487,Starbucks Organic Coffee,Grocery,Starbucks,37.69,20.51,259.0,Active,2022-08-08,Local,1.33
+488,Nike Cotton T-Shirt,Apparel,Nike,118.35,65.08,482.0,Active,2023-08-17,International,0.73
+489,Penguin Random House Self-Help Guide,Books,Penguin Random House,20.51,15.73,146.0,Active,2022-06-12,Local,0.4
+490,Mattel Remote Drone,Toys,Mattel,36.05,25.47,168.0,Active,2022-04-08,International,1.53
+491,Columbia Portable Hammock,Sports & Outdoors,Columbia,39.34,26.36,32.0,Active,2021-09-01,Local,1.24
+492,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,122.82,80.8,399.0,Active,2022-08-04,Local,4.52
+493,Swiffer Fabric Softener,Household,Swiffer,29.33,16.58,422.0,Active,2021-05-15,Local,2.56
+494,LEGO Robot Pet,Toys,LEGO,74.03,51.03,234.0,Active,2021-07-03,International,1.3
+495,HarperCollins Biography,Books,HarperCollins,13.31,9.7,190.0,Active,2024-04-01,Local,0.56
+496,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,56.3,31.37,406.0,Active,2023-10-24,Local,2.82
+497,Renpho Yoga Mat,Health & Wellness,Renpho,30.56,21.26,379.0,Active,2020-11-17,Local,2.62
+498,Swiffer Kitchen Cleaner,Household,Swiffer,12.74,10.96,232.0,Active,2023-05-23,Local,3.74
+499,All-Clad High-Speed Blender,Home Goods,All-Clad,216.76,174.42,236.0,Active,2023-03-18,Local,11.19
+500,HarperCollins Fantasy Series,Books,HarperCollins,21.62,14.23,461.0,Active,2024-06-29,International,0.92
+501,IKEA Ergonomic Chair,Furniture,IKEA,879.36,448.4,363.0,Active,2024-04-21,International,37.8
+502,IKEA Wooden Bed Frame,Furniture,IKEA,273.18,195.8,317.0,Active,2021-09-17,International,56.96
+503,LEGO Building Blocks Set,Toys,LEGO,25.22,17.98,480.0,Discontinued,2021-01-07,Local,0.86
+504,Clorox Dish Soap,Household,Clorox,25.17,15.81,311.0,Active,2023-02-15,Local,4.7
+505,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,97.61,69.42,441.0,Active,2022-07-15,Local,9.81
+506,Vitamix Ceramic Pan Set,Home Goods,Vitamix,83.29,67.24,131.0,Active,2023-06-09,International,10.5
+507,HarperCollins Biography,Books,HarperCollins,15.44,8.08,366.0,Active,2024-03-28,Local,0.59
+508,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,95.03,52.11,461.0,Active,2021-09-23,International,1.8
+509,Mattel Starship Set,Toys,Mattel,47.73,29.01,59.0,Active,2020-12-04,Local,0.48
+510,Yeti Portable Hammock,Sports & Outdoors,Yeti,65.9,33.44,454.0,Active,2022-07-04,Local,1.46
+511,IKEA Platform Bed,Furniture,IKEA,374.15,253.82,209.0,Active,2022-11-28,Local,80.46
+512,CeraVe Face Wash,Beauty,CeraVe,60.83,53.59,276.0,Discontinued,2023-10-08,Local,0.12
+513,HarperCollins Self-Help Guide,Books,HarperCollins,29.59,14.8,86.0,Discontinued,2023-11-08,Local,0.72
+514,CeraVe Facial Moisturizer,Beauty,CeraVe,48.04,29.43,262.0,Active,2021-04-23,Local,0.13
+515,Yeti Portable Hammock,Sports & Outdoors,Yeti,46.52,36.75,72.0,Discontinued,2024-09-21,International,2.5
+516,Neutrogena Body Lotion,Beauty,Neutrogena,51.29,40.17,386.0,Active,2021-09-08,International,0.23
+517,Swiffer Disinfectant Wipes,Household,Swiffer,13.21,10.26,468.0,Active,2024-05-31,Local,2.64
+518,IKEA Ergonomic Chair,Furniture,IKEA,471.85,367.38,459.0,Active,2023-01-20,Local,17.3
+519,LEGO Building Blocks Set,Toys,LEGO,90.87,69.85,418.0,Active,2023-01-22,Local,2.49
+520,L'Oréal Body Lotion,Beauty,L'Oréal,21.52,17.75,394.0,Discontinued,2023-11-03,Local,0.25
+521,Clorox Kitchen Cleaner,Household,Clorox,10.54,8.47,11.0,Active,2024-01-09,International,1.36
+522,Ashley Furniture Media Console,Furniture,Ashley Furniture,827.57,491.33,114.0,Active,2021-09-12,Local,35.27
+523,Califia Farms Olive Oil,Grocery,Califia Farms,13.82,10.44,421.0,Active,2024-04-03,Local,1.1
+524,LEGO Robot Pet,Toys,LEGO,71.09,54.66,290.0,Active,2024-09-10,Local,1.89
+525,Vitamix Handheld Steamer,Home Goods,Vitamix,375.42,221.94,439.0,Active,2022-11-01,International,3.69
+526,Samsung USB-C Hub,Electronics,Samsung,354.98,213.4,315.0,Active,2022-05-28,Local,4.7
+527,IKEA Wooden Bed Frame,Furniture,IKEA,868.47,584.5,166.0,Discontinued,2021-11-06,Local,71.22
+528,Tide Floor Mop,Household,Tide,17.93,15.3,23.0,Active,2022-12-23,Local,2.39
+529,Aveeno Sunscreen,Beauty,Aveeno,35.47,18.9,172.0,Active,2023-02-12,Local,0.39
+530,Levi's Rain Jacket,Apparel,Levi's,45.59,28.46,169.0,Active,2023-09-10,Local,0.77
+531,HarperCollins Biography,Books,HarperCollins,35.22,19.13,127.0,Active,2021-06-13,Local,0.34
+532,LEGO Robot Pet,Toys,LEGO,95.2,70.45,398.0,Active,2023-06-19,Local,1.51
+533,Nike Wool Scarf,Apparel,Nike,139.17,87.02,194.0,Active,2022-12-22,Local,0.28
+534,Sony Headphones,Electronics,Sony,324.83,170.96,222.0,Active,2020-12-08,Local,1.55
+535,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,133.03,78.92,211.0,Active,2022-02-16,International,0.6
+536,Tide Fabric Softener,Household,Tide,27.0,14.59,318.0,Active,2023-04-28,International,0.62
+537,CeraVe Conditioning Shampoo,Beauty,CeraVe,17.02,12.56,7.0,Active,2022-04-10,International,0.18
+538,Dyson Aromatherapy Diffuser,Home Goods,Dyson,218.29,145.91,182.0,Active,2022-11-06,Local,4.4
+539,LogiTech Fitness Watch,Electronics,LogiTech,107.46,72.46,300.0,Discontinued,2023-07-15,International,1.62
+540,All-Clad Handheld Steamer,Home Goods,All-Clad,203.72,129.8,309.0,Active,2022-05-20,Local,9.21
+541,All-Clad Microfiber Sheets,Home Goods,All-Clad,117.83,98.28,420.0,Active,2021-12-13,Local,3.74
+542,IKEA Dining Table,Furniture,IKEA,806.74,464.47,175.0,Active,2021-06-26,International,52.07
+543,HarperCollins Bestseller Novel,Books,HarperCollins,28.48,17.98,215.0,Active,2022-11-25,International,0.94
+544,Califia Farms Organic Coffee,Grocery,Califia Farms,33.74,19.98,355.0,Active,2021-09-18,Local,1.52
+545,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,95.05,85.16,423.0,Active,2021-08-26,Local,0.79
+546,Vitamix Microfiber Sheets,Home Goods,Vitamix,192.95,141.68,324.0,Active,2024-03-06,Local,1.42
+547,Renpho Massage Gun,Health & Wellness,Renpho,33.61,26.47,135.0,Active,2021-04-29,Local,0.62
+548,Vitamix Coffee Maker,Home Goods,Vitamix,366.94,305.51,11.0,Active,2022-08-08,International,13.39
+549,Starbucks Spicy Salsa,Grocery,Starbucks,25.53,21.03,190.0,Active,2020-12-24,International,1.96
+550,Yeti Portable Grill,Sports & Outdoors,Yeti,36.44,31.09,74.0,Active,2022-05-26,Local,5.56
+551,L'Oréal Cleansing Balm,Beauty,L'Oréal,73.5,63.83,126.0,Active,2022-06-01,Local,0.44
+552,Vitamix Stand Mixer,Home Goods,Vitamix,121.45,99.38,323.0,Active,2022-11-14,International,14.56
+553,Bertolli Organic Oatmeal,Grocery,Bertolli,8.66,7.07,241.0,Active,2022-04-21,Local,0.9
+554,Hasbro Action Figure Set,Toys,Hasbro,57.38,32.8,238.0,Active,2021-10-08,Local,1.6
+555,Tide Heavy-Duty Trash Bags,Household,Tide,19.53,16.96,327.0,Active,2022-01-26,Local,1.49
+556,Clorox Glass Cleaner,Household,Clorox,14.9,9.98,157.0,Active,2021-01-24,Local,4.29
+557,LEGO Plush Toy,Toys,LEGO,26.42,16.33,44.0,Active,2022-07-20,Local,0.41
+558,HarperCollins Fiction Novel,Books,HarperCollins,22.78,15.33,240.0,Active,2022-03-27,Local,0.49
+559,Vitamix Water Filter,Home Goods,Vitamix,116.5,61.79,331.0,Discontinued,2022-11-22,Local,8.02
+560,IKEA Dining Table,Furniture,IKEA,807.29,477.19,475.0,Active,2024-01-25,Local,59.14
+561,Bertolli Spicy Salsa,Grocery,Bertolli,19.82,15.82,155.0,Active,2020-12-15,International,0.54
+562,Dyson Air Fryer,Home Goods,Dyson,303.73,183.59,468.0,Active,2022-04-05,Local,5.85
+563,Yeti Sleeping Bag,Sports & Outdoors,Yeti,157.62,108.57,7.0,Active,2023-03-03,International,1.92
+564,Califia Farms Artisanal Bread,Grocery,Califia Farms,37.55,25.9,108.0,Active,2020-11-27,International,1.56
+565,Tide Floor Mop,Household,Tide,24.8,20.79,161.0,Active,2021-01-15,International,2.38
+566,Swiffer Dish Soap,Household,Swiffer,5.75,4.2,72.0,Active,2023-12-20,International,0.54
+567,CeraVe Conditioning Shampoo,Beauty,CeraVe,37.24,29.83,352.0,Active,2023-02-06,International,0.22
+568,HP Mesh Router,Electronics,HP,403.41,224.16,473.0,Discontinued,2023-06-08,International,2.88
+569,HarperCollins Biography,Books,HarperCollins,39.41,34.66,105.0,Active,2021-08-14,Local,0.63
+570,HarperCollins Historical Fiction,Books,HarperCollins,29.17,15.67,156.0,Active,2021-08-02,Local,0.32
+571,Clorox Fabric Softener,Household,Clorox,9.67,8.36,36.0,Active,2024-05-18,Local,1.81
+572,Patagonia Running Shorts,Apparel,Patagonia,27.47,13.86,266.0,Active,2021-12-17,International,0.65
+573,Dyson Microfiber Sheets,Home Goods,Dyson,184.81,97.49,381.0,Discontinued,2024-05-21,International,2.82
+574,Optimum Nutrition Foam Roller,Health & Wellness,Optimum Nutrition,84.52,58.31,341.0,Active,2021-08-06,International,1.8
+575,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,347.9,311.87,4.0,Active,2021-07-05,International,64.44
+576,Hasbro Action Figure Set,Toys,Hasbro,92.38,64.33,451.0,Active,2023-09-19,Local,0.55
+577,Neutrogena Sunscreen,Beauty,Neutrogena,35.42,29.19,422.0,Active,2023-09-27,Local,0.46
+578,Tide Floor Cleaner,Household,Tide,27.77,21.64,94.0,Active,2023-10-08,International,0.7
+579,Fitbit Digital Thermometer,Health & Wellness,Fitbit,60.71,52.61,342.0,Active,2024-05-28,International,0.73
+580,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,46.22,24.52,189.0,Active,2023-07-14,International,3.6
+581,Vitamix Air Fryer,Home Goods,Vitamix,106.73,73.1,23.0,Active,2023-07-26,International,11.5
+582,L'Oréal Face Wash,Beauty,L'Oréal,65.63,33.81,204.0,Active,2022-05-03,International,0.15
+583,Tide Glass Cleaner,Household,Tide,6.71,5.12,281.0,Active,2021-09-15,Local,2.62
+584,All-Clad High-Speed Blender,Home Goods,All-Clad,340.24,183.8,311.0,Active,2022-01-13,Local,6.47
+585,IKEA Sectional Sofa,Furniture,IKEA,709.64,479.9,79.0,Active,2021-11-18,International,90.34
+586,Starbucks Black Tea Bags,Grocery,Starbucks,36.35,27.4,429.0,Active,2022-08-13,International,1.39
+587,Yeti Soft Cooler,Sports & Outdoors,Yeti,78.96,58.37,27.0,Active,2023-05-06,Local,2.42
+588,CeraVe Facial Moisturizer,Beauty,CeraVe,23.0,15.38,9.0,Discontinued,2021-12-25,Local,0.18
+589,Califia Farms Organic Coffee,Grocery,Califia Farms,40.86,31.28,426.0,Active,2022-03-10,Local,1.12
+590,CeraVe Charcoal Face Mask,Beauty,CeraVe,50.6,36.26,479.0,Discontinued,2024-04-12,Local,0.19
+591,CeraVe Cleansing Balm,Beauty,CeraVe,10.97,6.87,335.0,Active,2022-08-12,Local,0.13
+592,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,139.55,81.98,454.0,Active,2023-12-17,Local,98.48
+593,Mattel Remote Drone,Toys,Mattel,29.57,15.91,492.0,Active,2023-08-22,International,1.35
+594,CeraVe Hydrating Serum,Beauty,CeraVe,51.3,39.76,453.0,Discontinued,2023-10-18,International,0.13
+595,HarperCollins Fiction Novel,Books,HarperCollins,21.47,17.11,328.0,Active,2022-01-11,International,0.31
+596,Penguin Random House Bestseller Novel,Books,Penguin Random House,19.27,12.94,378.0,Active,2021-07-24,Local,0.4
+597,Renpho Digital Thermometer,Health & Wellness,Renpho,27.89,21.11,105.0,Active,2022-01-01,International,2.97
+598,CeraVe Cleansing Balm,Beauty,CeraVe,28.08,22.88,330.0,Active,2020-12-06,International,0.27
+599,Anker Bluetooth Earbuds,Electronics,Anker,431.12,274.66,170.0,Active,2024-03-16,Local,4.6
+600,IKEA Wooden Bed Frame,Furniture,IKEA,647.26,458.64,196.0,Active,2023-09-18,International,15.82
+601,Levi's Cotton T-Shirt,Apparel,Levi's,26.77,23.43,73.0,Active,2020-10-24,Local,0.87
+602,Bertolli Spicy Salsa,Grocery,Bertolli,8.52,5.85,372.0,Active,2022-12-18,Local,0.96
+603,Starbucks Organic Coffee,Grocery,Starbucks,17.84,15.83,230.0,Active,2023-02-01,International,1.07
+604,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,54.36,36.37,226.0,Active,2023-08-18,Local,1.98
+605,Apple Fitness Watch,Electronics,Apple,221.64,118.2,438.0,Discontinued,2021-12-06,Local,2.73
+606,Vitamix Cordless Vacuum,Home Goods,Vitamix,170.77,116.37,157.0,Active,2021-07-14,International,2.01
+607,Clorox Air Freshener,Household,Clorox,8.87,4.45,98.0,Active,2021-09-02,International,2.18
+608,Columbia Insulated Bottle,Sports & Outdoors,Columbia,194.84,127.35,192.0,Active,2023-01-11,International,1.18
+609,Patagonia Down Vest,Apparel,Patagonia,141.18,81.56,84.0,Active,2021-09-25,Local,1.38
+610,L'Oréal Body Lotion,Beauty,L'Oréal,51.27,39.92,189.0,Active,2022-12-14,International,0.39
+611,Clorox Glass Cleaner,Household,Clorox,28.04,21.1,186.0,Active,2024-07-10,International,3.4
+612,HarperCollins Fiction Novel,Books,HarperCollins,38.33,23.06,76.0,Active,2022-02-06,International,0.89
+613,Nike Cotton T-Shirt,Apparel,Nike,103.77,67.84,470.0,Active,2023-10-21,International,0.21
+614,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,170.21,132.21,130.0,Active,2022-09-14,Local,8.92
+615,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,49.99,43.48,449.0,Active,2023-08-24,Local,1.76
+616,Vitamix Stand Mixer,Home Goods,Vitamix,307.03,245.41,477.0,Active,2023-09-16,Local,3.36
+617,LogiTech Wireless Keyboard,Electronics,LogiTech,81.43,54.32,357.0,Active,2022-08-05,Local,2.21
+618,CeraVe Body Lotion,Beauty,CeraVe,55.76,38.73,102.0,Active,2023-09-06,Local,0.33
+619,All-Clad Stand Mixer,Home Goods,All-Clad,51.82,42.68,94.0,Active,2022-02-27,International,13.2
+620,IKEA Office Desk,Furniture,IKEA,881.53,468.91,86.0,Active,2021-04-23,Local,15.78
+621,Penguin Random House Historical Fiction,Books,Penguin Random House,24.34,19.57,345.0,Active,2022-12-08,Local,0.97
+622,LogiTech Speaker,Electronics,LogiTech,144.98,72.91,406.0,Active,2021-06-26,International,3.83
+623,Tide Dish Soap,Household,Tide,20.11,13.04,173.0,Active,2024-04-22,International,4.18
+624,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,440.59,392.18,30.0,Active,2024-09-16,International,10.28
+625,All-Clad Stand Mixer,Home Goods,All-Clad,252.71,179.99,445.0,Discontinued,2024-07-30,International,4.48
+626,HarperCollins Fiction Novel,Books,HarperCollins,25.45,14.64,339.0,Discontinued,2022-11-05,International,0.87
+627,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,886.09,729.27,497.0,Active,2024-02-08,Local,64.61
+628,Penguin Random House Cookbook,Books,Penguin Random House,20.45,17.84,481.0,Discontinued,2021-01-17,International,0.9
+629,Columbia Portable Hammock,Sports & Outdoors,Columbia,131.26,73.15,365.0,Active,2024-01-09,Local,8.64
+630,Anker Wireless Keyboard,Electronics,Anker,274.07,170.07,45.0,Active,2020-12-10,Local,4.39
+631,Clorox Laundry Pods,Household,Clorox,17.05,10.17,277.0,Active,2020-10-10,International,3.47
+632,Patagonia Cotton T-Shirt,Apparel,Patagonia,149.14,84.13,15.0,Discontinued,2021-04-19,International,1.17
+633,Fitbit Digital Thermometer,Health & Wellness,Fitbit,55.49,42.63,460.0,Active,2023-04-10,International,1.94
+634,Adidas Down Vest,Apparel,Adidas,133.35,97.4,478.0,Discontinued,2021-01-08,Local,0.58
+635,Yeti Hiking Poles,Sports & Outdoors,Yeti,137.37,121.78,288.0,Active,2021-05-09,Local,2.96
+636,Nike Slim Jeans,Apparel,Nike,31.59,23.28,380.0,Active,2021-08-16,International,0.9
+637,L'Oréal Sunscreen,Beauty,L'Oréal,47.5,29.66,1.0,Active,2022-07-29,Local,0.26
+638,Neutrogena Sunscreen,Beauty,Neutrogena,61.84,50.62,479.0,Active,2020-12-28,International,0.19
+639,HP Speaker,Electronics,HP,433.56,241.87,162.0,Discontinued,2023-04-20,International,2.55
+640,Dyson Toaster Oven,Home Goods,Dyson,134.86,103.32,383.0,Active,2024-06-26,International,9.38
+641,Mattel Puzzle Set,Toys,Mattel,25.49,19.95,435.0,Active,2024-05-26,International,1.64
+642,Apple Portable Power Bank,Electronics,Apple,199.92,157.28,424.0,Active,2023-05-22,International,1.2
+643,Apple Wireless Keyboard,Electronics,Apple,399.22,277.46,439.0,Active,2020-10-23,International,3.33
+644,HP Fitness Watch,Electronics,HP,226.53,174.69,217.0,Discontinued,2022-11-17,International,2.02
+645,Optimum Nutrition Smart Scale,Health & Wellness,Optimum Nutrition,74.19,57.9,100.0,Active,2022-05-24,Local,1.04
+646,Apple Gaming Laptop,Electronics,Apple,470.56,321.4,156.0,Active,2020-10-25,Local,3.51
+647,All-Clad High-Speed Blender,Home Goods,All-Clad,110.71,64.02,384.0,Active,2023-08-22,Local,12.99
+648,IKEA Wooden Bed Frame,Furniture,IKEA,438.9,338.73,219.0,Active,2022-11-22,Local,42.0
+649,All-Clad Air Fryer,Home Goods,All-Clad,73.42,55.8,264.0,Active,2021-11-23,International,9.78
+650,Califia Farms Greek Yogurt,Grocery,Califia Farms,10.35,7.2,204.0,Active,2022-10-04,International,1.38
+651,IKEA Office Desk,Furniture,IKEA,799.96,661.79,443.0,Active,2023-07-17,International,50.06
+652,Nike Graphic T-Shirt,Apparel,Nike,30.74,23.26,251.0,Discontinued,2022-06-22,Local,0.92
+653,Tide Air Freshener,Household,Tide,22.34,18.27,49.0,Active,2024-07-04,Local,3.4
+654,Fitbit Massage Gun,Health & Wellness,Fitbit,25.65,13.48,167.0,Discontinued,2021-06-19,International,0.64
+655,Yeti Water-Resistant Backpack,Sports & Outdoors,Yeti,168.06,138.63,402.0,Active,2024-06-03,Local,6.05
+656,Bertolli Organic Coffee,Grocery,Bertolli,45.39,38.35,93.0,Active,2022-11-06,Local,1.01
+657,Nike Running Shorts,Apparel,Nike,36.75,27.97,106.0,Active,2021-09-18,Local,1.15
+658,Adidas Rain Jacket,Apparel,Adidas,67.26,38.25,279.0,Discontinued,2023-03-25,International,0.45
+659,Hasbro Action Figure,Toys,Hasbro,71.03,39.49,228.0,Active,2021-10-04,Local,2.76
+660,Penguin Random House Children's Book,Books,Penguin Random House,30.64,25.37,340.0,Active,2022-03-02,Local,0.51
+661,Dyson Toaster Oven,Home Goods,Dyson,234.27,150.78,303.0,Active,2023-12-06,International,2.04
+662,Optimum Nutrition Bathroom Scale,Health & Wellness,Optimum Nutrition,70.23,46.35,84.0,Active,2021-01-24,Local,1.33
+663,LEGO Building Blocks Set,Toys,LEGO,21.0,12.76,376.0,Active,2024-08-02,International,2.23
+664,IKEA Two-Seat Sofa,Furniture,IKEA,477.72,299.31,79.0,Active,2022-08-02,Local,96.76
+665,Adidas Hooded Sweatshirt,Apparel,Adidas,36.2,28.0,57.0,Active,2021-09-21,Local,0.22
+666,Renpho Protein Powder,Health & Wellness,Renpho,88.85,54.15,116.0,Active,2023-07-16,International,0.74
+667,Levi's Down Vest,Apparel,Levi's,88.44,55.06,449.0,Active,2021-12-13,Local,0.84
+668,HarperCollins Sci-Fi Paperback,Books,HarperCollins,26.55,14.33,312.0,Active,2024-01-23,Local,0.83
+669,L'Oréal Waterproof Mascara,Beauty,L'Oréal,41.0,24.75,66.0,Active,2021-01-26,International,0.36
+670,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,153.7,133.32,28.0,Active,2024-09-18,Local,7.89
+671,Yeti Sleeping Bag,Sports & Outdoors,Yeti,105.11,94.02,225.0,Active,2023-05-08,Local,3.12
+672,Mattel Action Figure,Toys,Mattel,89.92,53.19,417.0,Active,2020-11-16,Local,1.13
+673,Nike Running Jacket,Apparel,Nike,29.97,26.31,123.0,Active,2022-05-16,Local,1.14
+674,Clorox Fabric Softener,Household,Clorox,29.05,22.39,218.0,Discontinued,2022-04-05,Local,2.74
+675,Patagonia Down Vest,Apparel,Patagonia,21.81,18.85,98.0,Active,2022-08-27,International,1.08
+676,CeraVe Conditioning Shampoo,Beauty,CeraVe,74.62,65.69,339.0,Active,2023-04-19,International,0.31
+677,HP 4K Monitor,Electronics,HP,251.89,193.91,87.0,Active,2023-07-24,Local,1.2
+678,CeraVe Charcoal Face Mask,Beauty,CeraVe,43.39,22.58,488.0,Active,2021-01-29,Local,0.49
+679,IKEA Two-Seat Sofa,Furniture,IKEA,848.55,684.41,436.0,Active,2024-02-18,Local,36.42
+680,Samsung Smart Mouse,Electronics,Samsung,334.03,196.07,202.0,Active,2023-05-01,International,3.25
+681,Swiffer Disinfectant Wipes,Household,Swiffer,26.21,16.83,30.0,Active,2022-01-27,Local,2.09
+682,CeraVe Waterproof Mascara,Beauty,CeraVe,36.13,19.53,5.0,Active,2024-08-28,Local,0.31
+683,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,184.79,103.9,4.0,Active,2024-08-23,Local,4.26
+684,L'Oréal Waterproof Mascara,Beauty,L'Oréal,67.99,56.07,275.0,Active,2024-04-30,Local,0.44
+685,Vitamix Ceramic Pan Set,Home Goods,Vitamix,306.42,197.24,3.0,Active,2024-06-04,Local,3.65
+686,Vitamix Handheld Steamer,Home Goods,Vitamix,185.79,159.85,170.0,Active,2021-09-01,Local,7.71
+687,Renpho Yoga Mat,Health & Wellness,Renpho,50.79,35.46,282.0,Active,2024-05-09,Local,2.28
+688,Mattel Remote Drone,Toys,Mattel,93.5,77.63,432.0,Active,2023-07-09,International,2.44
+689,Vitamix Smart Toaster,Home Goods,Vitamix,215.0,166.36,393.0,Active,2023-01-07,International,7.02
+690,Dell Fitness Watch,Electronics,Dell,266.09,184.77,145.0,Active,2021-11-01,Local,0.85
+691,All-Clad Microfiber Sheets,Home Goods,All-Clad,134.02,113.34,59.0,Discontinued,2024-06-12,Local,12.49
+692,Swiffer Kitchen Cleaner,Household,Swiffer,24.57,19.18,53.0,Active,2023-06-27,Local,4.97
+693,IKEA Office Desk,Furniture,IKEA,306.45,202.41,68.0,Active,2021-11-14,Local,23.16
+694,Penguin Random House Children's Book,Books,Penguin Random House,12.73,8.3,27.0,Active,2022-12-03,International,0.99
+695,L'Oréal Charcoal Face Mask,Beauty,L'Oréal,41.15,27.6,262.0,Active,2023-05-20,Local,0.25
+696,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,80.97,46.37,25.0,Active,2021-06-20,International,3.56
+697,Tide Laundry Pods,Household,Tide,27.71,18.63,52.0,Active,2024-02-25,Local,2.0
+698,Nike Graphic T-Shirt,Apparel,Nike,108.78,91.9,395.0,Active,2020-10-23,International,0.61
+699,Mattel Building Blocks Set,Toys,Mattel,46.59,28.44,333.0,Active,2021-07-30,Local,0.59
+700,Nike Running Shorts,Apparel,Nike,96.25,82.16,468.0,Active,2021-04-29,Local,0.72
+701,Adidas Cotton T-Shirt,Apparel,Adidas,59.19,53.03,243.0,Active,2024-01-13,International,0.16
+702,Yeti Portable Grill,Sports & Outdoors,Yeti,149.53,127.22,457.0,Active,2024-01-13,International,9.76
+703,Swiffer Disinfectant Wipes,Household,Swiffer,22.93,15.47,467.0,Active,2024-06-19,Local,4.79
+704,Dyson Cordless Blender,Home Goods,Dyson,131.43,72.49,496.0,Active,2021-12-12,Local,12.12
+705,Bertolli Granola Bars,Grocery,Bertolli,41.65,32.23,254.0,Active,2023-01-02,International,0.5
+706,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,161.39,119.89,206.0,Active,2023-01-06,Local,5.93
+707,Apple Portable Power Bank,Electronics,Apple,280.76,219.86,258.0,Active,2024-02-24,Local,1.18
+708,Fitbit Resistance Bands,Health & Wellness,Fitbit,25.12,13.02,115.0,Active,2023-06-17,Local,0.53
+709,Vitamix Ceramic Pan Set,Home Goods,Vitamix,353.15,267.32,27.0,Active,2022-11-29,International,8.48
+710,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,669.41,433.54,498.0,Active,2022-04-14,International,59.43
+711,Yeti Hiking Poles,Sports & Outdoors,Yeti,76.61,57.49,30.0,Active,2023-09-16,Local,7.44
+712,Vitamix Cordless Blender,Home Goods,Vitamix,389.49,297.15,276.0,Active,2023-11-29,International,9.17
+713,Yeti Hiking Poles,Sports & Outdoors,Yeti,70.04,52.79,321.0,Active,2023-07-05,International,2.6
+714,Bertolli Organic Coffee,Grocery,Bertolli,33.34,26.71,440.0,Active,2021-01-23,Local,1.51
+715,Vitamix Cordless Blender,Home Goods,Vitamix,64.67,44.22,93.0,Active,2023-09-25,Local,8.98
+716,Dyson High-Speed Blender,Home Goods,Dyson,134.36,75.94,159.0,Active,2022-02-18,Local,9.51
+717,All-Clad Cordless Blender,Home Goods,All-Clad,187.77,162.17,233.0,Discontinued,2021-02-20,Local,8.37
+718,HP Smart Mouse,Electronics,HP,94.88,48.23,197.0,Active,2021-09-05,International,3.26
+719,All-Clad Aromatherapy Diffuser,Home Goods,All-Clad,314.94,175.44,138.0,Active,2021-01-20,Local,14.53
+720,Adidas Slim Jeans,Apparel,Adidas,130.85,76.01,44.0,Active,2023-03-04,Local,0.72
+721,Optimum Nutrition Massage Gun,Health & Wellness,Optimum Nutrition,55.71,29.1,125.0,Active,2023-03-16,International,0.46
+722,Adidas Polo Shirt,Apparel,Adidas,33.33,27.82,454.0,Active,2023-02-18,International,0.13
+723,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,86.83,51.26,147.0,Active,2024-08-16,Local,8.9
+724,Clorox Laundry Pods,Household,Clorox,29.77,16.1,115.0,Discontinued,2022-01-20,Local,3.27
+725,Aveeno Sunscreen,Beauty,Aveeno,68.21,38.23,310.0,Active,2023-04-15,Local,0.17
+726,Dyson Handheld Steamer,Home Goods,Dyson,284.25,235.08,320.0,Active,2023-11-19,Local,13.83
+727,Neutrogena Waterproof Mascara,Beauty,Neutrogena,62.7,51.38,365.0,Active,2022-07-21,International,0.49
+728,CeraVe Sunscreen,Beauty,CeraVe,35.39,28.98,370.0,Discontinued,2021-08-30,International,0.15
+729,Renpho Yoga Mat,Health & Wellness,Renpho,22.69,13.0,66.0,Active,2022-12-17,Local,1.33
+730,HarperCollins Children's Picture Book,Books,HarperCollins,14.15,10.78,484.0,Active,2022-04-02,Local,0.65
+731,Swiffer Heavy-Duty Trash Bags,Household,Swiffer,18.41,12.04,118.0,Active,2021-06-29,Local,3.1
+732,Levi's Running Shorts,Apparel,Levi's,67.02,60.15,105.0,Active,2023-02-03,Local,1.44
+733,Sony Fitness Watch,Electronics,Sony,212.39,179.83,435.0,Active,2022-04-09,Local,0.81
+734,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,61.88,32.32,115.0,Active,2023-11-03,International,7.19
+735,Samsung HD Webcam,Electronics,Samsung,484.21,252.58,191.0,Active,2021-12-06,Local,2.44
+736,All-Clad Cordless Vacuum,Home Goods,All-Clad,84.35,44.84,73.0,Active,2021-09-26,Local,12.39
+737,Vitamix Stand Mixer,Home Goods,Vitamix,305.12,216.93,384.0,Discontinued,2021-01-16,Local,11.12
+738,IKEA Platform Bed,Furniture,IKEA,358.09,187.64,80.0,Active,2021-10-27,International,25.62
+739,Dell HD Webcam,Electronics,Dell,424.71,373.45,349.0,Active,2022-04-09,International,1.36
+740,Hasbro Remote Drone,Toys,Hasbro,75.29,65.7,217.0,Active,2023-11-20,Local,1.32
+741,Starbucks Black Tea Bags,Grocery,Starbucks,32.86,21.59,113.0,Active,2021-05-14,International,1.29
+742,Tide Air Freshener,Household,Tide,12.83,8.49,329.0,Active,2022-04-23,Local,2.17
+743,Starbucks Olive Oil,Grocery,Starbucks,9.88,6.37,40.0,Active,2022-03-11,Local,0.63
+744,LEGO Starship Set,Toys,LEGO,20.55,10.37,306.0,Discontinued,2021-02-11,Local,0.84
+745,Starbucks Organic Coffee,Grocery,Starbucks,8.83,6.41,292.0,Active,2024-07-09,International,0.28
+746,Adidas Polo Shirt,Apparel,Adidas,21.1,16.89,183.0,Discontinued,2022-07-12,Local,0.54
+747,CeraVe Waterproof Mascara,Beauty,CeraVe,55.67,35.21,50.0,Active,2023-10-18,Local,0.3
+748,HP Speaker,Electronics,HP,408.23,299.86,245.0,Active,2021-02-27,Local,0.84
+749,Nike Slim Jeans,Apparel,Nike,143.87,122.83,119.0,Active,2021-02-05,International,1.18
+750,Mattel Action Figure,Toys,Mattel,99.34,75.55,312.0,Discontinued,2022-06-22,Local,2.42
+751,Optimum Nutrition Vitamin Gummies,Health & Wellness,Optimum Nutrition,68.0,45.72,482.0,Active,2022-12-23,International,1.22
+752,Penguin Random House Fantasy Series,Books,Penguin Random House,38.74,29.1,291.0,Active,2022-10-19,International,0.4
+753,LEGO Action Figure,Toys,LEGO,57.41,35.91,233.0,Discontinued,2021-02-28,Local,1.06
+754,Aveeno Face Wash,Beauty,Aveeno,14.62,11.82,364.0,Active,2021-02-08,Local,0.2
+755,IKEA Media Console,Furniture,IKEA,945.85,688.1,498.0,Active,2022-12-19,International,46.08
+756,IKEA Sectional Sofa,Furniture,IKEA,496.74,416.24,263.0,Discontinued,2023-02-20,Local,71.4
+757,Tide Fabric Softener,Household,Tide,26.94,13.93,350.0,Discontinued,2023-11-21,Local,4.06
+758,Anker Speaker,Electronics,Anker,433.88,282.16,149.0,Active,2024-03-15,International,1.19
+759,IKEA Ergonomic Chair,Furniture,IKEA,414.04,313.43,240.0,Discontinued,2020-10-19,Local,17.72
+760,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,59.91,31.5,169.0,Active,2022-05-28,International,2.52
+761,Adidas Rain Jacket,Apparel,Adidas,79.1,44.48,280.0,Active,2023-11-13,International,0.55
+762,HarperCollins Fiction Novel,Books,HarperCollins,11.87,7.65,414.0,Active,2023-08-25,Local,0.34
+763,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,342.86,195.58,326.0,Active,2022-12-27,Local,17.35
+764,Yeti Portable Grill,Sports & Outdoors,Yeti,62.47,37.72,458.0,Active,2024-09-20,Local,9.07
+765,Renpho Yoga Mat,Health & Wellness,Renpho,31.88,21.28,483.0,Active,2021-09-20,International,0.57
+766,L'Oréal Conditioning Shampoo,Beauty,L'Oréal,63.5,51.64,288.0,Active,2022-11-01,Local,0.37
+767,Vitamix Cordless Vacuum,Home Goods,Vitamix,275.7,241.4,422.0,Active,2023-06-29,International,5.43
+768,Clorox Disinfectant Wipes,Household,Clorox,17.49,9.54,163.0,Discontinued,2021-06-05,Local,2.84
+769,Clorox Air Freshener,Household,Clorox,20.86,18.52,328.0,Active,2021-10-28,Local,4.91
+770,LEGO Starship Set,Toys,LEGO,66.08,42.24,111.0,Discontinued,2021-10-28,International,1.86
+771,Neutrogena Face Wash,Beauty,Neutrogena,11.05,6.88,460.0,Active,2021-05-02,Local,0.3
+772,Columbia Camping Tent,Sports & Outdoors,Columbia,86.55,62.06,425.0,Active,2021-06-02,International,1.58
+773,Tide Air Freshener,Household,Tide,14.33,10.57,284.0,Active,2021-11-08,Local,4.3
+774,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,731.88,636.78,481.0,Active,2021-12-12,International,82.53
+775,Nike Cargo Pants,Apparel,Nike,100.11,54.21,211.0,Active,2023-11-18,International,0.86
+776,Swiffer Fabric Softener,Household,Swiffer,19.53,14.98,17.0,Active,2022-03-12,Local,4.0
+777,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,59.22,52.13,241.0,Active,2024-07-11,International,4.91
+778,Sony Mesh Router,Electronics,Sony,401.99,246.6,260.0,Active,2023-08-20,Local,4.21
+779,Yeti Portable Hammock,Sports & Outdoors,Yeti,67.27,58.1,461.0,Active,2022-09-25,Local,8.01
+780,HarperCollins Historical Fiction,Books,HarperCollins,20.05,14.61,492.0,Active,2023-03-20,Local,0.57
+781,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,845.69,738.1,411.0,Active,2022-07-31,International,45.14
+782,Columbia Bicycle Helmet,Sports & Outdoors,Columbia,115.52,68.43,224.0,Active,2021-04-16,Local,1.62
+783,Yeti Sleeping Bag,Sports & Outdoors,Yeti,185.42,133.72,429.0,Discontinued,2020-10-10,Local,1.39
+784,Samsung Headphones,Electronics,Samsung,396.51,202.67,79.0,Active,2022-05-02,International,0.49
+785,Samsung Bluetooth Earbuds,Electronics,Samsung,380.38,286.72,233.0,Active,2024-02-12,Local,3.3
+786,Renpho Massage Gun,Health & Wellness,Renpho,60.51,47.83,126.0,Active,2022-04-09,Local,0.86
+787,Renpho Smart Scale,Health & Wellness,Renpho,94.47,48.11,322.0,Discontinued,2024-03-13,International,0.42
+788,Nike Cotton T-Shirt,Apparel,Nike,38.44,32.98,135.0,Active,2022-07-06,Local,0.61
+789,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,110.93,73.82,12.0,Active,2022-06-22,International,2.5
+790,Columbia Bicycle Helmet,Sports & Outdoors,Columbia,135.87,111.88,231.0,Active,2024-01-17,Local,2.2
+791,IKEA Platform Bed,Furniture,IKEA,205.49,184.43,176.0,Active,2023-05-10,International,59.18
+792,Mattel Remote Drone,Toys,Mattel,36.63,21.14,63.0,Active,2023-02-16,Local,1.68
+793,Starbucks Olive Oil,Grocery,Starbucks,10.17,5.2,112.0,Active,2021-12-13,Local,1.44
+794,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,55.93,30.02,489.0,Active,2023-03-01,International,1.45
+795,Yeti Hiking Poles,Sports & Outdoors,Yeti,190.61,110.02,473.0,Active,2023-07-13,International,8.93
+796,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,127.14,93.45,393.0,Active,2022-08-31,Local,7.36
+797,Tide Kitchen Cleaner,Household,Tide,19.91,16.45,140.0,Active,2021-06-17,International,2.43
+798,Neutrogena Conditioning Shampoo,Beauty,Neutrogena,68.36,35.94,420.0,Active,2022-05-05,Local,0.3
+799,Columbia Camping Tent,Sports & Outdoors,Columbia,130.68,99.06,450.0,Discontinued,2022-01-10,Local,0.78
+800,L'Oréal Charcoal Face Mask,Beauty,L'Oréal,61.41,36.73,184.0,Active,2023-09-09,Local,0.16
+801,Nike Cotton T-Shirt,Apparel,Nike,61.42,48.32,6.0,Active,2023-04-13,Local,0.55
+802,LEGO Robot Pet,Toys,LEGO,47.78,27.95,309.0,Active,2024-08-14,Local,2.23
+803,HarperCollins Bestseller Novel,Books,HarperCollins,30.46,19.1,223.0,Active,2023-11-17,Local,0.86
+804,Sony Smart Mouse,Electronics,Sony,239.56,163.17,64.0,Active,2022-01-20,Local,1.26
+805,Renpho Yoga Mat,Health & Wellness,Renpho,69.71,50.91,439.0,Active,2021-11-14,Local,0.48
+806,HP Headphones,Electronics,HP,463.12,294.06,21.0,Active,2023-11-23,Local,4.17
+807,Optimum Nutrition Yoga Mat,Health & Wellness,Optimum Nutrition,41.96,27.7,178.0,Active,2022-03-18,Local,1.88
+808,Fitbit Smart Scale,Health & Wellness,Fitbit,98.64,82.81,253.0,Discontinued,2024-06-23,Local,1.18
+809,Nike Polo Shirt,Apparel,Nike,49.12,24.76,423.0,Active,2021-07-19,Local,1.06
+810,Califia Farms Artisanal Bread,Grocery,Califia Farms,8.96,7.71,371.0,Active,2024-09-27,International,1.98
+811,Sony HD Webcam,Electronics,Sony,447.49,243.58,23.0,Discontinued,2021-06-20,Local,1.71
+812,Columbia Bicycle Helmet,Sports & Outdoors,Columbia,147.27,81.75,474.0,Active,2023-10-27,Local,8.69
+813,Yeti Hiking Poles,Sports & Outdoors,Yeti,103.19,73.13,63.0,Active,2020-11-09,Local,5.16
+814,L'Oréal Body Lotion,Beauty,L'Oréal,24.68,19.9,136.0,Active,2023-08-29,Local,0.43
+815,IKEA Accent Chair,Furniture,IKEA,725.47,644.73,39.0,Active,2024-07-09,Local,29.45
+816,Starbucks Whole Grain Bread,Grocery,Starbucks,9.7,8.01,107.0,Active,2021-08-03,Local,0.76
+817,Swiffer Floor Mop,Household,Swiffer,8.85,4.8,259.0,Active,2023-12-10,International,2.24
+818,Penguin Random House Historical Fiction,Books,Penguin Random House,33.4,17.62,97.0,Active,2024-01-28,International,0.97
+819,IKEA Bookshelf,Furniture,IKEA,232.56,126.25,449.0,Active,2021-01-10,Local,51.48
+820,Dell Bluetooth Earbuds,Electronics,Dell,347.85,222.9,232.0,Active,2024-02-21,Local,1.84
+821,Vitamix Air Fryer,Home Goods,Vitamix,215.81,136.71,261.0,Active,2023-12-06,Local,1.69
+822,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,76.45,43.63,207.0,Active,2023-06-11,International,5.43
+823,IKEA Two-Seat Sofa,Furniture,IKEA,681.71,371.15,491.0,Active,2021-04-22,International,61.77
+824,Nike Down Vest,Apparel,Nike,55.81,41.75,452.0,Active,2021-12-17,Local,0.24
+825,Optimum Nutrition Massage Gun,Health & Wellness,Optimum Nutrition,32.48,18.88,403.0,Active,2021-10-05,International,0.94
+826,Levi's Slim Jeans,Apparel,Levi's,85.42,63.97,359.0,Active,2021-05-14,International,1.06
+827,Aveeno Charcoal Face Mask,Beauty,Aveeno,20.83,17.91,171.0,Active,2022-06-11,Local,0.29
+828,Anker Speaker,Electronics,Anker,488.47,259.28,452.0,Active,2022-04-04,International,3.01
+829,Penguin Random House Fantasy Series,Books,Penguin Random House,24.65,16.98,127.0,Active,2022-07-19,Local,0.78
+830,Bertolli Spaghetti Sauce,Grocery,Bertolli,27.64,15.44,387.0,Active,2023-02-21,Local,1.53
+831,Swiffer Dish Soap,Household,Swiffer,13.77,8.3,280.0,Active,2023-01-29,Local,0.56
+832,Fitbit Protein Powder,Health & Wellness,Fitbit,43.37,35.12,266.0,Active,2022-11-20,International,1.83
+833,Fitbit Bathroom Scale,Health & Wellness,Fitbit,59.14,30.06,328.0,Discontinued,2024-06-11,International,2.01
+834,L'Oréal Body Lotion,Beauty,L'Oréal,12.01,9.56,296.0,Discontinued,2024-03-24,Local,0.4
+835,Yeti Portable Hammock,Sports & Outdoors,Yeti,43.89,37.34,141.0,Active,2022-06-04,International,4.77
+836,Vitamix Toaster Oven,Home Goods,Vitamix,366.82,313.7,179.0,Active,2020-11-23,Local,14.92
+837,Califia Farms Organic Coffee,Grocery,Califia Farms,31.08,19.81,360.0,Active,2024-08-15,Local,1.02
+838,Renpho Resistance Bands,Health & Wellness,Renpho,97.4,84.82,256.0,Active,2023-07-23,International,1.62
+839,Penguin Random House Historical Fiction,Books,Penguin Random House,19.11,10.05,148.0,Active,2023-12-31,Local,0.45
+840,Nike Hooded Sweatshirt,Apparel,Nike,83.49,56.12,3.0,Active,2023-02-15,Local,0.45
+841,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,71.55,51.82,394.0,Discontinued,2024-05-28,International,0.51
+842,Yeti Sleeping Bag,Sports & Outdoors,Yeti,185.7,109.11,149.0,Active,2021-03-09,Local,8.21
+843,Columbia Sleeping Bag,Sports & Outdoors,Columbia,194.21,166.48,51.0,Discontinued,2021-09-28,Local,2.15
+844,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,823.94,637.18,72.0,Active,2023-05-30,Local,59.89
+845,Renpho Yoga Mat,Health & Wellness,Renpho,40.27,30.26,475.0,Active,2021-06-01,Local,2.64
+846,Levi's Polo Shirt,Apparel,Levi's,88.45,55.31,356.0,Discontinued,2023-03-15,International,0.76
+847,Tide Floor Cleaner,Household,Tide,29.04,14.84,237.0,Active,2023-01-01,International,2.39
+848,HarperCollins Fantasy Series,Books,HarperCollins,33.6,23.68,298.0,Active,2023-05-01,Local,0.7
+849,Apple Speaker,Electronics,Apple,430.3,284.5,65.0,Active,2023-05-03,International,4.39
+850,LogiTech HD Webcam,Electronics,LogiTech,74.61,66.74,425.0,Active,2024-08-13,Local,4.13
+851,Swiffer Heavy-Duty Trash Bags,Household,Swiffer,13.28,7.29,32.0,Active,2022-01-28,Local,3.73
+852,LEGO Building Blocks,Toys,LEGO,62.77,43.82,496.0,Active,2023-12-08,International,2.6
+853,Ashley Furniture Office Desk,Furniture,Ashley Furniture,747.23,375.54,480.0,Active,2021-03-04,International,20.32
+854,Dyson Stand Mixer,Home Goods,Dyson,355.56,191.56,267.0,Active,2021-02-22,Local,12.66
+855,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,187.06,123.8,154.0,Discontinued,2021-08-21,International,8.5
+856,Fitbit Bathroom Scale,Health & Wellness,Fitbit,72.91,55.65,440.0,Active,2023-09-27,Local,0.16
+857,IKEA Ergonomic Chair,Furniture,IKEA,253.7,197.85,380.0,Active,2022-12-25,Local,36.05
+858,HarperCollins Self-Help Guide,Books,HarperCollins,21.02,13.8,141.0,Active,2023-07-02,Local,0.59
+859,All-Clad Handheld Steamer,Home Goods,All-Clad,134.87,97.87,62.0,Active,2021-08-19,Local,10.03
+860,HarperCollins Fiction Novel,Books,HarperCollins,11.28,7.24,465.0,Active,2022-03-31,International,0.62
+861,Vitamix High-Speed Blender,Home Goods,Vitamix,215.24,150.94,441.0,Active,2022-08-08,International,6.47
+862,Dyson Toaster Oven,Home Goods,Dyson,86.02,67.76,336.0,Active,2023-06-20,International,12.01
+863,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,931.13,806.79,35.0,Active,2023-07-06,Local,52.46
+864,HarperCollins Cookbook,Books,HarperCollins,13.88,10.21,166.0,Active,2021-05-09,Local,0.88
+865,LogiTech External SSD,Electronics,LogiTech,433.41,256.87,82.0,Active,2024-09-27,Local,3.43
+866,Bertolli Greek Yogurt,Grocery,Bertolli,40.8,35.08,54.0,Active,2022-09-06,International,1.56
+867,Nike Cargo Pants,Apparel,Nike,99.55,51.26,59.0,Active,2021-12-06,Local,0.62
+868,Anker Bluetooth Earbuds,Electronics,Anker,194.52,132.24,358.0,Active,2024-06-06,International,2.83
+869,Optimum Nutrition Vitamin Gummies,Health & Wellness,Optimum Nutrition,52.19,30.8,147.0,Active,2021-02-03,Local,1.63
+870,Nike Polo Shirt,Apparel,Nike,101.79,54.81,343.0,Active,2024-01-28,Local,0.11
+871,Penguin Random House Children's Book,Books,Penguin Random House,20.22,16.01,350.0,Discontinued,2023-09-02,International,0.65
+872,HarperCollins Self-Help Guide,Books,HarperCollins,25.03,18.71,183.0,Active,2022-02-21,Local,0.35
+873,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,886.58,471.0,292.0,Active,2022-02-14,Local,20.61
+874,HP Portable Power Bank,Electronics,HP,293.24,172.9,12.0,Discontinued,2023-11-20,International,1.33
+875,Aveeno Conditioning Shampoo,Beauty,Aveeno,66.71,59.19,81.0,Active,2022-11-01,Local,0.44
+876,Hasbro Building Blocks,Toys,Hasbro,48.93,35.15,30.0,Active,2022-02-21,Local,2.83
+877,IKEA Sectional Sofa,Furniture,IKEA,129.05,77.99,216.0,Active,2021-02-20,International,22.54
+878,Aveeno Hydrating Serum,Beauty,Aveeno,25.32,20.82,38.0,Active,2023-08-21,International,0.43
+879,Aveeno Waterproof Mascara,Beauty,Aveeno,71.74,57.08,307.0,Discontinued,2022-07-24,International,0.29
+880,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,18.55,12.96,19.0,Active,2021-01-07,Local,1.49
+881,LogiTech Portable Power Bank,Electronics,LogiTech,61.86,51.01,401.0,Active,2020-12-05,International,3.44
+882,HP Wireless Keyboard,Electronics,HP,266.98,215.26,199.0,Active,2023-08-05,Local,2.19
+883,Patagonia Rain Jacket,Apparel,Patagonia,35.34,31.56,316.0,Active,2020-11-02,Local,0.71
+884,Califia Farms Spicy Salsa,Grocery,Califia Farms,9.14,5.4,6.0,Active,2022-02-14,International,1.63
+885,Apple Gaming Laptop,Electronics,Apple,56.7,34.02,369.0,Active,2021-03-09,Local,2.25
+886,Sony USB-C Hub,Electronics,Sony,207.35,177.53,336.0,Discontinued,2023-12-13,Local,2.05
+887,Nike Cotton T-Shirt,Apparel,Nike,29.93,21.47,481.0,Active,2024-06-20,International,0.6
+888,Swiffer Glass Cleaner,Household,Swiffer,12.57,10.21,188.0,Active,2023-09-17,International,2.87
+889,Aveeno Waterproof Mascara,Beauty,Aveeno,13.51,8.98,462.0,Discontinued,2022-10-24,Local,0.13
+890,LEGO Classic Board Game,Toys,LEGO,40.92,23.91,284.0,Active,2022-12-16,International,0.68
+891,Swiffer Air Freshener,Household,Swiffer,24.1,13.15,488.0,Active,2022-01-27,Local,1.75
+892,Renpho Massage Gun,Health & Wellness,Renpho,20.08,14.94,438.0,Active,2022-06-15,International,1.22
+893,Califia Farms Organic Coffee,Grocery,Califia Farms,22.07,14.84,338.0,Active,2022-08-07,Local,1.17
+894,HP Mesh Router,Electronics,HP,389.52,338.52,173.0,Discontinued,2023-12-10,International,3.0
+895,Sony Smart Mouse,Electronics,Sony,376.6,253.69,319.0,Active,2023-04-09,International,3.7
+896,Patagonia Graphic T-Shirt,Apparel,Patagonia,143.82,110.91,478.0,Active,2021-06-30,International,0.75
+897,HarperCollins Fantasy Series,Books,HarperCollins,14.88,10.22,196.0,Discontinued,2023-05-19,Local,0.94
+898,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,176.98,143.09,128.0,Active,2022-05-01,Local,13.47
+899,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,52.85,40.23,401.0,Active,2023-09-13,Local,0.22
+900,Renpho Foam Roller,Health & Wellness,Renpho,52.72,35.64,9.0,Active,2024-04-13,International,1.49
+901,Starbucks Spaghetti Sauce,Grocery,Starbucks,7.64,4.06,481.0,Active,2022-07-19,Local,1.92
+902,Vitamix Smart Toaster,Home Goods,Vitamix,313.41,189.24,142.0,Active,2022-06-20,Local,3.44
+903,IKEA Office Desk,Furniture,IKEA,309.41,159.47,336.0,Active,2020-10-07,International,62.19
+904,Mattel Action Figure,Toys,Mattel,34.38,27.02,488.0,Active,2021-08-10,Local,2.13
+905,Mattel Classic Board Game,Toys,Mattel,18.8,12.03,121.0,Active,2021-11-11,Local,1.68
+906,Starbucks Olive Oil,Grocery,Starbucks,30.67,25.43,425.0,Active,2023-07-26,International,1.78
+907,Sony Gaming Laptop,Electronics,Sony,323.14,204.87,185.0,Active,2023-12-07,International,2.41
+908,Penguin Random House Children's Book,Books,Penguin Random House,14.81,9.13,23.0,Active,2023-01-22,Local,0.37
+909,Neutrogena Facial Moisturizer,Beauty,Neutrogena,71.1,59.18,194.0,Active,2023-12-13,International,0.25
+910,Levi's Running Jacket,Apparel,Levi's,93.5,70.32,295.0,Active,2022-11-24,Local,0.27
+911,HP Bluetooth Earbuds,Electronics,HP,262.55,185.92,269.0,Active,2022-03-19,Local,2.92
+912,CeraVe Face Wash,Beauty,CeraVe,61.94,36.69,186.0,Active,2021-07-15,International,0.38
+913,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,38.95,27.35,287.0,Discontinued,2021-03-16,International,6.25
+914,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,124.63,111.51,424.0,Discontinued,2023-06-07,Local,9.14
+915,IKEA Platform Bed,Furniture,IKEA,644.99,396.51,408.0,Active,2022-09-16,Local,47.89
+916,HarperCollins Self-Help Guide,Books,HarperCollins,28.98,16.79,396.0,Active,2024-08-12,Local,0.42
+917,Fitbit Bathroom Scale,Health & Wellness,Fitbit,75.47,60.16,241.0,Active,2022-01-01,Local,1.35
+918,Levi's Running Jacket,Apparel,Levi's,86.94,75.42,272.0,Discontinued,2022-04-21,Local,0.66
+919,Bertolli Artisanal Bread,Grocery,Bertolli,18.2,15.63,173.0,Active,2022-04-27,Local,1.31
+920,LogiTech Headphones,Electronics,LogiTech,382.44,336.53,182.0,Discontinued,2021-03-16,International,3.73
+921,Optimum Nutrition Protein Powder,Health & Wellness,Optimum Nutrition,74.51,42.72,376.0,Active,2022-02-27,International,2.82
+922,All-Clad Cordless Blender,Home Goods,All-Clad,249.61,192.09,190.0,Active,2022-07-31,Local,3.47
+923,HarperCollins Children's Picture Book,Books,HarperCollins,38.34,22.73,50.0,Active,2021-06-10,Local,0.66
+924,HarperCollins Children's Book,Books,HarperCollins,18.56,11.65,197.0,Active,2023-06-12,Local,0.87
+925,Yeti Hiking Poles,Sports & Outdoors,Yeti,73.69,54.99,451.0,Active,2023-12-14,Local,1.63
+926,Tide Heavy-Duty Trash Bags,Household,Tide,10.59,6.52,87.0,Discontinued,2024-06-04,International,3.89
+927,Ashley Furniture Office Desk,Furniture,Ashley Furniture,226.9,163.56,106.0,Active,2023-02-10,Local,63.86
+928,Mattel Building Blocks Set,Toys,Mattel,82.91,57.65,4.0,Active,2023-06-09,Local,1.06
+929,Yeti Water-Resistant Backpack,Sports & Outdoors,Yeti,102.84,85.61,65.0,Active,2022-01-01,Local,7.21
+930,Tide Dish Soap,Household,Tide,17.33,14.66,45.0,Discontinued,2021-09-14,International,1.02
+931,Levi's Cargo Pants,Apparel,Levi's,114.56,64.46,168.0,Active,2021-03-20,Local,1.13
+932,Adidas Running Jacket,Apparel,Adidas,136.0,91.58,20.0,Discontinued,2022-03-30,International,0.54
+933,IKEA Two-Seat Sofa,Furniture,IKEA,954.26,480.17,322.0,Active,2021-04-25,Local,94.88
+934,Optimum Nutrition Protein Powder,Health & Wellness,Optimum Nutrition,27.87,16.02,417.0,Active,2022-04-21,Local,1.94
+935,Mattel Starship Set,Toys,Mattel,78.7,53.02,2.0,Active,2023-02-19,International,2.22
+936,Yeti Camping Tent,Sports & Outdoors,Yeti,71.04,53.45,195.0,Active,2023-01-18,Local,5.54
+937,Renpho Digital Thermometer,Health & Wellness,Renpho,89.38,62.03,343.0,Active,2022-06-11,Local,1.14
+938,Renpho Smart Jump Rope,Health & Wellness,Renpho,33.61,28.65,494.0,Active,2022-09-12,Local,2.91
+939,Bertolli Artisanal Bread,Grocery,Bertolli,24.12,16.54,91.0,Active,2022-11-25,Local,1.45
+940,Vitamix Water Filter,Home Goods,Vitamix,340.84,237.11,443.0,Active,2024-06-04,Local,5.07
+941,Starbucks Greek Yogurt,Grocery,Starbucks,7.74,4.87,396.0,Active,2024-06-21,Local,1.66
+942,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,184.66,128.19,138.0,Active,2021-06-11,International,0.93
+943,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,125.19,89.44,86.0,Active,2021-06-01,Local,9.7
+944,CeraVe Charcoal Face Mask,Beauty,CeraVe,49.32,43.41,11.0,Active,2021-11-26,Local,0.41
+945,Aveeno Sunscreen,Beauty,Aveeno,52.57,30.71,266.0,Active,2021-07-01,International,0.44
+946,Starbucks Almond Milk,Grocery,Starbucks,41.06,26.67,467.0,Active,2024-02-13,Local,0.65
+947,Apple Gaming Laptop,Electronics,Apple,59.01,41.93,482.0,Active,2023-03-24,International,0.31
+948,Renpho Yoga Mat,Health & Wellness,Renpho,34.55,26.78,396.0,Active,2024-03-18,International,2.46
+949,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,218.07,185.5,380.0,Active,2024-07-22,Local,55.41
+950,LogiTech Bluetooth Earbuds,Electronics,LogiTech,384.19,285.05,278.0,Active,2022-09-09,International,3.98
+951,HarperCollins Fantasy Series,Books,HarperCollins,33.54,23.64,218.0,Active,2021-07-13,Local,0.44
+952,Ashley Furniture Sectional Sofa,Furniture,Ashley Furniture,438.92,235.8,220.0,Discontinued,2022-04-14,Local,53.5
+953,LEGO Action Figure Set,Toys,LEGO,47.5,37.57,255.0,Discontinued,2022-12-30,International,2.23
+954,Bertolli Whole Grain Bread,Grocery,Bertolli,48.88,39.52,204.0,Active,2023-05-13,Local,0.4
+955,CeraVe Conditioning Shampoo,Beauty,CeraVe,62.63,33.41,500.0,Active,2022-05-21,Local,0.48
+956,Califia Farms Almond Milk,Grocery,Califia Farms,11.36,9.49,316.0,Active,2022-09-19,International,1.57
+957,Tide Air Freshener,Household,Tide,15.3,9.72,380.0,Active,2023-08-04,Local,3.04
+958,Sony Bluetooth Earbuds,Electronics,Sony,360.68,261.48,387.0,Active,2022-07-11,Local,4.8
+959,L'Oréal Sunscreen,Beauty,L'Oréal,56.08,40.49,264.0,Active,2021-06-02,International,0.47
+960,Patagonia Running Shorts,Apparel,Patagonia,36.55,20.64,7.0,Active,2023-01-05,Local,0.71
+961,Dell Headphones,Electronics,Dell,272.83,224.06,321.0,Active,2023-12-07,International,2.78
+962,Sony External SSD,Electronics,Sony,102.91,81.09,151.0,Active,2021-08-19,Local,1.68
+963,Penguin Random House Historical Fiction,Books,Penguin Random House,14.25,11.03,268.0,Active,2020-11-17,International,0.56
+964,Optimum Nutrition Bathroom Scale,Health & Wellness,Optimum Nutrition,54.34,34.35,480.0,Active,2021-08-25,International,2.79
+965,Mattel Starship Set,Toys,Mattel,85.5,53.61,6.0,Active,2021-11-26,Local,2.98
+966,Fitbit Smart Scale,Health & Wellness,Fitbit,30.95,16.64,356.0,Active,2023-11-15,Local,1.91
+967,All-Clad Toaster Oven,Home Goods,All-Clad,159.67,136.25,287.0,Active,2023-01-05,Local,3.7
+968,Yeti Soft Cooler,Sports & Outdoors,Yeti,152.63,114.44,189.0,Active,2023-11-03,Local,5.64
+969,Levi's Graphic T-Shirt,Apparel,Levi's,33.39,20.43,111.0,Active,2022-09-24,Local,1.22
+970,Ashley Furniture Media Console,Furniture,Ashley Furniture,397.14,334.14,396.0,Active,2022-10-17,International,76.35
+971,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,288.38,234.55,2.0,Discontinued,2023-01-15,Local,82.3
+972,All-Clad Stand Mixer,Home Goods,All-Clad,205.92,129.59,1.0,Active,2021-10-27,Local,8.16
+973,Yeti Sleeping Bag,Sports & Outdoors,Yeti,107.55,75.3,155.0,Active,2022-12-03,Local,4.08
+974,Tide Floor Cleaner,Household,Tide,12.79,8.02,268.0,Active,2024-09-17,International,1.46
+975,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,740.21,499.57,431.0,Active,2022-12-01,International,32.55
+976,Hasbro Puzzle Set,Toys,Hasbro,70.43,35.93,92.0,Active,2023-10-11,Local,2.11
+977,Bertolli Almond Milk,Grocery,Bertolli,30.19,26.44,472.0,Active,2023-10-16,Local,1.55
+978,Starbucks Whole Grain Bread,Grocery,Starbucks,21.24,10.67,100.0,Active,2022-07-07,Local,0.86
+979,LEGO Building Blocks,Toys,LEGO,66.58,50.53,18.0,Active,2021-08-16,Local,2.99
+980,Fitbit Electric Toothbrush,Health & Wellness,Fitbit,19.86,16.47,293.0,Active,2022-06-14,International,2.99
+981,Tide Disinfectant Wipes,Household,Tide,9.34,7.94,384.0,Active,2023-09-11,International,0.67
+982,Penguin Random House Fiction Novel,Books,Penguin Random House,31.17,26.44,91.0,Active,2023-05-14,Local,0.89
+983,Swiffer Kitchen Cleaner,Household,Swiffer,22.76,12.27,161.0,Active,2021-09-27,International,1.37
+984,Sony Portable Power Bank,Electronics,Sony,426.77,366.97,435.0,Active,2024-04-01,Local,4.93
+985,Aveeno Lip Balm,Beauty,Aveeno,71.14,47.42,207.0,Active,2020-11-17,Local,0.18
+986,Dyson Cordless Vacuum,Home Goods,Dyson,128.66,87.15,89.0,Active,2021-10-19,Local,8.08
+987,IKEA Media Console,Furniture,IKEA,380.05,243.34,288.0,Active,2024-03-13,Local,72.67
+988,Clorox Disinfectant Wipes,Household,Clorox,7.91,4.53,47.0,Active,2021-02-05,Local,3.32
+989,All-Clad Handheld Steamer,Home Goods,All-Clad,110.48,75.58,192.0,Active,2024-03-18,International,5.31
+990,IKEA Platform Bed,Furniture,IKEA,772.67,427.36,378.0,Active,2021-03-21,International,26.02
+991,HarperCollins Bestseller Novel,Books,HarperCollins,22.42,12.9,428.0,Active,2023-12-31,Local,0.51
+992,Renpho Electric Toothbrush,Health & Wellness,Renpho,56.64,36.56,297.0,Active,2021-08-03,Local,2.51
+993,All-Clad Coffee Maker,Home Goods,All-Clad,381.38,249.53,300.0,Active,2023-09-13,Local,10.83
+994,Ashley Furniture Sectional Sofa,Furniture,Ashley Furniture,286.7,254.42,359.0,Active,2023-07-04,International,34.21
+995,Starbucks Olive Oil,Grocery,Starbucks,14.82,7.6,134.0,Active,2024-03-11,International,0.54
+996,Swiffer Dish Soap,Household,Swiffer,13.07,8.51,289.0,Active,2023-03-11,Local,3.66
+997,Anker Wireless Keyboard,Electronics,Anker,239.63,152.09,172.0,Discontinued,2022-06-18,Local,1.85
+998,Swiffer Air Freshener,Household,Swiffer,9.65,6.52,12.0,Active,2023-03-20,Local,3.63
+999,Clorox Heavy-Duty Trash Bags,Household,Clorox,11.31,8.37,192.0,Active,2023-11-21,Local,0.68
+1000,LEGO Remote Drone,Toys,LEGO,50.78,30.86,397.0,Active,2024-01-02,Local,0.74
+1001,Fitbit Electric Toothbrush,Health & Wellness,Fitbit,97.05,68.87,483.0,Discontinued,2023-12-21,Local,0.5
+1002,Aveeno Face Wash,Beauty,Aveeno,73.07,59.71,159.0,Active,2023-01-11,Local,0.26
+1003,Samsung Headphones,Electronics,Samsung,116.37,66.19,453.0,Active,2022-11-17,Local,4.3
+1004,Levi's Wool Scarf,Apparel,Levi's,40.04,33.56,285.0,Active,2023-02-20,Local,0.58
+1005,Mattel Robot Pet,Toys,Mattel,48.49,41.95,109.0,Active,2021-06-03,International,2.21
+1006,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,80.71,44.67,479.0,Active,2024-08-31,International,8.29
+1007,HarperCollins Historical Fiction,Books,HarperCollins,26.02,18.09,178.0,Active,2021-12-02,Local,0.46
+1008,All-Clad High-Speed Blender,Home Goods,All-Clad,166.58,116.7,175.0,Active,2023-01-15,Local,6.57
+1009,IKEA Platform Bed,Furniture,IKEA,224.27,116.1,97.0,Active,2024-07-23,Local,44.57
+1010,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,74.87,57.66,199.0,Active,2022-10-22,Local,9.57
+1011,Vitamix Handheld Steamer,Home Goods,Vitamix,282.47,153.26,428.0,Active,2024-05-08,Local,11.26
+1012,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,53.15,38.79,66.0,Active,2024-01-04,Local,5.12
+1013,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,78.02,62.17,133.0,Active,2021-04-17,International,9.13
+1014,L'Oréal Lip Balm,Beauty,L'Oréal,56.28,40.18,433.0,Active,2023-10-01,International,0.49
+1015,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,39.0,24.76,4.0,Discontinued,2022-05-25,Local,2.38
+1016,Tide Kitchen Cleaner,Household,Tide,6.21,3.2,145.0,Active,2020-12-26,Local,0.73
+1017,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,327.09,251.86,173.0,Active,2021-11-10,Local,34.05
+1018,L'Oréal Lip Balm,Beauty,L'Oréal,11.14,6.9,167.0,Active,2023-05-17,Local,0.39
+1019,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,55.67,29.94,274.0,Active,2023-07-22,International,4.6
+1020,L'Oréal Conditioning Shampoo,Beauty,L'Oréal,54.78,47.52,125.0,Discontinued,2021-04-12,International,0.43
+1021,Clorox Laundry Pods,Household,Clorox,6.91,3.56,191.0,Active,2021-05-02,International,4.16
+1022,Yeti Camping Tent,Sports & Outdoors,Yeti,196.55,124.83,41.0,Active,2022-01-14,Local,4.31
+1023,Fitbit Smart Scale,Health & Wellness,Fitbit,70.5,37.49,453.0,Discontinued,2021-09-27,International,2.4
+1024,Optimum Nutrition Digital Thermometer,Health & Wellness,Optimum Nutrition,67.32,56.66,277.0,Active,2024-02-15,International,1.19
+1025,Starbucks Olive Oil,Grocery,Starbucks,17.37,14.09,353.0,Active,2022-04-27,International,1.29
+1026,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,345.41,201.32,209.0,Active,2021-04-26,International,34.73
+1027,HarperCollins Historical Fiction,Books,HarperCollins,12.91,6.55,116.0,Active,2023-04-12,Local,0.5
+1028,Swiffer Dish Soap,Household,Swiffer,15.52,9.8,305.0,Active,2023-04-06,International,0.56
+1029,Neutrogena Sunscreen,Beauty,Neutrogena,63.47,43.46,78.0,Active,2022-04-02,Local,0.38
+1030,Optimum Nutrition Protein Powder,Health & Wellness,Optimum Nutrition,17.74,12.92,437.0,Active,2021-01-19,Local,2.96
+1031,Bertolli Olive Oil,Grocery,Bertolli,49.32,30.66,190.0,Active,2023-12-05,Local,1.04
+1032,Penguin Random House Children's Picture Book,Books,Penguin Random House,28.73,19.32,290.0,Discontinued,2023-10-29,Local,0.98
+1033,Clorox Heavy-Duty Trash Bags,Household,Clorox,14.38,7.95,276.0,Active,2022-05-12,International,0.94
+1034,Califia Farms Granola Bars,Grocery,Califia Farms,30.68,25.95,92.0,Active,2023-10-01,International,1.96
+1035,Columbia Portable Grill,Sports & Outdoors,Columbia,156.47,134.59,215.0,Active,2023-07-12,International,6.49
+1036,Mattel Action Figure Set,Toys,Mattel,60.26,50.84,116.0,Active,2024-04-04,Local,2.53
+1037,All-Clad High-Speed Blender,Home Goods,All-Clad,178.02,126.94,2.0,Active,2022-07-27,Local,3.41
+1038,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,139.29,92.95,499.0,Active,2022-09-14,Local,2.63
+1039,Penguin Random House Bestseller Novel,Books,Penguin Random House,27.99,18.57,375.0,Active,2023-01-29,International,0.42
+1040,IKEA Two-Seat Sofa,Furniture,IKEA,956.66,762.64,12.0,Active,2024-03-23,International,59.69
+1041,Vitamix Cordless Vacuum,Home Goods,Vitamix,166.55,99.22,448.0,Active,2024-02-20,International,3.8
+1042,Renpho Vitamin Gummies,Health & Wellness,Renpho,91.03,66.55,106.0,Active,2021-02-14,International,1.39
+1043,Vitamix Microfiber Sheets,Home Goods,Vitamix,215.08,176.68,57.0,Active,2024-08-21,International,13.72
+1044,Swiffer Floor Mop,Household,Swiffer,29.06,23.23,4.0,Active,2023-04-16,Local,2.84
+1045,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,162.03,97.87,491.0,Active,2023-07-16,Local,7.88
+1046,Dell Smart Mouse,Electronics,Dell,266.36,139.55,372.0,Active,2024-02-25,International,3.65
+1047,L'Oréal Cleansing Balm,Beauty,L'Oréal,56.58,42.53,262.0,Active,2023-12-07,International,0.14
+1048,Penguin Random House Children's Book,Books,Penguin Random House,31.66,21.06,188.0,Active,2022-05-05,International,0.86
+1049,Renpho Resistance Bands,Health & Wellness,Renpho,43.05,22.8,356.0,Active,2024-08-15,Local,0.81
+1050,Neutrogena Waterproof Mascara,Beauty,Neutrogena,54.8,44.66,170.0,Active,2024-01-19,Local,0.34
+1051,Dyson Cordless Blender,Home Goods,Dyson,136.72,116.49,114.0,Active,2022-09-23,International,5.29
+1052,Dyson Cordless Vacuum,Home Goods,Dyson,264.54,207.73,244.0,Active,2022-01-15,Local,12.27
+1053,Dyson Cordless Vacuum,Home Goods,Dyson,138.16,83.3,197.0,Active,2021-11-19,International,9.17
+1054,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,17.78,12.51,370.0,Active,2022-12-09,Local,0.63
+1055,CeraVe Waterproof Mascara,Beauty,CeraVe,48.16,30.13,257.0,Active,2021-04-09,International,0.29
+1056,Hasbro Classic Board Game,Toys,Hasbro,29.91,19.5,460.0,Active,2024-02-28,Local,0.91
+1057,Califia Farms Spicy Salsa,Grocery,Califia Farms,17.52,13.87,399.0,Active,2023-11-26,Local,1.1
+1058,IKEA Dining Table,Furniture,IKEA,855.98,708.37,434.0,Active,2024-04-29,International,76.72
+1059,IKEA Sectional Sofa,Furniture,IKEA,458.64,403.98,51.0,Active,2023-10-19,Local,96.55
+1060,Nike Cargo Pants,Apparel,Nike,78.06,46.77,268.0,Active,2020-12-07,International,1.07
+1061,Califia Farms Artisanal Bread,Grocery,Califia Farms,36.03,20.57,234.0,Discontinued,2023-04-03,Local,0.7
+1062,Bertolli Smoked Salmon,Grocery,Bertolli,42.38,36.55,33.0,Active,2024-02-05,Local,0.57
+1063,HarperCollins Bestseller Novel,Books,HarperCollins,23.93,20.4,275.0,Active,2020-10-24,International,0.35
+1064,Patagonia Rain Jacket,Apparel,Patagonia,30.84,16.65,102.0,Active,2024-06-19,Local,0.52
+1065,HarperCollins Historical Fiction,Books,HarperCollins,35.83,28.23,58.0,Active,2021-05-19,International,0.71
+1066,Clorox Fabric Softener,Household,Clorox,11.29,8.36,209.0,Active,2022-07-29,Local,2.78
+1067,Fitbit Electric Toothbrush,Health & Wellness,Fitbit,40.47,28.85,445.0,Active,2024-09-19,International,1.56
+1068,Clorox Floor Mop,Household,Clorox,29.43,16.86,485.0,Active,2022-06-18,International,2.79
+1069,All-Clad Handheld Steamer,Home Goods,All-Clad,54.26,41.74,222.0,Active,2024-09-24,International,5.79
+1070,LEGO Plush Toy,Toys,LEGO,31.46,25.33,56.0,Active,2024-05-21,Local,1.16
+1071,Clorox Air Freshener,Household,Clorox,22.12,16.45,475.0,Active,2024-04-11,Local,1.2
+1072,All-Clad Air Fryer,Home Goods,All-Clad,255.75,161.19,81.0,Active,2021-12-16,Local,9.33
+1073,Renpho Smart Jump Rope,Health & Wellness,Renpho,94.29,82.38,242.0,Active,2024-03-31,Local,0.99
+1074,L'Oréal Sunscreen,Beauty,L'Oréal,30.02,19.74,289.0,Active,2024-04-03,International,0.26
+1075,CeraVe Cleansing Balm,Beauty,CeraVe,73.37,44.73,393.0,Active,2021-02-14,Local,0.36
+1076,Optimum Nutrition Vitamin Gummies,Health & Wellness,Optimum Nutrition,17.01,13.89,219.0,Active,2022-03-11,Local,0.68
+1077,HarperCollins Historical Fiction,Books,HarperCollins,35.69,18.91,55.0,Active,2021-01-29,International,0.96
+1078,Clorox Kitchen Cleaner,Household,Clorox,24.53,19.01,200.0,Discontinued,2023-05-29,Local,1.76
+1079,HarperCollins Cookbook,Books,HarperCollins,11.78,8.9,29.0,Active,2023-05-07,Local,0.95
+1080,Clorox Floor Cleaner,Household,Clorox,27.02,17.02,38.0,Active,2020-12-15,Local,1.18
+1081,HarperCollins Fantasy Series,Books,HarperCollins,27.22,14.57,288.0,Active,2023-04-03,Local,0.83
+1082,Mattel Action Figure,Toys,Mattel,84.47,42.97,354.0,Active,2023-08-27,Local,2.42
+1083,L'Oréal Cleansing Balm,Beauty,L'Oréal,58.57,33.6,110.0,Active,2023-10-09,Local,0.23
+1084,Fitbit Massage Gun,Health & Wellness,Fitbit,78.55,43.68,12.0,Active,2022-06-20,Local,2.44
+1085,LEGO Action Figure,Toys,LEGO,92.6,60.13,263.0,Active,2021-02-11,International,2.89
+1086,Hasbro Robot Pet,Toys,Hasbro,39.02,29.41,171.0,Active,2021-02-17,Local,2.93
+1087,LEGO Classic Board Game,Toys,LEGO,82.88,69.67,434.0,Active,2021-08-08,Local,2.06
+1088,Patagonia Running Shorts,Apparel,Patagonia,126.31,85.96,239.0,Active,2021-01-22,International,1.01
+1089,Dyson Ceramic Pan Set,Home Goods,Dyson,242.83,172.67,233.0,Active,2023-02-15,International,7.05
+1090,Yeti Hiking Poles,Sports & Outdoors,Yeti,76.42,63.53,320.0,Active,2022-10-29,Local,4.56
+1091,Bertolli Organic Coffee,Grocery,Bertolli,35.35,25.2,168.0,Active,2022-07-13,Local,1.68
+1092,Penguin Random House Fiction Novel,Books,Penguin Random House,15.67,9.13,76.0,Active,2020-10-12,Local,0.72
+1093,Dyson Toaster Oven,Home Goods,Dyson,158.95,100.29,36.0,Active,2022-02-14,Local,3.92
+1094,Vitamix Stand Mixer,Home Goods,Vitamix,396.67,346.9,120.0,Active,2021-03-26,Local,2.92
+1095,Patagonia Polo Shirt,Apparel,Patagonia,23.31,18.59,445.0,Active,2024-03-10,Local,0.73
+1096,Califia Farms Artisanal Bread,Grocery,Califia Farms,39.69,32.78,303.0,Active,2023-07-11,Local,1.84
+1097,LEGO Action Figure,Toys,LEGO,28.85,15.81,108.0,Active,2022-08-29,International,2.32
+1098,HydroFlask Insulated Water Bottle,Sports & Outdoors,HydroFlask,61.81,50.68,47.0,Active,2021-08-31,Local,1.56
+1099,LogiTech 4K Monitor,Electronics,LogiTech,221.01,145.89,216.0,Active,2021-02-08,Local,4.73
+1100,Yeti Hiking Poles,Sports & Outdoors,Yeti,77.62,41.43,360.0,Active,2023-12-22,Local,4.98
+1101,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,140.83,84.44,434.0,Active,2021-02-28,Local,24.02
+1102,LogiTech Wireless Keyboard,Electronics,LogiTech,318.29,269.44,108.0,Active,2022-03-22,Local,2.13
+1103,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,55.56,49.23,266.0,Active,2021-12-12,International,2.23
+1104,All-Clad Ceramic Pan Set,Home Goods,All-Clad,214.1,141.62,157.0,Active,2022-04-13,International,9.71
+1105,Sony Headphones,Electronics,Sony,62.82,32.27,241.0,Active,2024-01-02,International,0.33
+1106,Penguin Random House Bestseller Novel,Books,Penguin Random House,14.75,9.43,8.0,Active,2024-03-31,Local,0.35
+1107,Tide Floor Mop,Household,Tide,26.4,17.85,275.0,Active,2023-04-26,International,0.5
+1108,Tide Floor Mop,Household,Tide,8.2,5.87,337.0,Discontinued,2023-06-17,International,0.93
+1109,Penguin Random House Cookbook,Books,Penguin Random House,13.77,7.6,264.0,Discontinued,2021-01-08,Local,0.36
+1110,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,180.21,108.11,54.0,Active,2023-01-01,International,3.36
+1111,Ashley Furniture Office Desk,Furniture,Ashley Furniture,783.9,494.78,68.0,Active,2023-03-11,Local,76.28
+1112,Yeti Soft Cooler,Sports & Outdoors,Yeti,33.4,29.79,102.0,Active,2021-05-28,International,8.44
+1113,Vitamix Smart Toaster,Home Goods,Vitamix,149.34,103.39,293.0,Active,2022-02-26,Local,13.17
+1114,Columbia Portable Hammock,Sports & Outdoors,Columbia,198.72,148.75,233.0,Active,2021-08-08,Local,3.15
+1115,Neutrogena Facial Moisturizer,Beauty,Neutrogena,74.78,45.03,96.0,Active,2023-09-29,Local,0.32
+1116,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,786.94,413.34,135.0,Active,2024-06-05,International,96.83
+1117,Levi's Hiking Boots,Apparel,Levi's,146.76,79.9,425.0,Active,2023-03-20,Local,1.32
+1118,Tide Fabric Softener,Household,Tide,18.83,10.04,482.0,Active,2022-07-09,Local,2.29
+1119,Califia Farms Olive Oil,Grocery,Califia Farms,42.8,34.68,114.0,Active,2021-08-14,International,1.15
+1120,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,34.01,24.34,186.0,Active,2024-05-02,International,0.42
+1121,Levi's Graphic T-Shirt,Apparel,Levi's,102.54,76.63,440.0,Active,2021-04-23,International,0.31
+1122,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,73.72,65.44,492.0,Active,2021-03-29,Local,5.46
+1123,Tide Glass Cleaner,Household,Tide,13.05,11.42,370.0,Active,2023-09-02,Local,3.0
+1124,Bertolli Olive Oil,Grocery,Bertolli,32.59,17.17,492.0,Active,2022-02-26,Local,1.07
+1125,Starbucks Smoked Salmon,Grocery,Starbucks,40.38,26.96,331.0,Active,2022-06-20,Local,0.83
+1126,Renpho Bathroom Scale,Health & Wellness,Renpho,90.87,71.82,64.0,Active,2023-11-30,International,0.7
+1127,Ashley Furniture Media Console,Furniture,Ashley Furniture,784.53,592.09,6.0,Active,2021-09-28,Local,79.45
+1128,Clorox Dish Soap,Household,Clorox,21.51,17.83,153.0,Active,2023-04-30,International,1.19
+1129,Renpho Digital Thermometer,Health & Wellness,Renpho,47.43,28.56,457.0,Active,2021-09-28,Local,0.59
+1130,Renpho Electric Toothbrush,Health & Wellness,Renpho,59.44,53.44,46.0,Active,2023-02-26,Local,1.15
+1131,Swiffer Glass Cleaner,Household,Swiffer,29.08,15.2,216.0,Active,2023-08-20,International,4.29
+1132,Fitbit Digital Thermometer,Health & Wellness,Fitbit,58.17,44.6,215.0,Active,2021-11-21,Local,0.14
+1133,Bertolli Spaghetti Sauce,Grocery,Bertolli,27.27,18.37,303.0,Active,2024-07-07,International,1.69
+1134,Mattel Robot Pet,Toys,Mattel,86.18,64.0,193.0,Active,2020-11-09,International,0.41
+1135,Penguin Random House Historical Fiction,Books,Penguin Random House,27.27,24.18,61.0,Active,2024-02-20,Local,0.8
+1136,Columbia Portable Hammock,Sports & Outdoors,Columbia,150.7,96.29,21.0,Active,2024-04-02,International,5.95
+1137,Dell Wireless Keyboard,Electronics,Dell,415.92,331.8,322.0,Active,2021-07-28,International,1.16
+1138,Samsung Gaming Laptop,Electronics,Samsung,475.68,293.45,51.0,Active,2023-03-06,Local,2.34
+1139,Neutrogena Cleansing Balm,Beauty,Neutrogena,32.9,19.72,495.0,Active,2021-07-03,Local,0.28
+1140,All-Clad Cordless Vacuum,Home Goods,All-Clad,236.64,170.12,443.0,Active,2022-04-26,Local,5.88
+1141,Clorox Glass Cleaner,Household,Clorox,13.34,9.54,316.0,Active,2023-05-03,International,1.92
+1142,Nike Down Vest,Apparel,Nike,103.13,77.22,161.0,Active,2023-11-20,International,0.38
+1143,Tide Laundry Pods,Household,Tide,13.43,11.53,225.0,Active,2023-12-04,International,1.95
+1144,Bertolli Greek Yogurt,Grocery,Bertolli,18.97,14.8,260.0,Active,2021-09-15,International,1.17
+1145,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,15.96,12.52,47.0,Discontinued,2022-04-17,International,0.9
+1146,Neutrogena Cleansing Balm,Beauty,Neutrogena,35.79,23.41,472.0,Active,2021-09-18,International,0.45
+1147,Penguin Random House Fantasy Series,Books,Penguin Random House,19.72,13.35,116.0,Active,2023-04-21,Local,0.77
+1148,Dell Bluetooth Earbuds,Electronics,Dell,151.01,134.9,356.0,Active,2021-01-12,Local,3.27
+1149,All-Clad Water Filter,Home Goods,All-Clad,139.81,71.07,494.0,Active,2024-04-21,International,6.8
+1150,Penguin Random House Self-Help Guide,Books,Penguin Random House,22.37,15.83,435.0,Active,2020-10-18,Local,0.93
+1151,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,82.73,67.95,187.0,Active,2022-03-12,Local,2.71
+1152,Neutrogena Lip Balm,Beauty,Neutrogena,15.01,8.31,355.0,Active,2022-01-06,International,0.2
+1153,Penguin Random House Historical Fiction,Books,Penguin Random House,12.9,10.5,470.0,Active,2022-04-19,Local,0.52
+1154,Bertolli Spicy Salsa,Grocery,Bertolli,20.68,15.68,360.0,Active,2024-02-08,International,1.04
+1155,Dell Speaker,Electronics,Dell,328.46,241.89,255.0,Active,2022-06-07,International,0.21
+1156,Mattel Building Blocks,Toys,Mattel,19.89,13.74,178.0,Active,2022-12-08,Local,1.26
+1157,HarperCollins Sci-Fi Paperback,Books,HarperCollins,38.42,19.63,373.0,Active,2021-06-10,Local,0.84
+1158,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,140.82,100.74,159.0,Active,2022-08-20,Local,5.91
+1159,HydroFlask Portable Grill,Sports & Outdoors,HydroFlask,159.1,116.9,349.0,Active,2024-09-12,International,1.0
+1160,Penguin Random House Children's Book,Books,Penguin Random House,33.24,24.78,37.0,Active,2021-01-15,International,0.81
+1161,Penguin Random House Self-Help Guide,Books,Penguin Random House,35.07,26.64,16.0,Active,2023-02-06,Local,0.36
+1162,HarperCollins Biography,Books,HarperCollins,34.15,26.59,196.0,Active,2020-10-21,Local,0.37
+1163,Dyson Handheld Steamer,Home Goods,Dyson,189.23,132.44,130.0,Active,2021-08-12,Local,4.17
+1164,IKEA Sectional Sofa,Furniture,IKEA,405.75,218.14,385.0,Active,2024-06-09,International,15.48
+1165,Samsung Gaming Laptop,Electronics,Samsung,217.92,109.11,87.0,Discontinued,2024-07-18,Local,1.7
+1166,Apple Speaker,Electronics,Apple,457.32,297.23,289.0,Active,2022-05-05,Local,3.22
+1167,Dyson Cordless Vacuum,Home Goods,Dyson,110.8,59.7,177.0,Active,2021-11-23,Local,6.24
+1168,Swiffer Disinfectant Wipes,Household,Swiffer,26.15,14.93,396.0,Active,2023-08-08,International,0.64
+1169,LEGO Remote Drone,Toys,LEGO,83.61,73.08,160.0,Active,2023-10-26,International,1.89
+1170,Patagonia Running Jacket,Apparel,Patagonia,45.11,40.55,80.0,Discontinued,2022-06-11,International,1.4
+1171,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,190.2,137.28,343.0,Active,2022-05-11,Local,2.77
+1172,Starbucks Artisanal Bread,Grocery,Starbucks,6.87,5.95,31.0,Discontinued,2023-04-24,International,1.84
+1173,Penguin Random House Children's Picture Book,Books,Penguin Random House,35.43,27.12,47.0,Active,2022-11-25,Local,0.7
+1174,Hasbro Puzzle Set,Toys,Hasbro,79.34,46.05,330.0,Active,2021-05-12,Local,0.83
+1175,Columbia Hiking Poles,Sports & Outdoors,Columbia,90.99,46.36,252.0,Active,2021-01-31,Local,6.29
+1176,Tide Kitchen Cleaner,Household,Tide,24.27,12.67,358.0,Active,2021-01-24,Local,0.9
+1177,Penguin Random House Biography,Books,Penguin Random House,29.23,15.18,379.0,Active,2024-06-07,International,0.57
+1178,LEGO Action Figure,Toys,LEGO,85.02,72.22,351.0,Active,2024-08-24,Local,0.78
+1179,IKEA Two-Seat Sofa,Furniture,IKEA,919.6,627.99,51.0,Active,2021-05-16,Local,38.83
+1180,Clorox Glass Cleaner,Household,Clorox,19.28,9.76,314.0,Discontinued,2022-01-21,Local,3.6
+1181,Anker External SSD,Electronics,Anker,346.82,288.74,469.0,Discontinued,2023-02-04,International,4.15
+1182,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,52.29,31.29,307.0,Active,2023-10-21,International,4.52
+1183,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,284.39,216.52,450.0,Discontinued,2023-05-08,Local,10.92
+1184,Columbia Sleeping Bag,Sports & Outdoors,Columbia,172.46,142.57,98.0,Active,2023-04-28,International,6.45
+1185,Samsung Mesh Router,Electronics,Samsung,395.21,302.41,66.0,Active,2021-12-28,International,0.66
+1186,Clorox Air Freshener,Household,Clorox,9.58,5.43,168.0,Active,2022-07-02,International,3.72
+1187,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,39.35,28.65,439.0,Active,2024-07-24,Local,2.49
+1188,Patagonia Polo Shirt,Apparel,Patagonia,46.1,41.41,266.0,Active,2021-09-14,Local,0.42
+1189,All-Clad Stand Mixer,Home Goods,All-Clad,312.14,164.49,413.0,Active,2021-09-23,Local,11.34
+1190,Penguin Random House Historical Fiction,Books,Penguin Random House,29.89,24.11,258.0,Active,2024-06-12,Local,0.52
+1191,Anker Smart Mouse,Electronics,Anker,203.61,122.23,487.0,Active,2021-03-19,Local,4.52
+1192,Columbia Insulated Water Bottle,Sports & Outdoors,Columbia,51.79,36.37,150.0,Active,2023-03-14,International,3.69
+1193,Apple External SSD,Electronics,Apple,248.24,148.52,432.0,Active,2020-12-20,Local,0.8
+1194,LogiTech External SSD,Electronics,LogiTech,358.14,253.28,210.0,Active,2023-06-01,International,3.65
+1195,Aveeno Sunscreen,Beauty,Aveeno,19.33,14.96,54.0,Active,2023-05-20,Local,0.12
+1196,Penguin Random House Bestseller Novel,Books,Penguin Random House,35.71,26.83,391.0,Active,2021-06-14,Local,0.75
+1197,HarperCollins Fantasy Series,Books,HarperCollins,18.47,12.09,316.0,Discontinued,2020-10-19,Local,0.64
+1198,L'Oréal Waterproof Mascara,Beauty,L'Oréal,41.14,23.09,461.0,Active,2021-04-19,Local,0.16
+1199,Columbia Sleeping Bag,Sports & Outdoors,Columbia,179.34,142.76,189.0,Active,2020-10-17,Local,0.9
+1200,LEGO Puzzle Set,Toys,LEGO,98.94,82.72,65.0,Active,2022-09-26,International,1.44
+1201,Swiffer Fabric Softener,Household,Swiffer,16.31,10.69,488.0,Active,2022-02-19,Local,2.29
+1202,Califia Farms Organic Coffee,Grocery,Califia Farms,14.76,10.74,98.0,Discontinued,2022-10-26,International,1.61
+1203,Swiffer Laundry Pods,Household,Swiffer,26.56,17.62,406.0,Active,2024-01-15,Local,1.14
+1204,Mattel Classic Board Game,Toys,Mattel,53.45,44.53,464.0,Active,2021-10-14,International,0.44
+1205,CeraVe Sunscreen,Beauty,CeraVe,52.88,37.39,480.0,Active,2022-03-28,Local,0.38
+1206,Penguin Random House Children's Book,Books,Penguin Random House,18.2,14.05,382.0,Active,2023-10-01,International,0.7
+1207,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,147.1,124.62,126.0,Active,2024-03-30,International,5.43
+1208,Penguin Random House Biography,Books,Penguin Random House,30.29,15.94,403.0,Active,2023-09-06,International,0.91
+1209,Adidas Hooded Sweatshirt,Apparel,Adidas,141.1,82.01,183.0,Active,2021-03-22,Local,1.28
+1210,HarperCollins Children's Picture Book,Books,HarperCollins,27.5,18.66,425.0,Active,2024-05-07,Local,0.51
+1211,All-Clad Stand Mixer,Home Goods,All-Clad,90.4,64.45,61.0,Active,2022-02-02,Local,8.73
+1212,Fitbit Massage Gun,Health & Wellness,Fitbit,87.08,77.54,128.0,Active,2022-06-20,Local,1.39
+1213,Vitamix Stand Mixer,Home Goods,Vitamix,204.94,116.44,245.0,Active,2022-11-05,International,12.45
+1214,Penguin Random House Cookbook,Books,Penguin Random House,23.42,20.8,11.0,Discontinued,2021-10-20,Local,0.92
+1215,Aveeno Body Lotion,Beauty,Aveeno,21.52,13.34,320.0,Active,2024-08-25,Local,0.5
+1216,Ashley Furniture Office Desk,Furniture,Ashley Furniture,363.11,319.36,406.0,Active,2023-04-05,International,81.94
+1217,HarperCollins Fiction Novel,Books,HarperCollins,39.75,33.41,187.0,Active,2022-09-25,Local,0.66
+1218,Tide Dish Soap,Household,Tide,27.65,21.01,27.0,Active,2022-10-17,Local,4.98
+1219,Sony HD Webcam,Electronics,Sony,387.5,295.54,389.0,Active,2020-12-20,Local,0.25
+1220,Samsung USB-C Hub,Electronics,Samsung,308.14,200.99,155.0,Discontinued,2024-03-09,Local,0.28
+1221,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,46.89,38.51,188.0,Active,2021-06-01,International,1.28
+1222,Vitamix Handheld Steamer,Home Goods,Vitamix,296.07,170.88,283.0,Active,2021-05-18,Local,7.3
+1223,Adidas Running Shorts,Apparel,Adidas,131.99,71.99,459.0,Active,2023-11-04,International,0.25
+1224,Vitamix Ceramic Pan Set,Home Goods,Vitamix,54.03,44.34,293.0,Active,2024-04-29,International,1.14
+1225,Aveeno Facial Moisturizer,Beauty,Aveeno,20.16,17.87,321.0,Discontinued,2023-06-12,International,0.23
+1226,Penguin Random House Cookbook,Books,Penguin Random House,11.68,6.77,72.0,Active,2021-03-18,Local,0.36
+1227,Dell Bluetooth Earbuds,Electronics,Dell,406.22,237.27,120.0,Active,2023-09-18,Local,3.16
+1228,Clorox Disinfectant Wipes,Household,Clorox,22.71,16.85,254.0,Active,2020-10-04,Local,3.54
+1229,Clorox Heavy-Duty Trash Bags,Household,Clorox,17.69,10.09,41.0,Active,2024-03-08,Local,2.94
+1230,Nike Graphic T-Shirt,Apparel,Nike,44.47,27.95,435.0,Discontinued,2020-10-18,Local,0.99
+1231,Fitbit Foam Roller,Health & Wellness,Fitbit,50.04,30.73,328.0,Active,2020-12-07,International,2.23
+1232,Samsung External SSD,Electronics,Samsung,450.75,270.75,350.0,Active,2022-03-16,Local,0.41
+1233,HP Portable Power Bank,Electronics,HP,390.04,207.49,221.0,Active,2024-06-06,International,0.16
+1234,IKEA Ergonomic Chair,Furniture,IKEA,386.56,334.97,395.0,Active,2021-06-19,International,71.04
+1235,HarperCollins Bestseller Novel,Books,HarperCollins,31.81,21.64,164.0,Active,2024-08-04,Local,0.65
+1236,CeraVe Sunscreen,Beauty,CeraVe,24.83,12.84,88.0,Active,2020-11-21,Local,0.28
+1237,Tide Dish Soap,Household,Tide,16.3,12.96,73.0,Active,2023-12-18,International,4.43
+1238,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,51.14,25.86,188.0,Active,2023-08-10,International,2.14
+1239,All-Clad Cordless Vacuum,Home Goods,All-Clad,65.09,44.84,201.0,Active,2023-05-16,Local,7.96
+1240,Fitbit Bathroom Scale,Health & Wellness,Fitbit,38.6,26.81,98.0,Active,2021-08-25,Local,2.85
+1241,Swiffer Floor Cleaner,Household,Swiffer,6.49,3.52,493.0,Discontinued,2021-09-28,International,3.24
+1242,Bertolli Organic Coffee,Grocery,Bertolli,47.45,27.83,412.0,Active,2024-05-31,International,1.34
+1243,Ashley Furniture Dining Table,Furniture,Ashley Furniture,715.65,532.91,220.0,Active,2022-01-11,Local,40.7
+1244,Vitamix Coffee Maker,Home Goods,Vitamix,239.17,125.62,243.0,Active,2024-01-20,Local,3.93
+1245,Starbucks Organic Coffee,Grocery,Starbucks,33.52,29.8,462.0,Active,2023-01-14,Local,1.24
+1246,Califia Farms Smoked Salmon,Grocery,Califia Farms,48.45,36.49,401.0,Discontinued,2021-03-24,Local,1.27
+1247,Starbucks Spicy Salsa,Grocery,Starbucks,30.35,15.41,456.0,Active,2023-06-11,Local,1.55
+1248,Aveeno Face Wash,Beauty,Aveeno,44.4,32.9,237.0,Active,2020-12-16,International,0.21
+1249,HydroFlask Soft Cooler,Sports & Outdoors,HydroFlask,163.47,128.29,142.0,Active,2021-08-23,International,5.0
+1250,IKEA Wooden Bed Frame,Furniture,IKEA,394.49,295.18,423.0,Active,2022-10-24,International,96.1
+1251,CeraVe Hydrating Serum,Beauty,CeraVe,63.57,36.57,331.0,Discontinued,2020-12-07,International,0.22
+1252,Bertolli Whole Grain Bread,Grocery,Bertolli,40.95,24.54,145.0,Active,2022-05-09,International,1.73
+1253,Renpho Bathroom Scale,Health & Wellness,Renpho,27.25,13.94,13.0,Active,2024-04-04,Local,1.17
+1254,Swiffer Glass Cleaner,Household,Swiffer,14.55,10.73,81.0,Active,2024-03-19,Local,1.73
+1255,Bertolli Organic Coffee,Grocery,Bertolli,32.29,18.25,146.0,Active,2023-11-05,International,0.42
+1256,Hasbro Action Figure,Toys,Hasbro,46.35,38.6,162.0,Active,2021-12-28,Local,1.47
+1257,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,82.16,66.07,429.0,Active,2021-02-04,Local,7.69
+1258,LEGO Plush Toy,Toys,LEGO,76.44,42.25,366.0,Active,2022-07-30,Local,0.71
+1259,Dyson High-Speed Blender,Home Goods,Dyson,116.96,75.34,387.0,Active,2022-03-23,Local,5.81
+1260,Tide Laundry Pods,Household,Tide,18.63,12.42,269.0,Active,2021-12-01,International,2.97
+1261,Starbucks Granola Bars,Grocery,Starbucks,12.16,10.51,391.0,Active,2023-11-21,Local,1.36
+1262,LogiTech Wireless Keyboard,Electronics,LogiTech,339.31,200.26,358.0,Active,2023-09-16,Local,1.24
+1263,Dyson Stand Mixer,Home Goods,Dyson,148.2,118.91,199.0,Active,2021-09-20,Local,11.72
+1264,Samsung HD Webcam,Electronics,Samsung,371.63,267.58,213.0,Active,2022-03-23,Local,1.12
+1265,Clorox Heavy-Duty Trash Bags,Household,Clorox,13.73,10.06,42.0,Active,2024-08-20,International,1.24
+1266,Dyson Cordless Vacuum,Home Goods,Dyson,32.72,26.1,322.0,Active,2024-09-27,Local,8.15
+1267,Bertolli Almond Milk,Grocery,Bertolli,16.53,10.43,101.0,Active,2023-11-08,Local,0.71
+1268,Swiffer Laundry Pods,Household,Swiffer,29.19,20.57,344.0,Active,2023-09-06,Local,0.69
+1269,Califia Farms Whole Grain Bread,Grocery,Califia Farms,39.19,31.31,377.0,Active,2022-12-08,International,1.8
+1270,L'Oréal Hydrating Serum,Beauty,L'Oréal,13.53,8.01,321.0,Active,2023-12-07,International,0.19
+1271,Renpho Smart Jump Rope,Health & Wellness,Renpho,33.4,28.19,93.0,Active,2021-05-08,International,1.23
+1272,Tide Heavy-Duty Trash Bags,Household,Tide,20.05,17.41,85.0,Active,2024-06-24,Local,4.08
+1273,Nike Rain Jacket,Apparel,Nike,134.97,69.17,437.0,Active,2020-11-04,Local,0.48
+1274,Optimum Nutrition Yoga Mat,Health & Wellness,Optimum Nutrition,47.42,41.94,291.0,Active,2022-12-01,Local,1.97
+1275,Aveeno Cleansing Balm,Beauty,Aveeno,28.2,14.35,335.0,Active,2023-04-18,International,0.22
+1276,Clorox Floor Mop,Household,Clorox,8.01,6.39,326.0,Active,2023-07-11,Local,4.69
+1277,All-Clad Toaster Oven,Home Goods,All-Clad,71.66,42.56,372.0,Active,2020-10-15,Local,8.8
+1278,Samsung Smart Mouse,Electronics,Samsung,303.45,240.51,33.0,Active,2022-02-02,Local,3.42
+1279,Dell 4K Monitor,Electronics,Dell,244.62,162.66,239.0,Discontinued,2023-10-14,Local,0.32
+1280,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,38.93,22.62,246.0,Active,2022-04-03,International,2.89
+1281,Bertolli Granola Bars,Grocery,Bertolli,25.16,22.6,1.0,Active,2023-09-14,Local,1.74
+1282,Clorox Floor Mop,Household,Clorox,22.89,11.88,381.0,Active,2021-12-24,Local,2.55
+1283,LEGO Action Figure,Toys,LEGO,46.73,30.3,462.0,Active,2021-07-27,Local,2.29
+1284,HydroFlask Insulated Water Bottle,Sports & Outdoors,HydroFlask,126.54,86.93,191.0,Active,2024-09-06,Local,8.24
+1285,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,424.3,226.82,222.0,Active,2022-06-06,Local,93.22
+1286,Swiffer Floor Cleaner,Household,Swiffer,26.54,22.72,85.0,Active,2024-08-05,International,4.92
+1287,HarperCollins Children's Book,Books,HarperCollins,26.21,20.91,426.0,Active,2024-08-21,Local,0.98
+1288,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,169.1,92.12,451.0,Active,2021-04-27,Local,1.49
+1289,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,71.49,56.9,85.0,Active,2021-11-13,International,1.52
+1290,L'Oréal Facial Moisturizer,Beauty,L'Oréal,44.0,28.91,420.0,Active,2020-12-04,International,0.38
+1291,Bertolli Granola Bars,Grocery,Bertolli,33.98,28.33,80.0,Active,2021-09-04,Local,0.2
+1292,Patagonia Cotton T-Shirt,Apparel,Patagonia,38.77,30.16,37.0,Active,2024-02-18,International,0.52
+1293,Mattel Robot Pet,Toys,Mattel,23.21,13.38,418.0,Active,2022-05-27,Local,0.86
+1294,Adidas Hiking Boots,Apparel,Adidas,78.84,52.73,61.0,Active,2024-05-01,Local,1.08
+1295,L'Oréal Hydrating Serum,Beauty,L'Oréal,34.37,23.08,156.0,Active,2022-08-01,Local,0.35
+1296,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,979.31,614.86,256.0,Active,2023-09-28,International,87.51
+1297,LEGO Starship Set,Toys,LEGO,50.93,38.1,301.0,Active,2023-01-27,International,1.62
+1298,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,193.48,166.85,389.0,Active,2022-10-09,Local,1.29
+1299,Tide Floor Mop,Household,Tide,23.73,17.59,124.0,Active,2023-04-19,Local,2.99
+1300,Bertolli Granola Bars,Grocery,Bertolli,23.48,18.16,6.0,Active,2022-04-30,International,0.25
+1301,Clorox Disinfectant Wipes,Household,Clorox,17.55,10.7,238.0,Active,2023-02-12,International,2.91
+1302,Fitbit Resistance Bands,Health & Wellness,Fitbit,25.0,17.41,265.0,Discontinued,2020-12-30,Local,0.57
+1303,HarperCollins Fiction Novel,Books,HarperCollins,22.8,12.81,352.0,Active,2023-05-26,Local,0.64
+1304,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,166.19,94.84,464.0,Active,2021-04-09,Local,2.62
+1305,Clorox Kitchen Cleaner,Household,Clorox,22.85,17.83,414.0,Discontinued,2021-12-01,Local,1.13
+1306,Penguin Random House Biography,Books,Penguin Random House,23.14,18.92,188.0,Active,2024-02-26,International,0.93
+1307,IKEA Bookshelf,Furniture,IKEA,476.76,291.57,18.0,Active,2024-06-14,Local,15.87
+1308,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,527.16,457.42,260.0,Discontinued,2022-04-28,International,20.89
+1309,Levi's Cargo Pants,Apparel,Levi's,106.4,81.28,229.0,Active,2024-01-29,Local,0.77
+1310,Dyson Air Fryer,Home Goods,Dyson,182.9,94.36,287.0,Active,2022-01-20,Local,11.45
+1311,Sony Gaming Laptop,Electronics,Sony,77.0,38.87,404.0,Active,2022-07-24,Local,2.7
+1312,Vitamix Microfiber Sheets,Home Goods,Vitamix,370.67,256.56,441.0,Active,2021-09-07,International,7.7
+1313,Levi's Running Jacket,Apparel,Levi's,70.42,52.87,325.0,Active,2024-07-10,Local,1.03
+1314,All-Clad Coffee Maker,Home Goods,All-Clad,206.74,150.19,38.0,Active,2021-04-17,International,12.76
+1315,Starbucks Organic Oatmeal,Grocery,Starbucks,23.29,15.67,386.0,Active,2023-10-31,International,0.25
+1316,L'Oréal Lip Balm,Beauty,L'Oréal,39.24,33.23,429.0,Active,2021-03-09,Local,0.35
+1317,Yeti Sleeping Bag,Sports & Outdoors,Yeti,177.58,99.96,326.0,Active,2021-03-04,Local,7.84
+1318,Penguin Random House Biography,Books,Penguin Random House,22.52,12.02,288.0,Active,2022-07-19,Local,0.75
+1319,Optimum Nutrition Smart Jump Rope,Health & Wellness,Optimum Nutrition,38.87,31.98,333.0,Discontinued,2022-01-02,Local,1.65
+1320,Optimum Nutrition Electric Toothbrush,Health & Wellness,Optimum Nutrition,58.47,46.95,198.0,Active,2021-03-26,Local,1.72
+1321,Penguin Random House Cookbook,Books,Penguin Random House,24.08,18.7,47.0,Discontinued,2022-03-08,Local,0.73
+1322,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,37.8,32.13,139.0,Active,2023-10-31,Local,2.79
+1323,Bertolli Whole Grain Bread,Grocery,Bertolli,13.61,8.47,498.0,Active,2022-07-23,Local,0.94
+1324,HarperCollins Fantasy Series,Books,HarperCollins,30.09,24.29,97.0,Active,2022-08-08,Local,0.84
+1325,Bertolli Olive Oil,Grocery,Bertolli,35.87,25.72,365.0,Active,2024-02-28,International,1.25
+1326,Adidas Wool Scarf,Apparel,Adidas,103.02,76.16,106.0,Active,2021-02-10,Local,1.34
+1327,CeraVe Conditioning Shampoo,Beauty,CeraVe,35.46,21.57,368.0,Active,2023-12-24,Local,0.16
+1328,Adidas Hiking Boots,Apparel,Adidas,36.18,29.86,193.0,Discontinued,2021-12-19,Local,0.36
+1329,Tide Disinfectant Wipes,Household,Tide,28.37,20.81,282.0,Active,2023-07-27,Local,1.4
+1330,Yeti Water-Resistant Backpack,Sports & Outdoors,Yeti,196.8,106.91,305.0,Active,2023-03-01,Local,1.83
+1331,Aveeno Sunscreen,Beauty,Aveeno,12.67,7.74,36.0,Active,2021-08-11,Local,0.41
+1332,Califia Farms Whole Grain Bread,Grocery,Califia Farms,45.11,23.64,291.0,Active,2024-03-05,International,1.5
+1333,HydroFlask Soft Cooler,Sports & Outdoors,HydroFlask,65.34,48.45,317.0,Active,2021-05-05,International,3.86
+1334,All-Clad Water Filter,Home Goods,All-Clad,234.87,189.06,163.0,Active,2023-08-06,International,6.37
+1335,Penguin Random House Cookbook,Books,Penguin Random House,38.63,28.14,47.0,Active,2024-08-15,International,0.87
+1336,Levi's Hiking Boots,Apparel,Levi's,129.9,77.53,114.0,Active,2022-05-02,International,1.38
+1337,Nike Cotton T-Shirt,Apparel,Nike,51.04,34.4,158.0,Active,2020-12-11,International,0.72
+1338,Nike Polo Shirt,Apparel,Nike,73.11,49.5,228.0,Active,2021-12-11,Local,0.96
+1339,HP External SSD,Electronics,HP,394.28,336.21,106.0,Active,2024-01-12,International,2.67
+1340,Dell HD Webcam,Electronics,Dell,278.4,232.54,199.0,Active,2021-06-12,Local,3.55
+1341,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,251.54,146.61,207.0,Active,2024-07-23,Local,32.39
+1342,Starbucks Black Tea Bags,Grocery,Starbucks,32.02,28.31,241.0,Active,2024-03-02,Local,1.36
+1343,Swiffer Floor Mop,Household,Swiffer,25.0,18.22,200.0,Active,2022-12-22,Local,2.46
+1344,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,101.54,60.05,179.0,Active,2022-12-13,International,5.05
+1345,Bertolli Almond Milk,Grocery,Bertolli,34.03,24.24,307.0,Active,2021-02-16,Local,0.89
+1346,Califia Farms Whole Grain Bread,Grocery,Califia Farms,36.82,19.77,82.0,Active,2021-02-26,Local,0.34
+1347,Clorox Floor Cleaner,Household,Clorox,12.33,8.31,440.0,Active,2023-12-04,Local,2.34
+1348,LEGO Remote Drone,Toys,LEGO,34.7,25.97,48.0,Active,2021-03-27,International,2.65
+1349,Fitbit Protein Powder,Health & Wellness,Fitbit,54.97,47.16,217.0,Active,2020-12-30,International,0.67
+1350,Nike Down Vest,Apparel,Nike,54.98,31.42,401.0,Active,2023-11-15,Local,1.17
+1351,All-Clad Water Filter,Home Goods,All-Clad,227.45,136.07,96.0,Active,2021-08-21,International,11.73
+1352,HP Bluetooth Earbuds,Electronics,HP,277.03,182.15,30.0,Active,2021-07-17,Local,4.25
+1353,HarperCollins Sci-Fi Paperback,Books,HarperCollins,27.22,18.64,143.0,Active,2022-05-09,International,0.8
+1354,IKEA Accent Chair,Furniture,IKEA,160.37,88.9,194.0,Active,2023-06-30,Local,54.1
+1355,Mattel Building Blocks Set,Toys,Mattel,76.73,54.48,456.0,Discontinued,2024-07-01,International,1.26
+1356,HarperCollins Fiction Novel,Books,HarperCollins,32.55,28.47,269.0,Active,2021-01-31,International,0.39
+1357,Califia Farms Whole Grain Bread,Grocery,Califia Farms,31.99,26.77,189.0,Active,2023-02-04,International,0.89
+1358,Aveeno Face Wash,Beauty,Aveeno,30.45,24.36,102.0,Active,2024-06-02,International,0.4
+1359,Penguin Random House Fantasy Series,Books,Penguin Random House,29.47,19.41,155.0,Active,2021-01-18,International,0.93
+1360,Tide Heavy-Duty Trash Bags,Household,Tide,16.66,10.81,239.0,Active,2024-09-26,Local,4.82
+1361,Dyson Air Fryer,Home Goods,Dyson,371.42,241.28,152.0,Active,2021-07-16,International,13.42
+1362,Adidas Running Shorts,Apparel,Adidas,66.12,47.65,263.0,Active,2023-05-02,International,1.29
+1363,Neutrogena Lip Balm,Beauty,Neutrogena,22.58,15.87,473.0,Active,2023-12-27,Local,0.4
+1364,Renpho Smart Scale,Health & Wellness,Renpho,17.1,12.86,112.0,Active,2021-02-12,Local,1.07
+1365,Tide Floor Mop,Household,Tide,20.54,13.29,146.0,Active,2024-02-20,Local,4.48
+1366,Yeti Camping Tent,Sports & Outdoors,Yeti,31.33,22.53,400.0,Active,2023-12-26,Local,9.99
+1367,Columbia Soft Cooler,Sports & Outdoors,Columbia,140.61,111.44,226.0,Active,2021-03-29,Local,7.74
+1368,Patagonia Graphic T-Shirt,Apparel,Patagonia,55.85,28.86,113.0,Active,2024-07-08,International,0.37
+1369,Starbucks Almond Milk,Grocery,Starbucks,40.98,22.98,453.0,Active,2020-12-13,Local,1.85
+1370,Levi's Slim Jeans,Apparel,Levi's,131.65,104.12,136.0,Active,2024-06-12,Local,1.38
+1371,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,202.81,138.69,343.0,Active,2022-06-25,International,98.15
+1372,Fitbit Bathroom Scale,Health & Wellness,Fitbit,62.48,53.77,456.0,Active,2023-08-25,International,1.05
+1373,Ashley Furniture Dining Table,Furniture,Ashley Furniture,825.57,708.86,399.0,Active,2022-09-25,Local,53.51
+1374,Hasbro Building Blocks,Toys,Hasbro,57.4,51.46,371.0,Active,2022-04-13,Local,2.46
+1375,Levi's Running Shorts,Apparel,Levi's,92.15,74.95,433.0,Active,2022-06-16,Local,1.37
+1376,Mattel Building Blocks Set,Toys,Mattel,45.85,30.26,381.0,Active,2022-03-02,Local,0.95
+1377,Swiffer Air Freshener,Household,Swiffer,6.66,5.8,161.0,Active,2024-05-20,Local,2.44
+1378,Clorox Air Freshener,Household,Clorox,13.34,7.3,190.0,Active,2021-11-06,International,2.71
+1379,Penguin Random House Historical Fiction,Books,Penguin Random House,22.16,13.16,435.0,Active,2022-07-14,International,0.54
+1380,L'Oréal Face Wash,Beauty,L'Oréal,65.46,34.88,52.0,Active,2021-05-06,Local,0.32
+1381,Levi's Cargo Pants,Apparel,Levi's,148.94,102.54,2.0,Active,2023-03-17,Local,1.28
+1382,Ashley Furniture Media Console,Furniture,Ashley Furniture,699.45,361.04,45.0,Active,2023-03-21,Local,13.5
+1383,Nike Wool Scarf,Apparel,Nike,99.87,86.79,421.0,Active,2023-05-04,International,1.25
+1384,Adidas Wool Scarf,Apparel,Adidas,97.14,81.09,316.0,Active,2022-09-29,International,0.29
+1385,HarperCollins Fiction Novel,Books,HarperCollins,14.72,11.48,398.0,Active,2024-04-12,International,0.78
+1386,Columbia Sleeping Bag,Sports & Outdoors,Columbia,141.38,97.42,356.0,Active,2022-08-31,International,3.41
+1387,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,164.0,102.29,434.0,Active,2021-02-06,Local,1.91
+1388,LogiTech 4K Monitor,Electronics,LogiTech,76.44,41.82,449.0,Active,2022-04-13,Local,0.83
+1389,Optimum Nutrition Electric Toothbrush,Health & Wellness,Optimum Nutrition,73.46,43.76,297.0,Active,2022-06-05,Local,2.8
+1390,Ashley Furniture Dining Table,Furniture,Ashley Furniture,943.69,809.91,108.0,Active,2023-04-27,Local,45.17
+1391,Nike Polo Shirt,Apparel,Nike,24.08,19.78,437.0,Active,2023-12-09,International,0.75
+1392,L'Oréal Conditioning Shampoo,Beauty,L'Oréal,18.64,14.88,168.0,Active,2021-09-30,International,0.48
+1393,All-Clad Cordless Vacuum,Home Goods,All-Clad,351.59,310.0,85.0,Active,2024-09-22,Local,14.84
+1394,Anker Smart Mouse,Electronics,Anker,158.01,110.31,310.0,Active,2022-12-04,Local,0.98
+1395,Samsung Fitness Watch,Electronics,Samsung,212.33,174.13,176.0,Active,2020-10-29,Local,2.47
+1396,Califia Farms Granola Bars,Grocery,Califia Farms,11.65,8.89,349.0,Active,2022-04-12,Local,1.16
+1397,Penguin Random House Fantasy Series,Books,Penguin Random House,23.05,18.27,487.0,Active,2023-08-09,International,0.71
+1398,Hasbro Puzzle Set,Toys,Hasbro,18.78,9.52,171.0,Active,2022-09-01,International,0.47
+1399,Swiffer Disinfectant Wipes,Household,Swiffer,19.3,12.08,473.0,Active,2023-11-16,Local,1.85
+1400,Bertolli Spaghetti Sauce,Grocery,Bertolli,45.7,30.07,131.0,Active,2022-02-15,Local,0.6
+1401,Starbucks Granola Bars,Grocery,Starbucks,5.1,4.51,25.0,Active,2023-01-05,Local,1.67
+1402,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,112.81,89.47,488.0,Active,2022-01-13,International,7.8
+1403,Swiffer Air Freshener,Household,Swiffer,10.34,7.45,339.0,Active,2021-10-31,International,4.67
+1404,Mattel Classic Board Game,Toys,Mattel,42.93,32.73,280.0,Active,2020-11-08,Local,1.19
+1405,Clorox Air Freshener,Household,Clorox,7.49,5.99,477.0,Active,2023-02-20,International,3.52
+1406,Vitamix Cordless Blender,Home Goods,Vitamix,105.51,68.01,84.0,Active,2020-11-12,Local,14.97
+1407,Mattel Building Blocks,Toys,Mattel,20.83,17.69,80.0,Active,2023-12-29,Local,0.95
+1408,All-Clad High-Speed Blender,Home Goods,All-Clad,313.01,171.71,173.0,Active,2021-11-15,International,7.51
+1409,Swiffer Heavy-Duty Trash Bags,Household,Swiffer,20.36,10.86,403.0,Active,2023-12-26,Local,2.25
+1410,Hasbro Robot Pet,Toys,Hasbro,76.65,66.34,467.0,Active,2022-08-21,International,0.53
+1411,All-Clad Handheld Steamer,Home Goods,All-Clad,156.58,129.35,268.0,Active,2022-03-07,Local,13.95
+1412,Aveeno Sunscreen,Beauty,Aveeno,32.11,26.24,200.0,Active,2023-02-01,International,0.41
+1413,Califia Farms Artisanal Bread,Grocery,Califia Farms,13.56,9.4,327.0,Active,2021-09-06,International,1.96
+1414,Bertolli Smoked Salmon,Grocery,Bertolli,47.02,32.81,400.0,Active,2021-05-22,Local,1.36
+1415,LogiTech External SSD,Electronics,LogiTech,253.81,184.87,2.0,Active,2021-09-28,International,1.93
+1416,Yeti Portable Hammock,Sports & Outdoors,Yeti,171.57,107.41,497.0,Active,2021-09-18,Local,1.41
+1417,LEGO Building Blocks Set,Toys,LEGO,65.4,45.63,243.0,Discontinued,2022-11-19,International,1.22
+1418,Apple 4K Monitor,Electronics,Apple,425.85,254.84,163.0,Active,2023-11-30,Local,0.29
+1419,Sony Headphones,Electronics,Sony,349.17,271.78,71.0,Active,2023-09-12,International,1.48
+1420,Adidas Slim Jeans,Apparel,Adidas,29.76,23.67,158.0,Active,2023-10-22,Local,0.5
+1421,Levi's Hooded Sweatshirt,Apparel,Levi's,141.08,104.37,309.0,Active,2024-07-16,Local,1.46
+1422,Aveeno Lip Balm,Beauty,Aveeno,21.87,16.03,109.0,Active,2023-01-20,Local,0.22
+1423,LEGO Building Blocks,Toys,LEGO,83.98,73.41,282.0,Active,2024-09-05,Local,2.75
+1424,Patagonia Down Vest,Apparel,Patagonia,117.8,73.6,21.0,Active,2022-04-21,Local,0.57
+1425,Anker Mesh Router,Electronics,Anker,80.94,71.06,486.0,Active,2024-06-28,International,0.31
+1426,L'Oréal Charcoal Face Mask,Beauty,L'Oréal,45.23,25.49,136.0,Discontinued,2024-09-18,International,0.2
+1427,All-Clad Cordless Blender,Home Goods,All-Clad,269.94,210.63,292.0,Active,2021-06-11,International,7.58
+1428,All-Clad Water Filter,Home Goods,All-Clad,303.01,256.2,421.0,Active,2021-09-11,International,1.07
+1429,Fitbit Smart Scale,Health & Wellness,Fitbit,82.55,69.07,398.0,Active,2022-01-08,Local,1.35
+1430,Ashley Furniture Media Console,Furniture,Ashley Furniture,273.22,168.6,271.0,Active,2023-09-14,International,47.04
+1431,Optimum Nutrition Massage Gun,Health & Wellness,Optimum Nutrition,36.17,30.96,439.0,Active,2022-03-09,Local,1.86
+1432,Patagonia Running Shorts,Apparel,Patagonia,96.8,58.19,383.0,Active,2023-02-12,Local,1.0
+1433,IKEA Accent Chair,Furniture,IKEA,219.2,129.84,21.0,Active,2023-07-25,Local,16.5
+1434,All-Clad Ceramic Pan Set,Home Goods,All-Clad,132.32,96.57,58.0,Active,2022-02-26,International,12.62
+1435,HydroFlask Portable Grill,Sports & Outdoors,HydroFlask,84.74,47.26,229.0,Active,2023-01-08,International,8.75
+1436,Columbia Sleeping Bag,Sports & Outdoors,Columbia,140.42,85.66,349.0,Active,2021-04-26,International,1.89
+1437,CeraVe Hydrating Serum,Beauty,CeraVe,66.55,58.48,440.0,Active,2024-07-17,Local,0.21
+1438,Renpho Resistance Bands,Health & Wellness,Renpho,51.83,27.19,82.0,Active,2024-02-05,Local,1.43
+1439,Starbucks Granola Bars,Grocery,Starbucks,9.97,5.55,148.0,Active,2023-12-28,Local,0.22
+1440,Patagonia Polo Shirt,Apparel,Patagonia,65.22,38.46,330.0,Active,2024-08-18,International,1.28
+1441,Renpho Vitamin Gummies,Health & Wellness,Renpho,55.83,48.12,225.0,Active,2022-12-02,Local,1.51
+1442,Mattel Building Blocks,Toys,Mattel,69.56,37.84,75.0,Active,2021-06-14,Local,2.16
+1443,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,771.76,405.32,11.0,Discontinued,2020-11-25,Local,90.89
+1444,Bertolli Spaghetti Sauce,Grocery,Bertolli,46.91,34.97,439.0,Active,2020-12-22,Local,0.53
+1445,LEGO Starship Set,Toys,LEGO,27.67,17.46,11.0,Active,2023-02-27,Local,1.83
+1446,Clorox Kitchen Cleaner,Household,Clorox,9.68,6.03,376.0,Active,2020-10-30,Local,4.12
+1447,Bertolli Spicy Salsa,Grocery,Bertolli,23.09,20.42,432.0,Active,2022-08-30,Local,0.88
+1448,Califia Farms Smoked Salmon,Grocery,Califia Farms,19.61,12.44,440.0,Active,2022-01-28,Local,0.8
+1449,Yeti Soft Cooler,Sports & Outdoors,Yeti,27.88,15.09,40.0,Active,2023-03-17,Local,8.73
+1450,Tide Floor Cleaner,Household,Tide,18.37,9.72,379.0,Active,2023-12-23,International,2.49
+1451,Bertolli Whole Grain Bread,Grocery,Bertolli,14.65,7.89,190.0,Active,2022-02-10,International,0.94
+1452,Ashley Furniture Media Console,Furniture,Ashley Furniture,903.79,575.1,48.0,Active,2021-06-17,Local,82.49
+1453,Mattel Starship Set,Toys,Mattel,68.47,40.84,390.0,Active,2023-12-17,Local,0.75
+1454,Clorox Glass Cleaner,Household,Clorox,24.89,15.74,455.0,Active,2024-03-22,Local,4.66
+1455,Dell 4K Monitor,Electronics,Dell,363.37,233.56,479.0,Active,2020-12-27,International,0.23
+1456,IKEA Two-Seat Sofa,Furniture,IKEA,700.57,398.5,99.0,Active,2021-05-04,International,75.92
+1457,Califia Farms Artisanal Bread,Grocery,Califia Farms,10.97,5.75,236.0,Active,2023-07-27,International,0.26
+1458,Starbucks Olive Oil,Grocery,Starbucks,33.22,26.72,451.0,Active,2021-04-25,Local,1.44
+1459,Tide Laundry Pods,Household,Tide,5.19,2.67,192.0,Active,2021-03-12,International,2.39
+1460,All-Clad Water Filter,Home Goods,All-Clad,57.09,31.02,213.0,Active,2022-11-08,International,4.73
+1461,Mattel Action Figure Set,Toys,Mattel,60.12,52.47,462.0,Active,2022-03-18,International,2.96
+1462,Dyson Stand Mixer,Home Goods,Dyson,227.15,133.16,291.0,Active,2021-01-14,Local,12.71
+1463,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,37.12,32.31,110.0,Active,2023-07-27,International,0.67
+1464,Yeti Soft Cooler,Sports & Outdoors,Yeti,106.35,90.39,47.0,Active,2023-05-26,International,9.06
+1465,LEGO Plush Toy,Toys,LEGO,62.61,54.08,203.0,Active,2023-02-04,International,0.67
+1466,Dyson High-Speed Blender,Home Goods,Dyson,354.05,194.93,410.0,Discontinued,2022-02-04,Local,9.5
+1467,Bertolli Olive Oil,Grocery,Bertolli,29.85,21.19,174.0,Active,2022-01-15,Local,1.19
+1468,Dell Fitness Watch,Electronics,Dell,270.73,157.6,430.0,Active,2024-08-26,Local,3.22
+1469,Dyson Cordless Vacuum,Home Goods,Dyson,193.67,152.68,217.0,Active,2023-09-05,International,5.51
+1470,Ashley Furniture Office Desk,Furniture,Ashley Furniture,993.48,508.65,173.0,Active,2022-07-01,International,79.78
+1471,LogiTech Speaker,Electronics,LogiTech,195.12,155.49,388.0,Active,2023-04-22,Local,3.47
+1472,Patagonia Rain Jacket,Apparel,Patagonia,121.87,92.5,276.0,Active,2022-09-12,International,1.46
+1473,Vitamix Toaster Oven,Home Goods,Vitamix,145.75,79.59,345.0,Discontinued,2022-01-07,International,11.54
+1474,All-Clad Aromatherapy Diffuser,Home Goods,All-Clad,231.94,171.67,76.0,Active,2023-07-31,Local,7.88
+1475,Levi's Rain Jacket,Apparel,Levi's,42.84,26.37,391.0,Active,2022-12-31,Local,0.63
+1476,Hasbro Action Figure,Toys,Hasbro,54.72,40.48,23.0,Active,2024-04-22,Local,0.96
+1477,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,179.82,127.02,371.0,Active,2023-03-16,Local,60.67
+1478,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,164.6,97.3,262.0,Active,2022-03-06,International,3.98
+1479,HarperCollins Self-Help Guide,Books,HarperCollins,31.89,25.06,283.0,Active,2023-05-31,Local,0.45
+1480,HarperCollins Children's Picture Book,Books,HarperCollins,28.54,25.67,403.0,Active,2024-01-03,International,0.97
+1481,All-Clad Water Filter,Home Goods,All-Clad,53.87,44.22,138.0,Discontinued,2022-04-06,International,4.54
+1482,Nike Wool Scarf,Apparel,Nike,54.01,32.59,376.0,Active,2023-09-08,Local,1.43
+1483,Bertolli Olive Oil,Grocery,Bertolli,13.72,11.05,368.0,Active,2021-12-05,Local,0.68
+1484,IKEA Bookshelf,Furniture,IKEA,227.35,169.97,205.0,Active,2021-06-17,Local,61.43
+1485,Columbia Portable Hammock,Sports & Outdoors,Columbia,52.75,44.93,125.0,Active,2020-10-03,Local,7.36
+1486,HydroFlask Hiking Poles,Sports & Outdoors,HydroFlask,43.22,35.07,492.0,Active,2023-07-23,International,8.31
+1487,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,241.0,192.83,485.0,Active,2023-01-15,International,13.81
+1488,Bertolli Artisanal Bread,Grocery,Bertolli,35.41,25.4,175.0,Active,2024-02-25,Local,1.76
+1489,Samsung Fitness Watch,Electronics,Samsung,88.07,54.88,194.0,Active,2023-11-01,International,2.61
+1490,LEGO Building Blocks,Toys,LEGO,80.62,43.82,375.0,Active,2023-01-08,International,1.7
+1491,CeraVe Hydrating Serum,Beauty,CeraVe,40.27,31.37,426.0,Active,2021-06-24,Local,0.22
+1492,Renpho Resistance Bands,Health & Wellness,Renpho,32.39,18.9,111.0,Active,2022-01-08,Local,2.5
+1493,HarperCollins Cookbook,Books,HarperCollins,36.5,24.01,63.0,Active,2023-12-26,Local,0.37
+1494,HarperCollins Children's Book,Books,HarperCollins,25.79,21.96,370.0,Active,2023-03-13,Local,0.98
+1495,Penguin Random House Fiction Novel,Books,Penguin Random House,28.93,20.17,102.0,Active,2023-04-23,International,1.0
+1496,HydroFlask Portable Grill,Sports & Outdoors,HydroFlask,151.59,80.88,490.0,Active,2021-03-02,International,5.22
+1497,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,105.8,89.23,257.0,Active,2022-09-25,International,5.48
+1498,Anker 4K Monitor,Electronics,Anker,143.92,129.37,14.0,Active,2022-01-27,Local,3.92
+1499,LEGO Action Figure Set,Toys,LEGO,86.2,74.97,269.0,Active,2021-01-22,Local,1.58
+1500,Fitbit Smart Scale,Health & Wellness,Fitbit,39.11,21.43,306.0,Active,2022-02-19,Local,0.11
+1501,IKEA Ergonomic Chair,Furniture,IKEA,452.59,369.69,313.0,Active,2022-01-10,Local,38.01
+1502,Adidas Graphic T-Shirt,Apparel,Adidas,34.15,20.16,150.0,Active,2023-04-18,Local,1.27
+1503,Vitamix High-Speed Blender,Home Goods,Vitamix,102.04,80.53,418.0,Discontinued,2024-08-08,International,8.08
+1504,Starbucks Artisanal Bread,Grocery,Starbucks,17.38,11.6,173.0,Active,2024-01-14,International,1.45
+1505,Renpho Smart Jump Rope,Health & Wellness,Renpho,59.17,51.85,209.0,Active,2023-06-06,Local,0.16
+1506,Starbucks Black Tea Bags,Grocery,Starbucks,47.1,31.75,220.0,Active,2023-09-01,Local,1.45
+1507,Vitamix Microfiber Sheets,Home Goods,Vitamix,318.71,279.04,10.0,Discontinued,2022-02-03,International,1.78
+1508,L'Oréal Face Wash,Beauty,L'Oréal,35.86,19.2,312.0,Active,2020-10-17,Local,0.16
+1509,Adidas Hooded Sweatshirt,Apparel,Adidas,142.24,76.81,109.0,Active,2021-08-03,Local,1.36
+1510,Apple Headphones,Electronics,Apple,243.41,139.56,282.0,Active,2023-07-10,Local,4.25
+1511,Mattel Starship Set,Toys,Mattel,91.71,53.59,319.0,Active,2022-02-25,Local,2.32
+1512,Levi's Hiking Boots,Apparel,Levi's,59.52,29.88,284.0,Active,2023-11-24,Local,0.37
+1513,Starbucks Smoked Salmon,Grocery,Starbucks,43.83,31.56,468.0,Active,2023-08-19,Local,0.28
+1514,Ashley Furniture Media Console,Furniture,Ashley Furniture,653.06,340.48,64.0,Active,2020-12-10,Local,72.46
+1515,HP Smart Mouse,Electronics,HP,215.71,157.97,290.0,Active,2022-07-03,Local,2.91
+1516,Tide Air Freshener,Household,Tide,19.57,12.94,85.0,Active,2022-06-06,Local,4.74
+1517,HarperCollins Bestseller Novel,Books,HarperCollins,36.09,22.32,337.0,Active,2021-06-01,International,0.72
+1518,Adidas Hooded Sweatshirt,Apparel,Adidas,38.87,25.13,402.0,Active,2022-05-28,International,0.45
+1519,Penguin Random House Children's Book,Books,Penguin Random House,18.83,13.18,396.0,Active,2024-04-11,International,0.98
+1520,All-Clad Air Fryer,Home Goods,All-Clad,70.09,56.92,430.0,Active,2022-02-26,Local,2.98
+1521,Yeti Camping Tent,Sports & Outdoors,Yeti,122.97,64.18,481.0,Active,2022-04-02,Local,5.8
+1522,Yeti Soft Cooler,Sports & Outdoors,Yeti,45.6,30.42,392.0,Active,2024-01-24,International,2.15
+1523,Fitbit Smart Jump Rope,Health & Wellness,Fitbit,95.16,56.26,371.0,Active,2023-11-27,Local,2.02
+1524,IKEA Bookshelf,Furniture,IKEA,908.67,504.68,267.0,Active,2023-01-23,International,85.24
+1525,Sony Headphones,Electronics,Sony,482.01,368.95,455.0,Discontinued,2023-10-13,International,2.87
+1526,Aveeno Waterproof Mascara,Beauty,Aveeno,45.7,37.18,435.0,Active,2021-08-26,International,0.32
+1527,Yeti Soft Cooler,Sports & Outdoors,Yeti,71.56,51.54,402.0,Active,2022-07-22,Local,6.49
+1528,HP Mesh Router,Electronics,HP,266.87,143.92,219.0,Active,2023-12-12,International,3.86
+1529,Hasbro Plush Toy,Toys,Hasbro,63.58,50.87,473.0,Active,2020-11-18,Local,1.02
+1530,All-Clad Ceramic Pan Set,Home Goods,All-Clad,247.42,154.46,396.0,Active,2020-10-30,International,1.57
+1531,Vitamix Air Fryer,Home Goods,Vitamix,308.36,154.98,1.0,Active,2021-10-17,Local,6.47
+1532,Nike Graphic T-Shirt,Apparel,Nike,35.18,23.04,391.0,Active,2021-03-03,Local,0.37
+1533,Aveeno Conditioning Shampoo,Beauty,Aveeno,13.11,8.52,34.0,Active,2022-02-12,International,0.13
+1534,Adidas Wool Scarf,Apparel,Adidas,27.06,21.9,209.0,Active,2024-04-20,Local,1.32
+1535,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,664.28,526.1,26.0,Active,2021-05-24,Local,11.51
+1536,Tide Air Freshener,Household,Tide,19.97,11.28,201.0,Active,2021-01-18,Local,1.13
+1537,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,47.76,30.46,71.0,Active,2024-07-08,Local,8.79
+1538,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,196.85,153.49,290.0,Active,2024-08-29,International,3.0
+1539,Mattel Remote Drone,Toys,Mattel,60.35,53.6,35.0,Active,2022-02-06,Local,0.54
+1540,Neutrogena Facial Moisturizer,Beauty,Neutrogena,56.47,32.81,88.0,Discontinued,2024-09-09,Local,0.29
+1541,Clorox Air Freshener,Household,Clorox,10.12,8.73,461.0,Active,2024-04-28,Local,1.24
+1542,Levi's Running Jacket,Apparel,Levi's,117.54,97.57,122.0,Discontinued,2023-07-27,Local,0.75
+1543,HarperCollins Fantasy Series,Books,HarperCollins,21.28,12.5,98.0,Active,2022-06-23,International,0.51
+1544,Penguin Random House Children's Picture Book,Books,Penguin Random House,31.78,26.88,87.0,Active,2023-05-13,Local,0.58
+1545,Apple 4K Monitor,Electronics,Apple,92.53,56.8,142.0,Active,2023-03-07,Local,3.44
+1546,Columbia Camping Tent,Sports & Outdoors,Columbia,118.48,65.96,475.0,Active,2022-06-27,International,6.84
+1547,All-Clad Cordless Vacuum,Home Goods,All-Clad,35.19,26.59,83.0,Active,2020-12-18,International,9.25
+1548,Levi's Wool Scarf,Apparel,Levi's,53.94,47.98,477.0,Active,2022-01-27,Local,1.13
+1549,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,310.48,262.86,219.0,Active,2024-08-24,International,31.87
+1550,LEGO Starship Set,Toys,LEGO,61.2,40.6,164.0,Active,2022-05-21,Local,1.51
+1551,Swiffer Floor Mop,Household,Swiffer,19.72,14.88,369.0,Active,2022-12-19,International,1.04
+1552,Dell Mesh Router,Electronics,Dell,437.41,259.99,255.0,Active,2024-06-14,International,0.82
+1553,Sony USB-C Hub,Electronics,Sony,394.04,282.23,193.0,Active,2022-11-29,International,0.98
+1554,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,53.8,48.25,45.0,Active,2023-05-24,International,0.11
+1555,Hasbro Remote Drone,Toys,Hasbro,94.65,57.35,352.0,Active,2021-12-09,International,1.71
+1556,Levi's Running Jacket,Apparel,Levi's,62.56,55.53,204.0,Active,2021-02-18,International,0.88
+1557,Ashley Furniture Platform Bed,Furniture,Ashley Furniture,311.7,231.78,320.0,Active,2022-04-28,Local,11.45
+1558,All-Clad Water Filter,Home Goods,All-Clad,344.82,177.09,409.0,Active,2022-12-13,International,10.27
+1559,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,129.69,77.85,355.0,Discontinued,2022-09-18,International,3.33
+1560,Aveeno Hydrating Serum,Beauty,Aveeno,52.07,33.26,146.0,Active,2020-12-19,Local,0.48
+1561,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,182.5,104.32,473.0,Active,2020-10-06,Local,45.14
+1562,Mattel Robot Pet,Toys,Mattel,30.87,23.04,479.0,Active,2021-02-06,International,2.9
+1563,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,545.41,380.14,273.0,Active,2024-01-17,International,61.71
+1564,Hasbro Starship Set,Toys,Hasbro,76.08,63.51,79.0,Active,2023-04-02,Local,0.83
+1565,Ashley Furniture Office Desk,Furniture,Ashley Furniture,713.41,470.45,1.0,Active,2022-09-02,International,31.37
+1566,Renpho Electric Toothbrush,Health & Wellness,Renpho,71.4,45.99,445.0,Discontinued,2021-02-19,Local,1.9
+1567,Swiffer Dish Soap,Household,Swiffer,5.96,3.28,345.0,Active,2021-07-30,Local,4.0
+1568,Neutrogena Conditioning Shampoo,Beauty,Neutrogena,26.33,18.68,479.0,Active,2023-04-21,Local,0.16
+1569,Renpho Yoga Mat,Health & Wellness,Renpho,69.26,60.99,325.0,Active,2024-08-28,International,2.56
+1570,Califia Farms Black Tea Bags,Grocery,Califia Farms,29.58,25.72,462.0,Discontinued,2022-08-23,Local,0.5
+1571,Ashley Furniture Dining Table,Furniture,Ashley Furniture,267.94,170.18,390.0,Discontinued,2021-03-18,Local,92.26
+1572,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,194.51,128.66,88.0,Active,2023-11-21,International,2.61
+1573,HarperCollins Biography,Books,HarperCollins,13.07,11.72,441.0,Active,2022-08-20,Local,0.57
+1574,Samsung External SSD,Electronics,Samsung,270.33,238.57,135.0,Discontinued,2024-04-30,Local,0.18
+1575,Swiffer Fabric Softener,Household,Swiffer,12.18,7.18,134.0,Active,2021-10-23,International,1.04
+1576,Penguin Random House Biography,Books,Penguin Random House,37.79,32.71,58.0,Active,2023-04-26,Local,0.44
+1577,Penguin Random House Fantasy Series,Books,Penguin Random House,18.07,9.66,20.0,Active,2022-04-20,Local,0.36
+1578,Clorox Heavy-Duty Trash Bags,Household,Clorox,13.17,7.65,168.0,Active,2022-03-27,Local,3.29
+1579,Columbia Insulated Bottle,Sports & Outdoors,Columbia,152.37,108.15,487.0,Active,2022-04-11,Local,8.59
+1580,HP Mesh Router,Electronics,HP,169.59,94.95,434.0,Active,2021-06-30,International,1.49
+1581,Nike Graphic T-Shirt,Apparel,Nike,120.92,82.55,91.0,Active,2020-12-05,International,0.27
+1582,Hasbro Remote Drone,Toys,Hasbro,62.73,49.74,310.0,Active,2022-07-05,Local,1.03
+1583,Bertolli Granola Bars,Grocery,Bertolli,28.71,23.16,439.0,Active,2021-10-20,International,1.88
+1584,Columbia Portable Hammock,Sports & Outdoors,Columbia,35.21,29.77,167.0,Active,2024-02-05,Local,7.67
+1585,Tide Glass Cleaner,Household,Tide,12.47,6.92,86.0,Active,2023-01-03,Local,4.92
+1586,Mattel Building Blocks Set,Toys,Mattel,43.86,29.33,302.0,Active,2021-05-09,International,2.43
+1587,Renpho Yoga Mat,Health & Wellness,Renpho,57.67,50.93,156.0,Discontinued,2023-07-15,International,2.46
+1588,Aveeno Body Lotion,Beauty,Aveeno,18.85,9.47,436.0,Active,2021-02-19,Local,0.22
+1589,Penguin Random House Biography,Books,Penguin Random House,12.18,6.73,122.0,Active,2023-06-04,International,0.88
+1590,Aveeno Lip Balm,Beauty,Aveeno,23.54,14.97,166.0,Active,2023-12-25,Local,0.35
+1591,Dyson Smart Toaster,Home Goods,Dyson,67.14,41.21,156.0,Active,2022-05-28,International,6.4
+1592,Clorox Floor Mop,Household,Clorox,17.49,13.57,436.0,Discontinued,2023-10-11,Local,4.54
+1593,Fitbit Bathroom Scale,Health & Wellness,Fitbit,50.13,25.19,383.0,Active,2021-08-29,Local,2.24
+1594,Neutrogena Facial Moisturizer,Beauty,Neutrogena,23.59,12.45,491.0,Active,2020-12-29,International,0.38
+1595,All-Clad Toaster Oven,Home Goods,All-Clad,339.45,196.91,65.0,Active,2022-04-19,International,1.1
+1596,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,11.77,5.92,379.0,Active,2022-11-03,Local,0.48
+1597,Bertolli Black Tea Bags,Grocery,Bertolli,29.87,15.22,177.0,Active,2024-08-11,Local,1.13
+1598,Ashley Furniture Dining Table,Furniture,Ashley Furniture,259.25,222.94,93.0,Active,2023-07-01,Local,77.21
+1599,Mattel Building Blocks Set,Toys,Mattel,37.58,24.49,70.0,Active,2024-06-30,International,1.18
+1600,Patagonia Slim Jeans,Apparel,Patagonia,69.71,50.3,337.0,Active,2023-01-15,Local,0.87
+1601,Clorox Heavy-Duty Trash Bags,Household,Clorox,21.14,11.11,90.0,Active,2021-09-10,Local,4.04
+1602,Penguin Random House Historical Fiction,Books,Penguin Random House,38.7,19.8,475.0,Active,2021-12-11,Local,0.97
+1603,Bertolli Spicy Salsa,Grocery,Bertolli,23.54,20.77,88.0,Active,2022-04-30,International,1.38
+1604,Adidas Cotton T-Shirt,Apparel,Adidas,50.72,28.28,282.0,Active,2024-03-01,Local,0.61
+1605,Penguin Random House Bestseller Novel,Books,Penguin Random House,19.61,12.22,482.0,Active,2020-11-20,Local,0.75
+1606,Califia Farms Spicy Salsa,Grocery,Califia Farms,41.37,24.77,149.0,Active,2023-01-13,Local,1.76
+1607,Swiffer Floor Mop,Household,Swiffer,22.89,13.1,60.0,Active,2022-10-26,International,4.37
+1608,Anker Speaker,Electronics,Anker,306.97,162.07,226.0,Active,2023-01-13,Local,4.52
+1609,Hasbro Plush Toy,Toys,Hasbro,76.09,52.97,110.0,Active,2024-09-05,Local,1.86
+1610,LEGO Puzzle Set,Toys,LEGO,26.11,21.54,15.0,Active,2021-05-04,Local,2.44
+1611,HP USB-C Hub,Electronics,HP,134.8,115.03,20.0,Active,2024-07-18,Local,3.07
+1612,Swiffer Dish Soap,Household,Swiffer,17.59,12.8,443.0,Active,2022-07-19,Local,3.83
+1613,Ashley Furniture Office Desk,Furniture,Ashley Furniture,266.19,190.06,327.0,Discontinued,2024-07-18,International,93.03
+1614,Califia Farms Spicy Salsa,Grocery,Califia Farms,17.52,10.42,155.0,Active,2021-06-02,Local,1.23
+1615,Aveeno Facial Moisturizer,Beauty,Aveeno,39.91,33.29,178.0,Active,2021-08-06,Local,0.39
+1616,Apple USB-C Hub,Electronics,Apple,117.15,66.42,296.0,Discontinued,2021-07-09,International,3.77
+1617,LogiTech Bluetooth Earbuds,Electronics,LogiTech,186.26,113.78,245.0,Active,2020-12-02,Local,0.38
+1618,HP 4K Monitor,Electronics,HP,237.01,126.34,241.0,Active,2021-01-23,Local,3.08
+1619,Vitamix Cordless Blender,Home Goods,Vitamix,47.91,37.98,78.0,Active,2023-06-26,Local,13.13
+1620,Tide Laundry Pods,Household,Tide,16.66,9.26,339.0,Active,2021-07-23,International,3.53
+1621,Patagonia Slim Jeans,Apparel,Patagonia,72.35,62.61,67.0,Active,2024-01-15,International,0.14
+1622,L'Oréal Body Lotion,Beauty,L'Oréal,70.61,61.44,102.0,Active,2021-05-05,Local,0.22
+1623,Columbia Hiking Poles,Sports & Outdoors,Columbia,84.03,42.47,275.0,Active,2023-02-17,International,6.82
+1624,LEGO Puzzle Set,Toys,LEGO,27.72,16.99,402.0,Active,2022-01-11,Local,2.43
+1625,IKEA Bookshelf,Furniture,IKEA,929.74,468.12,441.0,Active,2023-08-29,International,23.51
+1626,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,28.0,20.62,422.0,Active,2023-12-24,Local,9.69
+1627,Nike Graphic T-Shirt,Apparel,Nike,124.7,98.05,110.0,Active,2021-02-05,Local,1.19
+1628,Clorox Dish Soap,Household,Clorox,24.41,21.67,118.0,Active,2022-12-22,Local,2.41
+1629,Hasbro Robot Pet,Toys,Hasbro,60.87,37.91,199.0,Discontinued,2022-12-16,Local,0.37
+1630,All-Clad Microfiber Sheets,Home Goods,All-Clad,82.11,71.61,247.0,Active,2024-03-05,Local,3.27
+1631,Hasbro Puzzle Set,Toys,Hasbro,38.62,28.56,86.0,Active,2022-10-30,International,2.9
+1632,Yeti Water-Resistant Backpack,Sports & Outdoors,Yeti,28.92,15.96,117.0,Active,2024-06-01,Local,9.48
+1633,Neutrogena Cleansing Balm,Beauty,Neutrogena,26.97,15.2,443.0,Active,2020-10-19,International,0.1
+1634,Anker Mesh Router,Electronics,Anker,76.39,57.02,9.0,Discontinued,2023-07-21,Local,2.53
+1635,Ashley Furniture Dining Table,Furniture,Ashley Furniture,431.71,351.73,458.0,Active,2023-02-06,Local,63.11
+1636,Neutrogena Cleansing Balm,Beauty,Neutrogena,37.64,33.06,89.0,Active,2023-11-17,International,0.15
+1637,Tide Disinfectant Wipes,Household,Tide,5.07,3.66,23.0,Active,2021-03-14,International,2.81
+1638,Califia Farms Black Tea Bags,Grocery,Califia Farms,41.27,33.72,378.0,Active,2021-05-07,Local,0.92
+1639,Clorox Floor Mop,Household,Clorox,15.6,11.2,22.0,Active,2023-01-06,International,3.52
+1640,Levi's Cotton T-Shirt,Apparel,Levi's,97.06,76.48,445.0,Discontinued,2023-01-30,International,0.75
+1641,LEGO Starship Set,Toys,LEGO,49.73,29.77,53.0,Active,2024-08-10,Local,0.52
+1642,Optimum Nutrition Vitamin Gummies,Health & Wellness,Optimum Nutrition,97.45,59.47,489.0,Active,2021-02-24,International,0.61
+1643,LogiTech Portable Power Bank,Electronics,LogiTech,304.31,194.63,94.0,Active,2021-03-04,International,2.29
+1644,Yeti Soft Cooler,Sports & Outdoors,Yeti,69.41,40.38,16.0,Active,2023-11-13,Local,10.0
+1645,HarperCollins Self-Help Guide,Books,HarperCollins,14.7,12.76,415.0,Active,2023-11-22,Local,0.61
+1646,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,38.81,20.4,300.0,Active,2024-03-21,Local,8.61
+1647,LogiTech Smart Mouse,Electronics,LogiTech,490.92,326.91,207.0,Active,2024-04-08,International,3.17
+1648,Nike Down Vest,Apparel,Nike,26.58,18.45,302.0,Active,2024-04-05,International,0.15
+1649,Ashley Furniture Bookshelf,Furniture,Ashley Furniture,627.01,506.19,279.0,Active,2021-10-21,International,60.66
+1650,Penguin Random House Historical Fiction,Books,Penguin Random House,19.45,17.49,342.0,Active,2023-05-15,International,0.33
+1651,Penguin Random House Historical Fiction,Books,Penguin Random House,34.23,25.97,153.0,Active,2023-01-14,Local,0.94
+1652,Hasbro Puzzle Set,Toys,Hasbro,69.3,36.46,332.0,Active,2022-08-23,Local,0.62
+1653,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,122.39,66.19,150.0,Discontinued,2021-06-09,International,1.91
+1654,Renpho Bathroom Scale,Health & Wellness,Renpho,56.23,34.1,293.0,Active,2022-05-12,Local,1.03
+1655,Bertolli Spicy Salsa,Grocery,Bertolli,36.0,27.64,264.0,Active,2023-03-23,Local,1.84
+1656,Clorox Floor Cleaner,Household,Clorox,6.67,5.77,422.0,Active,2023-06-22,Local,4.95
+1657,Anker Headphones,Electronics,Anker,260.27,178.1,264.0,Discontinued,2022-05-10,International,0.62
+1658,Apple Fitness Watch,Electronics,Apple,121.26,92.61,341.0,Active,2022-05-02,International,1.37
+1659,Levi's Graphic T-Shirt,Apparel,Levi's,68.02,54.44,360.0,Active,2024-04-07,Local,1.34
+1660,Clorox Kitchen Cleaner,Household,Clorox,27.44,24.43,43.0,Discontinued,2023-07-06,International,2.92
+1661,Fitbit Resistance Bands,Health & Wellness,Fitbit,58.2,48.2,418.0,Active,2020-12-12,Local,1.26
+1662,Fitbit Vitamin Gummies,Health & Wellness,Fitbit,26.75,14.66,389.0,Discontinued,2022-08-26,International,1.61
+1663,HarperCollins Fantasy Series,Books,HarperCollins,39.18,26.45,192.0,Active,2021-10-28,Local,0.87
+1664,LEGO Puzzle Set,Toys,LEGO,50.6,34.88,164.0,Active,2022-03-29,International,2.57
+1665,Penguin Random House Bestseller Novel,Books,Penguin Random House,18.99,10.19,207.0,Active,2022-02-06,Local,0.41
+1666,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,812.32,624.0,308.0,Active,2023-12-04,Local,51.7
+1667,HarperCollins Cookbook,Books,HarperCollins,29.94,18.17,26.0,Active,2021-12-29,Local,0.38
+1668,HarperCollins Fantasy Series,Books,HarperCollins,13.37,6.92,219.0,Active,2024-02-14,International,0.42
+1669,IKEA Accent Chair,Furniture,IKEA,399.98,256.63,194.0,Active,2024-03-07,Local,81.81
+1670,Vitamix Air Fryer,Home Goods,Vitamix,266.8,197.94,454.0,Active,2023-06-28,International,12.69
+1671,Yeti Camping Tent,Sports & Outdoors,Yeti,68.51,59.89,136.0,Active,2024-08-21,Local,5.36
+1672,Patagonia Graphic T-Shirt,Apparel,Patagonia,21.51,13.66,288.0,Active,2021-08-30,Local,1.41
+1673,Bertolli Smoked Salmon,Grocery,Bertolli,23.3,16.75,278.0,Active,2021-12-14,International,1.93
+1674,Fitbit Resistance Bands,Health & Wellness,Fitbit,49.01,34.34,357.0,Active,2023-09-22,International,0.5
+1675,Columbia Water-Resistant Backpack,Sports & Outdoors,Columbia,51.48,36.6,386.0,Active,2023-11-05,Local,0.71
+1676,Adidas Cargo Pants,Apparel,Adidas,29.6,16.14,425.0,Active,2022-01-12,International,0.45
+1677,Penguin Random House Self-Help Guide,Books,Penguin Random House,39.96,23.25,448.0,Active,2023-08-31,Local,0.63
+1678,Sony External SSD,Electronics,Sony,133.96,69.33,128.0,Active,2023-03-03,Local,0.56
+1679,Anker 4K Monitor,Electronics,Anker,212.14,129.7,490.0,Active,2021-02-08,Local,0.71
+1680,Columbia Sleeping Bag,Sports & Outdoors,Columbia,138.8,80.13,447.0,Active,2022-07-08,Local,5.89
+1681,Patagonia Down Vest,Apparel,Patagonia,118.23,101.52,248.0,Discontinued,2024-05-27,Local,0.82
+1682,Fitbit Massage Gun,Health & Wellness,Fitbit,60.75,43.66,386.0,Active,2022-05-18,Local,2.73
+1683,Columbia Water-Resistant Backpack,Sports & Outdoors,Columbia,170.83,92.04,75.0,Active,2022-09-08,Local,5.41
+1684,Starbucks Organic Oatmeal,Grocery,Starbucks,33.01,21.71,471.0,Active,2022-10-25,Local,0.96
+1685,Mattel Building Blocks,Toys,Mattel,83.41,65.02,128.0,Active,2022-03-31,International,1.78
+1686,Hasbro Action Figure,Toys,Hasbro,63.21,54.17,353.0,Active,2020-12-22,Local,1.01
+1687,IKEA Wooden Bed Frame,Furniture,IKEA,199.58,110.55,315.0,Active,2023-12-01,Local,86.03
+1688,CeraVe Sunscreen,Beauty,CeraVe,55.3,47.32,196.0,Active,2021-01-04,Local,0.29
+1689,IKEA Dining Table,Furniture,IKEA,304.36,217.66,306.0,Active,2023-08-03,International,28.64
+1690,Starbucks Almond Milk,Grocery,Starbucks,48.91,26.92,332.0,Active,2022-05-13,Local,0.87
+1691,Columbia Portable Hammock,Sports & Outdoors,Columbia,26.34,19.43,13.0,Active,2023-11-15,Local,1.79
+1692,HarperCollins Children's Picture Book,Books,HarperCollins,15.37,13.34,151.0,Discontinued,2022-11-05,International,0.49
+1693,HarperCollins Fantasy Series,Books,HarperCollins,22.94,11.93,211.0,Active,2023-01-09,Local,0.31
+1694,L'Oréal Cleansing Balm,Beauty,L'Oréal,66.24,53.16,251.0,Active,2021-06-11,International,0.33
+1695,CeraVe Charcoal Face Mask,Beauty,CeraVe,22.5,18.5,260.0,Active,2024-04-01,Local,0.44
+1696,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,89.45,49.41,402.0,Active,2021-07-21,International,1.08
+1697,LogiTech USB-C Hub,Electronics,LogiTech,228.42,169.36,172.0,Active,2020-12-24,International,0.14
+1698,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,174.73,99.59,61.0,Active,2020-11-18,International,8.08
+1699,Swiffer Laundry Pods,Household,Swiffer,21.42,14.15,160.0,Active,2020-12-13,International,2.26
+1700,Levi's Hiking Boots,Apparel,Levi's,56.52,30.35,52.0,Discontinued,2022-03-11,International,1.24
+1701,Mattel Building Blocks Set,Toys,Mattel,69.35,34.84,31.0,Discontinued,2021-07-18,Local,0.59
+1702,Hasbro Building Blocks Set,Toys,Hasbro,55.9,50.12,254.0,Active,2022-03-23,International,0.77
+1703,L'Oréal Sunscreen,Beauty,L'Oréal,70.5,35.63,460.0,Active,2022-08-10,Local,0.5
+1704,Renpho Foam Roller,Health & Wellness,Renpho,69.28,36.75,218.0,Active,2022-05-03,International,0.26
+1705,Renpho Yoga Mat,Health & Wellness,Renpho,77.51,53.6,453.0,Active,2024-06-10,Local,1.81
+1706,LEGO Plush Toy,Toys,LEGO,54.2,48.21,180.0,Active,2023-06-23,Local,1.01
+1707,Vitamix Coffee Maker,Home Goods,Vitamix,77.33,55.91,344.0,Active,2021-09-19,Local,13.3
+1708,Renpho Smart Jump Rope,Health & Wellness,Renpho,17.67,11.87,484.0,Active,2022-09-15,Local,1.99
+1709,All-Clad Stand Mixer,Home Goods,All-Clad,342.84,186.7,40.0,Discontinued,2022-07-14,Local,10.98
+1710,Fitbit Protein Powder,Health & Wellness,Fitbit,67.26,53.3,378.0,Active,2024-08-04,International,2.23
+1711,Tide Floor Cleaner,Household,Tide,27.53,22.18,204.0,Active,2022-08-25,Local,3.39
+1712,Clorox Floor Mop,Household,Clorox,5.77,4.81,445.0,Active,2022-12-15,International,4.19
+1713,Aveeno Hydrating Serum,Beauty,Aveeno,52.58,43.14,32.0,Active,2022-02-15,International,0.48
+1714,Optimum Nutrition Foam Roller,Health & Wellness,Optimum Nutrition,75.75,38.88,100.0,Active,2024-02-06,International,0.77
+1715,LEGO Robot Pet,Toys,LEGO,37.68,22.3,458.0,Active,2021-10-13,International,0.33
+1716,LEGO Puzzle Set,Toys,LEGO,75.79,51.25,203.0,Active,2024-01-27,Local,0.48
+1717,CeraVe Lip Balm,Beauty,CeraVe,28.13,24.38,131.0,Discontinued,2021-02-10,Local,0.27
+1718,Bertolli Granola Bars,Grocery,Bertolli,44.56,23.46,353.0,Active,2020-11-10,Local,1.47
+1719,Nike Graphic T-Shirt,Apparel,Nike,103.43,82.98,334.0,Active,2020-12-12,International,0.44
+1720,Levi's Graphic T-Shirt,Apparel,Levi's,89.76,62.92,492.0,Active,2024-03-01,International,1.13
+1721,HarperCollins Fiction Novel,Books,HarperCollins,39.65,27.98,271.0,Active,2023-11-14,International,0.78
+1722,Optimum Nutrition Bathroom Scale,Health & Wellness,Optimum Nutrition,55.91,30.93,360.0,Active,2021-08-10,Local,1.4
+1723,Optimum Nutrition Yoga Mat,Health & Wellness,Optimum Nutrition,34.77,18.63,415.0,Active,2021-08-20,Local,2.27
+1724,Renpho Foam Roller,Health & Wellness,Renpho,37.76,21.96,464.0,Active,2021-08-25,Local,1.4
+1725,Califia Farms Almond Milk,Grocery,Califia Farms,30.56,17.13,53.0,Active,2021-07-30,International,1.19
+1726,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,190.15,111.05,291.0,Active,2023-05-10,International,9.28
+1727,LEGO Starship Set,Toys,LEGO,29.26,15.15,63.0,Active,2022-10-20,Local,0.77
+1728,LogiTech USB-C Hub,Electronics,LogiTech,361.25,247.28,198.0,Active,2024-03-17,Local,0.25
+1729,HarperCollins Cookbook,Books,HarperCollins,31.45,15.87,63.0,Active,2024-08-13,Local,0.56
+1730,Renpho Protein Powder,Health & Wellness,Renpho,92.97,79.87,121.0,Active,2023-06-24,Local,0.81
+1731,Penguin Random House Children's Book,Books,Penguin Random House,33.59,22.45,142.0,Active,2022-08-24,International,0.75
+1732,Neutrogena Hydrating Serum,Beauty,Neutrogena,36.56,22.91,302.0,Active,2021-04-12,Local,0.1
+1733,Tide Kitchen Cleaner,Household,Tide,27.9,18.08,2.0,Active,2021-06-11,International,4.79
+1734,Columbia Sleeping Bag,Sports & Outdoors,Columbia,170.97,86.82,170.0,Active,2023-12-15,Local,9.74
+1735,Columbia Water-Resistant Backpack,Sports & Outdoors,Columbia,41.1,35.43,7.0,Active,2021-08-23,Local,8.74
+1736,Starbucks Spicy Salsa,Grocery,Starbucks,5.07,3.63,229.0,Active,2023-03-08,International,1.86
+1737,Fitbit Yoga Mat,Health & Wellness,Fitbit,54.9,40.96,268.0,Active,2024-07-09,Local,0.66
+1738,LEGO Puzzle Set,Toys,LEGO,40.01,26.05,73.0,Active,2023-08-08,Local,1.39
+1739,HarperCollins Historical Fiction,Books,HarperCollins,33.55,19.92,271.0,Active,2023-08-03,Local,0.93
+1740,Patagonia Hooded Sweatshirt,Apparel,Patagonia,88.79,67.85,350.0,Active,2021-11-07,International,0.61
+1741,HarperCollins Historical Fiction,Books,HarperCollins,15.42,12.92,233.0,Active,2024-05-01,International,0.32
+1742,Califia Farms Organic Oatmeal,Grocery,Califia Farms,6.0,3.32,45.0,Active,2024-02-27,International,0.85
+1743,Mattel Starship Set,Toys,Mattel,62.52,35.93,447.0,Active,2022-08-02,International,1.79
+1744,HarperCollins Cookbook,Books,HarperCollins,38.04,20.13,482.0,Active,2021-08-15,Local,0.52
+1745,Tide Floor Cleaner,Household,Tide,16.42,8.8,362.0,Active,2021-12-16,Local,2.23
+1746,Nike Graphic T-Shirt,Apparel,Nike,90.44,75.42,409.0,Active,2022-10-31,Local,0.95
+1747,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,101.25,57.22,91.0,Active,2023-03-31,Local,5.37
+1748,Clorox Floor Cleaner,Household,Clorox,25.28,22.71,452.0,Active,2023-02-01,International,2.15
+1749,Adidas Slim Jeans,Apparel,Adidas,108.53,75.37,191.0,Active,2020-10-11,Local,1.19
+1750,Apple Smart Mouse,Electronics,Apple,310.09,259.8,65.0,Active,2024-09-30,International,3.58
+1751,LogiTech Speaker,Electronics,LogiTech,334.45,291.02,113.0,Active,2024-08-13,Local,4.76
+1752,All-Clad Water Filter,Home Goods,All-Clad,336.09,282.0,143.0,Active,2024-02-09,Local,3.28
+1753,HarperCollins Children's Picture Book,Books,HarperCollins,36.62,29.85,454.0,Active,2022-12-30,Local,0.66
+1754,All-Clad Water Filter,Home Goods,All-Clad,284.87,194.01,368.0,Active,2023-02-15,International,2.01
+1755,Aveeno Hydrating Serum,Beauty,Aveeno,41.3,33.64,31.0,Discontinued,2021-11-17,International,0.4
+1756,Nike Cargo Pants,Apparel,Nike,94.67,47.37,500.0,Active,2023-06-27,Local,1.23
+1757,Adidas Wool Scarf,Apparel,Adidas,44.17,35.29,42.0,Active,2022-09-04,Local,1.43
+1758,Apple USB-C Hub,Electronics,Apple,306.28,158.51,103.0,Active,2022-02-04,International,3.01
+1759,LogiTech HD Webcam,Electronics,LogiTech,480.64,414.51,132.0,Active,2021-11-08,International,4.4
+1760,Fitbit Digital Thermometer,Health & Wellness,Fitbit,75.47,46.58,358.0,Active,2022-01-19,Local,1.75
+1761,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,122.18,103.37,110.0,Active,2021-11-09,Local,2.94
+1762,Patagonia Wool Scarf,Apparel,Patagonia,128.72,113.75,46.0,Active,2023-05-17,Local,0.3
+1763,Starbucks Organic Coffee,Grocery,Starbucks,41.49,24.28,43.0,Active,2024-07-23,International,0.26
+1764,Anker Gaming Laptop,Electronics,Anker,208.31,159.48,288.0,Active,2023-05-10,International,0.44
+1765,Bertolli Olive Oil,Grocery,Bertolli,21.2,15.04,132.0,Active,2021-07-03,Local,1.77
+1766,Yeti Soft Cooler,Sports & Outdoors,Yeti,35.58,21.68,442.0,Active,2022-10-26,Local,4.58
+1767,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,39.69,33.99,129.0,Discontinued,2021-09-17,Local,0.68
+1768,CeraVe Lip Balm,Beauty,CeraVe,34.87,30.1,409.0,Discontinued,2020-12-22,Local,0.47
+1769,Sony Speaker,Electronics,Sony,200.3,165.55,229.0,Discontinued,2024-03-06,International,2.03
+1770,HarperCollins Fiction Novel,Books,HarperCollins,20.57,18.19,187.0,Active,2023-12-28,Local,0.81
+1771,Penguin Random House Fantasy Series,Books,Penguin Random House,26.23,22.58,171.0,Active,2022-05-14,Local,0.74
+1772,Samsung Mesh Router,Electronics,Samsung,495.55,424.09,53.0,Active,2022-01-10,Local,0.59
+1773,Hasbro Puzzle Set,Toys,Hasbro,23.05,11.7,352.0,Active,2021-04-23,Local,2.84
+1774,Samsung External SSD,Electronics,Samsung,366.21,275.95,87.0,Active,2020-11-07,International,4.6
+1775,Fitbit Digital Thermometer,Health & Wellness,Fitbit,94.94,54.2,350.0,Active,2022-09-27,Local,0.49
+1776,Neutrogena Hydrating Serum,Beauty,Neutrogena,66.67,33.62,31.0,Active,2021-12-06,International,0.38
+1777,Adidas Cargo Pants,Apparel,Adidas,34.43,29.1,110.0,Discontinued,2024-05-17,International,0.59
+1778,Ashley Furniture Wooden Bed Frame,Furniture,Ashley Furniture,496.14,370.64,456.0,Active,2022-05-15,Local,96.03
+1779,Patagonia Down Vest,Apparel,Patagonia,111.54,61.53,433.0,Active,2023-09-12,Local,0.6
+1780,HarperCollins Self-Help Guide,Books,HarperCollins,29.32,17.36,468.0,Active,2023-01-30,Local,0.31
+1781,Fitbit Protein Powder,Health & Wellness,Fitbit,67.87,42.19,497.0,Active,2024-09-23,Local,2.7
+1782,Sony Mesh Router,Electronics,Sony,206.69,105.94,481.0,Active,2024-01-06,Local,3.1
+1783,Renpho Smart Jump Rope,Health & Wellness,Renpho,21.12,15.86,154.0,Discontinued,2022-02-14,International,2.97
+1784,Penguin Random House Biography,Books,Penguin Random House,38.8,24.77,184.0,Active,2023-08-09,International,0.78
+1785,All-Clad Ceramic Pan Set,Home Goods,All-Clad,163.7,84.03,37.0,Active,2023-06-30,Local,14.17
+1786,IKEA Accent Chair,Furniture,IKEA,458.01,401.75,220.0,Discontinued,2023-04-21,Local,16.63
+1787,Tide Floor Cleaner,Household,Tide,11.57,9.0,399.0,Active,2022-08-27,Local,1.7
+1788,Bertolli Smoked Salmon,Grocery,Bertolli,13.72,8.45,435.0,Active,2024-07-06,International,0.87
+1789,LogiTech Bluetooth Earbuds,Electronics,LogiTech,226.68,147.52,235.0,Active,2022-03-08,Local,1.71
+1790,Dyson Air Fryer,Home Goods,Dyson,158.74,84.0,6.0,Active,2021-12-13,Local,4.57
+1791,Vitamix Smart Toaster,Home Goods,Vitamix,69.13,41.61,276.0,Active,2021-06-06,International,10.26
+1792,All-Clad Smart Toaster,Home Goods,All-Clad,322.03,203.66,158.0,Active,2023-05-19,Local,12.02
+1793,Samsung Fitness Watch,Electronics,Samsung,452.76,378.31,216.0,Active,2022-12-25,Local,3.22
+1794,Hasbro Action Figure Set,Toys,Hasbro,58.39,29.52,125.0,Active,2021-12-04,Local,1.34
+1795,Califia Farms Spaghetti Sauce,Grocery,Califia Farms,32.73,20.05,4.0,Active,2022-08-19,International,1.86
+1796,L'Oréal Sunscreen,Beauty,L'Oréal,31.01,26.18,290.0,Active,2023-09-18,Local,0.34
+1797,Renpho Massage Gun,Health & Wellness,Renpho,48.6,42.83,119.0,Active,2023-08-26,International,2.66
+1798,Vitamix Cordless Blender,Home Goods,Vitamix,166.92,95.91,267.0,Active,2022-12-26,International,13.46
+1799,Penguin Random House Children's Picture Book,Books,Penguin Random House,10.03,5.47,228.0,Active,2024-05-26,International,0.46
+1800,Anker Wireless Keyboard,Electronics,Anker,135.07,119.26,359.0,Active,2024-07-15,International,3.66
+1801,Adidas Cargo Pants,Apparel,Adidas,137.9,112.29,269.0,Active,2024-05-07,International,1.11
+1802,Aveeno Lip Balm,Beauty,Aveeno,38.19,20.81,396.0,Active,2023-05-15,Local,0.23
+1803,Adidas Running Jacket,Apparel,Adidas,93.97,72.93,238.0,Active,2021-08-21,International,0.23
+1804,LEGO Building Blocks Set,Toys,LEGO,75.25,67.5,385.0,Active,2021-08-23,Local,1.74
+1805,Califia Farms Olive Oil,Grocery,Califia Farms,29.64,22.04,193.0,Active,2024-03-27,International,1.06
+1806,Hasbro Remote Drone,Toys,Hasbro,43.19,26.97,452.0,Active,2022-06-07,Local,1.69
+1807,Clorox Heavy-Duty Trash Bags,Household,Clorox,5.03,3.62,91.0,Active,2024-04-18,Local,3.31
+1808,Dyson Microfiber Sheets,Home Goods,Dyson,379.84,228.2,31.0,Active,2022-03-28,Local,4.9
+1809,Dyson Smart Toaster,Home Goods,Dyson,348.29,189.43,383.0,Active,2023-02-03,International,6.04
+1810,Bertolli Almond Milk,Grocery,Bertolli,5.46,4.34,65.0,Active,2022-08-09,Local,1.34
+1811,Fitbit Bathroom Scale,Health & Wellness,Fitbit,74.15,62.36,113.0,Active,2021-03-22,Local,1.14
+1812,Levi's Hooded Sweatshirt,Apparel,Levi's,68.48,35.37,100.0,Active,2020-12-18,Local,0.23
+1813,Dell HD Webcam,Electronics,Dell,164.06,82.22,101.0,Discontinued,2023-04-15,Local,3.6
+1814,Starbucks Black Tea Bags,Grocery,Starbucks,25.56,16.85,183.0,Active,2023-01-26,International,0.6
+1815,IKEA Ergonomic Chair,Furniture,IKEA,686.59,367.92,307.0,Active,2023-03-26,International,98.05
+1816,Tide Heavy-Duty Trash Bags,Household,Tide,14.45,7.46,312.0,Discontinued,2022-08-21,Local,4.8
+1817,Nike Polo Shirt,Apparel,Nike,54.28,48.1,432.0,Active,2021-07-12,Local,0.97
+1818,All-Clad Ceramic Pan Set,Home Goods,All-Clad,239.97,203.36,411.0,Discontinued,2021-03-25,Local,1.2
+1819,L'Oréal Hydrating Serum,Beauty,L'Oréal,46.22,41.02,189.0,Active,2023-06-22,International,0.26
+1820,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,147.57,82.81,477.0,Active,2022-11-14,International,3.94
+1821,Fitbit Yoga Mat,Health & Wellness,Fitbit,39.39,32.04,391.0,Active,2022-05-27,Local,2.9
+1822,Bertolli Organic Oatmeal,Grocery,Bertolli,18.78,10.81,395.0,Active,2024-03-26,Local,0.22
+1823,HarperCollins Cookbook,Books,HarperCollins,15.02,8.29,98.0,Active,2021-05-09,Local,0.92
+1824,Adidas Hooded Sweatshirt,Apparel,Adidas,145.93,85.6,131.0,Active,2024-09-19,Local,1.26
+1825,Ashley Furniture Office Desk,Furniture,Ashley Furniture,339.9,183.74,78.0,Active,2022-02-13,Local,89.77
+1826,Mattel Remote Drone,Toys,Mattel,56.9,50.08,305.0,Active,2024-09-12,International,2.81
+1827,IKEA Bookshelf,Furniture,IKEA,751.92,622.79,465.0,Active,2024-04-27,International,71.44
+1828,Califia Farms Spaghetti Sauce,Grocery,Califia Farms,30.19,17.99,413.0,Active,2024-09-11,International,1.98
+1829,Vitamix Ceramic Pan Set,Home Goods,Vitamix,276.68,197.18,187.0,Active,2021-04-28,Local,3.83
+1830,Califia Farms Artisanal Bread,Grocery,Califia Farms,8.54,5.52,428.0,Active,2024-03-13,Local,0.25
+1831,Optimum Nutrition Smart Jump Rope,Health & Wellness,Optimum Nutrition,88.4,69.93,399.0,Discontinued,2021-06-21,Local,0.88
+1832,Tide Dish Soap,Household,Tide,19.67,15.5,459.0,Discontinued,2021-01-27,International,4.74
+1833,Starbucks Artisanal Bread,Grocery,Starbucks,48.52,31.45,224.0,Active,2022-01-29,International,0.91
+1834,HarperCollins Fantasy Series,Books,HarperCollins,38.87,26.13,33.0,Discontinued,2024-09-11,Local,0.42
+1835,Aveeno Cleansing Balm,Beauty,Aveeno,44.81,22.55,466.0,Active,2022-01-01,International,0.35
+1836,LEGO Building Blocks Set,Toys,LEGO,84.26,67.76,95.0,Active,2020-12-24,Local,2.84
+1837,Columbia Hiking Poles,Sports & Outdoors,Columbia,77.87,44.6,229.0,Active,2022-07-23,Local,4.81
+1838,All-Clad Toaster Oven,Home Goods,All-Clad,166.14,122.18,368.0,Active,2021-08-02,Local,2.72
+1839,Samsung Headphones,Electronics,Samsung,479.15,343.93,334.0,Active,2023-11-05,International,0.87
+1840,Adidas Cotton T-Shirt,Apparel,Adidas,120.98,75.44,454.0,Active,2023-01-20,Local,0.89
+1841,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,303.4,261.83,493.0,Discontinued,2021-05-20,Local,68.11
+1842,Swiffer Floor Mop,Household,Swiffer,25.55,14.48,471.0,Discontinued,2023-11-22,Local,3.78
+1843,Adidas Polo Shirt,Apparel,Adidas,61.38,39.6,108.0,Discontinued,2023-11-14,Local,1.35
+1844,Hasbro Classic Board Game,Toys,Hasbro,37.08,28.63,433.0,Active,2021-04-08,Local,0.6
+1845,IKEA Platform Bed,Furniture,IKEA,882.72,729.43,479.0,Active,2022-06-26,Local,81.7
+1846,Starbucks Spaghetti Sauce,Grocery,Starbucks,25.83,18.88,68.0,Active,2022-06-20,Local,0.54
+1847,LogiTech Wireless Keyboard,Electronics,LogiTech,175.4,133.0,32.0,Active,2022-06-19,International,3.53
+1848,Swiffer Disinfectant Wipes,Household,Swiffer,6.57,5.74,475.0,Active,2022-08-29,Local,4.93
+1849,Anker USB-C Hub,Electronics,Anker,267.73,152.95,350.0,Active,2020-10-07,Local,1.67
+1850,Califia Farms Smoked Salmon,Grocery,Califia Farms,24.14,14.98,310.0,Discontinued,2022-11-19,International,0.42
+1851,Yeti Soft Cooler,Sports & Outdoors,Yeti,166.07,88.8,356.0,Discontinued,2023-09-03,International,2.39
+1852,Yeti Bicycle Helmet,Sports & Outdoors,Yeti,85.53,48.04,364.0,Active,2024-07-20,Local,7.35
+1853,IKEA Media Console,Furniture,IKEA,618.05,520.63,324.0,Active,2024-04-26,Local,74.72
+1854,CeraVe Conditioning Shampoo,Beauty,CeraVe,69.12,39.23,76.0,Active,2023-10-11,International,0.28
+1855,Bertolli Smoked Salmon,Grocery,Bertolli,32.15,16.09,90.0,Active,2022-11-15,Local,1.45
+1856,CeraVe Facial Moisturizer,Beauty,CeraVe,18.4,12.34,217.0,Active,2020-10-27,International,0.29
+1857,HP Mesh Router,Electronics,HP,489.26,344.72,24.0,Active,2020-10-07,Local,4.8
+1858,LEGO Robot Pet,Toys,LEGO,85.53,55.8,103.0,Active,2023-09-07,Local,0.72
+1859,CeraVe Face Wash,Beauty,CeraVe,68.04,52.47,286.0,Active,2021-08-27,Local,0.14
+1860,Ashley Furniture Dining Table,Furniture,Ashley Furniture,930.74,562.96,391.0,Active,2024-04-04,International,53.06
+1861,Tide Floor Cleaner,Household,Tide,8.28,7.38,108.0,Discontinued,2021-12-30,International,4.92
+1862,Dyson Water Filter,Home Goods,Dyson,218.09,118.3,325.0,Active,2021-02-28,Local,3.16
+1863,IKEA Dining Table,Furniture,IKEA,745.62,668.32,341.0,Active,2022-10-06,Local,76.08
+1864,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,90.98,77.82,421.0,Discontinued,2021-12-22,Local,4.03
+1865,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,170.8,139.4,326.0,Active,2021-01-04,International,1.13
+1866,LEGO Action Figure,Toys,LEGO,38.08,31.12,351.0,Active,2020-12-06,International,0.32
+1867,Bertolli Black Tea Bags,Grocery,Bertolli,47.74,26.2,396.0,Active,2024-07-17,Local,1.8
+1868,Starbucks Artisanal Bread,Grocery,Starbucks,12.85,6.72,339.0,Active,2022-07-29,International,0.61
+1869,Swiffer Glass Cleaner,Household,Swiffer,14.13,8.84,33.0,Active,2022-10-31,Local,2.13
+1870,Penguin Random House Fantasy Series,Books,Penguin Random House,33.98,25.5,480.0,Active,2022-11-05,Local,0.98
+1871,Nike Cargo Pants,Apparel,Nike,93.61,72.01,471.0,Active,2022-06-26,Local,0.9
+1872,Patagonia Rain Jacket,Apparel,Patagonia,97.02,71.44,109.0,Active,2023-07-01,Local,1.23
+1873,Clorox Kitchen Cleaner,Household,Clorox,25.28,15.2,10.0,Active,2021-04-14,Local,0.57
+1874,Ashley Furniture Two-Seat Sofa,Furniture,Ashley Furniture,186.48,142.59,374.0,Active,2024-09-25,Local,28.16
+1875,Yeti Insulated Water Bottle,Sports & Outdoors,Yeti,95.62,69.48,273.0,Active,2022-09-17,Local,9.57
+1876,Califia Farms Olive Oil,Grocery,Califia Farms,12.42,10.65,252.0,Active,2023-10-01,International,1.97
+1877,Vitamix Water Filter,Home Goods,Vitamix,271.25,218.59,346.0,Active,2021-05-29,Local,9.07
+1878,Mattel Building Blocks Set,Toys,Mattel,55.39,37.01,279.0,Active,2024-05-17,International,0.86
+1879,Renpho Foam Roller,Health & Wellness,Renpho,24.8,18.65,47.0,Active,2023-12-31,Local,0.19
+1880,Ashley Furniture Office Desk,Furniture,Ashley Furniture,263.52,147.02,64.0,Active,2020-10-28,Local,41.68
+1881,L'Oréal Face Wash,Beauty,L'Oréal,62.49,56.07,140.0,Active,2021-08-24,Local,0.47
+1882,Samsung USB-C Hub,Electronics,Samsung,72.47,48.44,72.0,Active,2024-09-08,Local,1.62
+1883,Columbia Sleeping Bag,Sports & Outdoors,Columbia,95.16,64.63,294.0,Active,2021-08-05,Local,9.44
+1884,Starbucks Greek Yogurt,Grocery,Starbucks,45.07,34.99,219.0,Active,2020-11-02,International,0.26
+1885,Starbucks Spicy Salsa,Grocery,Starbucks,19.16,13.18,113.0,Active,2022-10-08,International,1.96
+1886,Yeti Camping Tent,Sports & Outdoors,Yeti,57.63,38.99,238.0,Active,2021-03-29,International,6.68
+1887,HarperCollins Biography,Books,HarperCollins,16.68,8.67,106.0,Active,2023-08-05,Local,0.31
+1888,Aveeno Facial Moisturizer,Beauty,Aveeno,20.5,14.04,83.0,Active,2023-12-02,Local,0.19
+1889,Neutrogena Charcoal Face Mask,Beauty,Neutrogena,69.55,58.42,318.0,Active,2022-04-02,International,0.34
+1890,Optimum Nutrition Resistance Bands,Health & Wellness,Optimum Nutrition,70.88,43.9,127.0,Active,2023-04-24,Local,2.71
+1891,Starbucks Spicy Salsa,Grocery,Starbucks,36.91,19.53,403.0,Active,2023-11-01,International,0.91
+1892,Penguin Random House Fantasy Series,Books,Penguin Random House,32.59,27.16,125.0,Discontinued,2023-03-30,Local,0.7
+1893,Bertolli Artisanal Bread,Grocery,Bertolli,44.64,29.64,450.0,Active,2023-02-15,International,1.71
+1894,LEGO Classic Board Game,Toys,LEGO,27.42,20.22,25.0,Active,2020-12-10,Local,2.25
+1895,HarperCollins Sci-Fi Paperback,Books,HarperCollins,12.99,7.03,81.0,Active,2021-03-07,International,0.7
+1896,Samsung Fitness Watch,Electronics,Samsung,128.0,88.51,441.0,Active,2024-02-04,Local,4.51
+1897,CeraVe Waterproof Mascara,Beauty,CeraVe,28.66,23.32,364.0,Active,2020-12-10,Local,0.33
+1898,Anker Wireless Keyboard,Electronics,Anker,54.57,33.36,155.0,Active,2021-03-19,Local,4.65
+1899,Penguin Random House Cookbook,Books,Penguin Random House,27.0,13.8,422.0,Active,2022-07-12,International,0.37
+1900,Bertolli Smoked Salmon,Grocery,Bertolli,43.87,37.0,171.0,Active,2021-03-30,Local,1.27
+1901,Neutrogena Facial Moisturizer,Beauty,Neutrogena,50.82,34.99,430.0,Active,2021-10-05,International,0.49
+1902,Penguin Random House Self-Help Guide,Books,Penguin Random House,38.33,29.99,134.0,Active,2023-07-23,Local,0.79
+1903,HydroFlask Camping Tent,Sports & Outdoors,HydroFlask,39.81,34.79,115.0,Active,2021-07-28,Local,2.44
+1904,Starbucks Whole Grain Bread,Grocery,Starbucks,12.09,9.63,344.0,Active,2023-06-29,Local,0.76
+1905,Vitamix Air Fryer,Home Goods,Vitamix,180.43,97.99,336.0,Active,2020-10-14,International,11.0
+1906,Mattel Plush Toy,Toys,Mattel,73.92,56.42,411.0,Active,2022-06-07,Local,0.38
+1907,Ashley Furniture Office Desk,Furniture,Ashley Furniture,739.68,411.52,460.0,Active,2021-02-25,Local,62.43
+1908,Dyson Microfiber Sheets,Home Goods,Dyson,63.18,56.16,340.0,Active,2022-10-31,Local,7.52
+1909,Sony Smart Mouse,Electronics,Sony,143.53,75.12,164.0,Active,2023-03-29,International,4.19
+1910,All-Clad Coffee Maker,Home Goods,All-Clad,331.57,291.03,313.0,Active,2023-07-21,Local,7.28
+1911,All-Clad Cordless Vacuum,Home Goods,All-Clad,104.39,93.7,267.0,Active,2022-06-04,Local,2.91
+1912,L'Oréal Cleansing Balm,Beauty,L'Oréal,47.29,27.72,56.0,Active,2024-05-05,Local,0.19
+1913,Columbia Insulated Bottle,Sports & Outdoors,Columbia,102.17,79.38,376.0,Active,2022-10-18,Local,4.83
+1914,Tide Disinfectant Wipes,Household,Tide,8.55,6.36,245.0,Active,2023-03-22,International,1.62
+1915,Vitamix Smart Toaster,Home Goods,Vitamix,267.45,139.72,108.0,Discontinued,2021-11-18,Local,4.23
+1916,Hasbro Remote Drone,Toys,Hasbro,84.37,50.12,88.0,Active,2023-11-21,International,2.87
+1917,Anker Mesh Router,Electronics,Anker,293.08,154.52,235.0,Discontinued,2022-09-28,Local,3.73
+1918,LogiTech External SSD,Electronics,LogiTech,254.4,224.65,84.0,Active,2023-03-09,Local,0.36
+1919,Dell Portable Power Bank,Electronics,Dell,416.45,277.12,370.0,Active,2023-11-11,International,2.78
+1920,Patagonia Graphic T-Shirt,Apparel,Patagonia,103.49,72.24,354.0,Active,2024-01-28,Local,0.97
+1921,Vitamix Aromatherapy Diffuser,Home Goods,Vitamix,48.52,36.68,185.0,Active,2024-08-22,International,7.17
+1922,Ashley Furniture Office Desk,Furniture,Ashley Furniture,666.03,467.76,174.0,Discontinued,2022-03-07,Local,38.5
+1923,HarperCollins Sci-Fi Paperback,Books,HarperCollins,21.56,15.38,389.0,Active,2022-05-22,International,0.81
+1924,Starbucks Olive Oil,Grocery,Starbucks,16.21,11.03,97.0,Active,2021-05-23,Local,0.54
+1925,Nike Down Vest,Apparel,Nike,147.31,104.94,62.0,Discontinued,2022-12-10,Local,1.08
+1926,Hasbro Action Figure Set,Toys,Hasbro,83.62,62.35,381.0,Active,2024-05-23,International,2.73
+1927,Apple External SSD,Electronics,Apple,420.97,327.28,150.0,Active,2023-07-03,International,3.03
+1928,Adidas Running Shorts,Apparel,Adidas,110.28,81.53,92.0,Active,2022-09-03,International,0.25
+1929,All-Clad Cordless Vacuum,Home Goods,All-Clad,82.58,72.52,253.0,Active,2021-09-08,Local,8.81
+1930,All-Clad Handheld Steamer,Home Goods,All-Clad,163.47,91.52,149.0,Active,2020-10-19,Local,10.51
+1931,Fitbit Foam Roller,Health & Wellness,Fitbit,89.72,75.36,196.0,Active,2021-02-08,Local,2.23
+1932,Califia Farms Granola Bars,Grocery,Califia Farms,48.93,30.38,151.0,Active,2021-03-11,International,0.75
+1933,Swiffer Dish Soap,Household,Swiffer,19.98,12.63,473.0,Active,2023-01-17,Local,1.25
+1934,HarperCollins Bestseller Novel,Books,HarperCollins,32.98,21.1,351.0,Active,2022-09-22,International,0.43
+1935,Tide Kitchen Cleaner,Household,Tide,20.6,11.8,463.0,Active,2024-07-19,International,1.22
+1936,L'Oréal Charcoal Face Mask,Beauty,L'Oréal,25.16,17.13,95.0,Active,2023-11-13,Local,0.17
+1937,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,10.53,9.0,42.0,Active,2021-01-18,Local,0.87
+1938,Samsung Mesh Router,Electronics,Samsung,216.0,188.13,372.0,Active,2023-08-24,Local,0.45
+1939,HydroFlask Sleeping Bag,Sports & Outdoors,HydroFlask,32.36,20.29,303.0,Active,2024-05-14,International,4.32
+1940,Starbucks Organic Oatmeal,Grocery,Starbucks,35.08,19.7,416.0,Active,2023-04-30,International,1.5
+1941,All-Clad Water Filter,Home Goods,All-Clad,189.64,120.25,39.0,Active,2022-07-30,Local,10.05
+1942,Aveeno Cleansing Balm,Beauty,Aveeno,22.64,12.29,371.0,Active,2024-08-28,International,0.12
+1943,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,31.13,16.36,81.0,Active,2021-10-21,Local,0.41
+1944,Adidas Polo Shirt,Apparel,Adidas,117.39,89.81,262.0,Active,2020-12-13,International,0.85
+1945,Hasbro Action Figure,Toys,Hasbro,60.54,37.49,206.0,Active,2024-01-02,International,0.6
+1946,Fitbit Massage Gun,Health & Wellness,Fitbit,60.66,37.83,200.0,Active,2024-03-31,Local,2.53
+1947,Apple Speaker,Electronics,Apple,224.72,195.78,292.0,Discontinued,2024-02-28,Local,3.23
+1948,Starbucks Greek Yogurt,Grocery,Starbucks,28.44,22.6,398.0,Active,2022-03-11,Local,1.9
+1949,Fitbit Bathroom Scale,Health & Wellness,Fitbit,25.09,19.81,223.0,Active,2023-06-16,International,0.42
+1950,HydroFlask Bicycle Helmet,Sports & Outdoors,HydroFlask,56.33,32.29,99.0,Active,2022-06-15,Local,3.2
+1951,Fitbit Smart Scale,Health & Wellness,Fitbit,33.44,18.23,498.0,Active,2021-03-19,International,2.76
+1952,Nike Graphic T-Shirt,Apparel,Nike,81.24,55.13,315.0,Active,2024-02-26,Local,0.95
+1953,Fitbit Massage Gun,Health & Wellness,Fitbit,73.71,56.07,50.0,Active,2024-04-23,Local,2.23
+1954,Anker Smart Mouse,Electronics,Anker,443.83,294.67,217.0,Active,2020-10-15,International,3.56
+1955,Sony 4K Monitor,Electronics,Sony,471.31,266.06,383.0,Active,2021-04-21,Local,1.02
+1956,Sony Fitness Watch,Electronics,Sony,334.31,275.42,168.0,Active,2023-05-04,International,4.51
+1957,Sony HD Webcam,Electronics,Sony,298.92,260.05,83.0,Active,2022-01-24,International,3.33
+1958,Penguin Random House Children's Book,Books,Penguin Random House,11.79,8.41,204.0,Active,2024-04-29,International,0.83
+1959,Califia Farms Smoked Salmon,Grocery,Califia Farms,42.97,25.04,456.0,Active,2024-07-27,International,0.89
+1960,Starbucks Granola Bars,Grocery,Starbucks,23.34,12.45,383.0,Active,2021-10-28,Local,1.34
+1961,HydroFlask Water-Resistant Backpack,Sports & Outdoors,HydroFlask,94.59,56.67,54.0,Active,2023-09-07,International,1.53
+1962,Califia Farms Organic Oatmeal,Grocery,Califia Farms,34.87,19.62,406.0,Discontinued,2022-03-29,International,0.47
+1963,Mattel Robot Pet,Toys,Mattel,77.14,49.35,115.0,Active,2022-02-13,International,2.27
+1964,Hasbro Action Figure Set,Toys,Hasbro,42.66,34.37,481.0,Discontinued,2021-03-16,Local,2.87
+1965,Tide Disinfectant Wipes,Household,Tide,7.37,4.93,23.0,Active,2022-05-08,Local,3.12
+1966,IKEA Wooden Bed Frame,Furniture,IKEA,870.67,528.11,417.0,Active,2022-07-30,International,52.04
+1967,HydroFlask Portable Hammock,Sports & Outdoors,HydroFlask,105.61,82.16,258.0,Active,2024-02-03,Local,6.01
+1968,IKEA Platform Bed,Furniture,IKEA,586.92,375.62,154.0,Active,2023-07-05,International,11.5
+1969,Columbia Portable Grill,Sports & Outdoors,Columbia,89.51,74.19,489.0,Active,2022-08-30,International,6.31
+1970,Penguin Random House Sci-Fi Paperback,Books,Penguin Random House,14.15,8.23,230.0,Active,2022-06-09,Local,0.92
+1971,Neutrogena Cleansing Balm,Beauty,Neutrogena,24.53,18.85,140.0,Active,2024-04-17,Local,0.28
+1972,Dyson Air Fryer,Home Goods,Dyson,348.81,236.5,12.0,Active,2021-06-01,Local,9.64
+1973,HarperCollins Historical Fiction,Books,HarperCollins,11.89,8.68,225.0,Active,2021-04-12,Local,0.3
+1974,Tide Air Freshener,Household,Tide,22.15,13.33,255.0,Active,2023-08-28,International,3.07
+1975,Renpho Digital Thermometer,Health & Wellness,Renpho,96.06,78.87,100.0,Active,2024-09-04,International,0.43
+1976,Starbucks Granola Bars,Grocery,Starbucks,42.75,37.51,266.0,Active,2024-02-16,Local,1.25
+1977,Patagonia Slim Jeans,Apparel,Patagonia,58.09,41.45,300.0,Active,2021-03-01,Local,1.21
+1978,Ashley Furniture Accent Chair,Furniture,Ashley Furniture,888.25,786.94,168.0,Active,2024-05-24,International,12.83
+1979,Vitamix Cordless Vacuum,Home Goods,Vitamix,44.46,27.39,205.0,Active,2022-09-06,Local,12.76
+1980,Fitbit Smart Scale,Health & Wellness,Fitbit,85.85,60.78,184.0,Active,2023-01-10,Local,2.64
+1981,LEGO Classic Board Game,Toys,LEGO,89.37,46.16,412.0,Active,2022-07-03,International,1.76
+1982,HarperCollins Children's Book,Books,HarperCollins,17.86,14.24,438.0,Active,2023-03-13,Local,0.99
+1983,Anker USB-C Hub,Electronics,Anker,466.45,380.31,229.0,Discontinued,2023-11-13,Local,1.14
+1984,L'Oréal Body Lotion,Beauty,L'Oréal,59.39,32.11,207.0,Active,2023-03-13,International,0.24
+1985,Sony Fitness Watch,Electronics,Sony,224.33,162.23,50.0,Active,2024-03-14,Local,2.25
+1986,Ashley Furniture Ergonomic Chair,Furniture,Ashley Furniture,488.79,254.52,292.0,Active,2024-04-08,International,92.1
+1987,Hasbro Puzzle Set,Toys,Hasbro,28.77,21.78,450.0,Active,2023-08-29,Local,2.33
+1988,Aveeno Conditioning Shampoo,Beauty,Aveeno,13.09,11.36,139.0,Active,2024-04-25,International,0.15
+1989,Dell External SSD,Electronics,Dell,267.78,170.62,341.0,Active,2022-09-06,International,2.06
+1990,Vitamix Smart Toaster,Home Goods,Vitamix,377.8,210.32,194.0,Active,2022-09-14,Local,13.74
+1991,HarperCollins Sci-Fi Paperback,Books,HarperCollins,36.17,22.65,71.0,Active,2024-04-19,Local,0.96
+1992,Nike Hiking Boots,Apparel,Nike,63.13,55.1,111.0,Active,2022-07-06,Local,1.21
+1993,Tide Heavy-Duty Trash Bags,Household,Tide,17.01,10.57,200.0,Active,2021-01-01,International,2.18
+1994,HarperCollins Bestseller Novel,Books,HarperCollins,19.79,16.61,50.0,Active,2023-05-15,Local,0.52
+1995,Levi's Graphic T-Shirt,Apparel,Levi's,57.37,36.66,374.0,Active,2020-10-19,International,1.31
+1996,LogiTech Portable Power Bank,Electronics,LogiTech,383.46,211.32,202.0,Active,2024-03-22,Local,4.36
+1997,Clorox Glass Cleaner,Household,Clorox,28.08,15.65,328.0,Discontinued,2022-11-06,Local,2.42
+1998,Mattel Action Figure,Toys,Mattel,61.37,45.84,127.0,Active,2023-09-22,International,1.17
+1999,All-Clad High-Speed Blender,Home Goods,All-Clad,246.25,139.9,157.0,Active,2023-08-24,Local,13.03
+2000,HydroFlask Insulated Bottle,Sports & Outdoors,HydroFlask,196.06,136.4,168.0,Active,2021-08-24,Local,1.02

@@ -1,0 +1,501 @@
+VendorID,VendorName,LeadTimeDays,ReliabilityScore,Region,VendorType,RatingScore,PaymentTerms,TotalDeliveredQty,TotalReturnedQty
+1,"Rodriguez, Figueroa and Sanchez",3,98.0,Australia,Primary,4.6,90,24572,16
+2,Doyle Ltd,3,97.0,Africa,Secondary,4.5,30,23070,23
+3,"Mcclain, Miller and Henderson",7,96.0,South America,Primary,4.8,30,37856,36
+4,Davis and Sons,3,98.0,Europe,Primary,4.6,60,33848,31
+5,"Guzman, Hoffman and Baldwin",5,95.0,Asia,Primary,4.7,90,31763,32
+6,"Gardner, Robinson and Lawrence",6,97.0,Asia,Secondary,5.0,90,32403,15
+7,Blake and Sons,7,99.0,Australia,Secondary,4.7,30,26300,14
+8,"Henderson, Ramirez and Lewis",5,99.0,Asia,Primary,4.9,60,48392,16
+9,Garcia-James,5,96.0,Australia,Primary,4.7,90,41960,27
+10,Abbott-Munoz,7,98.0,South America,Primary,4.8,60,28021,20
+11,,7,96.0,North America,Primary,4.7,30,45176,13
+12,,6,96.0,Australia,Secondary,4.6,30,38585,30
+13,,6,96.0,Asia,Primary,4.6,90,44411,45
+14,"Mcclure, Ward and Lee",6,99.0,South America,Secondary,4.7,90,27186,18
+15,Williams and Sons,3,98.0,North America,Primary,4.6,90,25242,37
+16,Galloway-Wyatt,7,99.0,Australia,Primary,4.8,90,38128,10
+17,James Group,7,98.0,South America,Primary,4.9,60,31146,17
+18,"Flowers, Martin and Kelly",3,99.0,Africa,Primary,4.9,30,28630,42
+19,"Adams, Zuniga and Wong",5,98.0,Europe,Secondary,4.8,60,26517,19
+20,"Reid, Ferguson and Sanchez",7,99.0,Asia,Primary,4.8,30,36010,11
+21,Gray-Mayo,5,96.0,Australia,Secondary,4.6,30,38591,15
+22,"Watts, Robinson and Nguyen",3,99.0,South America,Primary,4.8,90,24120,18
+23,Perez Inc,4,96.0,Australia,Secondary,4.9,90,33865,23
+24,Morales-Jones,5,97.0,South America,Primary,4.8,90,32236,38
+25,"Walter, Edwards and Rios",4,95.0,Europe,Primary,4.5,90,38150,24
+26,Wilkerson-Day,3,96.0,Africa,Primary,5.0,30,48168,31
+27,Baker and Sons,6,96.0,South America,Primary,4.6,90,48913,46
+28,"Hoffman, Baker and Richards",6,98.0,South America,Primary,4.6,60,23176,37
+29,"Ross, Robinson and Bright",3,98.0,Australia,Primary,5.0,60,23224,13
+30,"Snyder, Campos and Callahan",3,96.0,Europe,Primary,4.6,60,34700,18
+31,Burton Ltd,4,98.0,North America,Primary,4.5,30,46477,45
+32,Carlson-Cruz,7,98.0,South America,Primary,5.0,30,44692,25
+33,"Ferrell, Rice and Maddox",4,98.0,South America,Primary,5.0,30,25394,34
+34,Frazier Inc,6,96.0,Australia,Primary,4.8,90,43937,45
+35,"Dyer, Potter and Mack",4,96.0,Australia,Primary,5.0,30,38978,44
+36,Rodriguez-Graham,3,97.0,North America,Primary,4.8,30,47941,43
+37,Smith-Bowen,3,98.0,North America,Secondary,4.5,60,22226,25
+38,"Baker, Mason and White",7,96.0,Australia,Secondary,4.8,60,40295,15
+39,Harrell LLC,7,96.0,Asia,Primary,4.6,30,41945,30
+40,"Romero, Gonzalez and Brooks",5,97.0,Africa,Primary,5.0,60,22377,10
+41,Ryan PLC,3,95.0,North America,Secondary,4.6,60,28690,18
+42,George Group,5,96.0,Australia,Secondary,4.7,90,37800,29
+43,Rodriguez LLC,7,96.0,North America,Primary,4.8,60,48774,18
+44,Allen-Allen,7,96.0,Australia,Secondary,4.6,30,26901,31
+45,"Arroyo, Miller and Tucker",5,97.0,Australia,Primary,4.6,30,49758,13
+46,Spence PLC,5,95.0,Europe,Primary,4.7,60,24286,50
+47,Anderson Group,7,98.0,Europe,Secondary,4.8,90,23665,14
+48,"Martin, Rose and Obrien",5,97.0,Asia,Primary,4.6,60,24176,12
+49,Hickman Ltd,3,99.0,Africa,Secondary,4.6,60,28176,16
+50,"Harris, Collins and Carney",6,99.0,South America,Secondary,4.9,30,27757,20
+51,"Brooks, Lam and Hayes",19,93.0,Europe,Primary,4.1,60,11745,114
+52,Walker LLC,9,83.0,South America,Secondary,3.2,30,12711,107
+53,Chapman and Sons,11,80.0,North America,Primary,4.0,60,11528,135
+54,"Robinson, Jones and Welch",12,82.0,North America,Secondary,3.8,60,16133,188
+55,Jones Inc,12,79.0,Africa,Primary,4.4,30,9349,60
+56,Jones-Young,19,90.0,Africa,Primary,3.7,60,13379,80
+57,"Washington, Ryan and Cummings",8,89.0,Australia,Primary,3.1,90,18213,188
+58,"Johnston, Sanchez and Kennedy",19,88.0,Asia,Secondary,3.6,90,6146,135
+59,Lee-Davis,9,89.0,South America,Primary,3.5,60,10067,155
+60,Gomez-Jenkins,16,78.0,Africa,Primary,3.6,90,11211,95
+61,"Brown, Valdez and Lucas",16,91.0,Africa,Primary,3.5,90,8443,161
+62,Powell LLC,15,84.0,Europe,Primary,4.0,90,13375,172
+63,Wright and Sons,12,85.0,Australia,Primary,3.9,30,10491,74
+64,"West, Henderson and Ramirez",11,79.0,South America,Primary,3.2,60,12784,69
+65,Baxter Inc,17,79.0,Europe,Secondary,4.0,30,13099,153
+66,Morton-Chase,8,92.0,Europe,Primary,4.2,60,19507,78
+67,Williams PLC,19,85.0,Europe,Primary,3.2,60,9082,82
+68,Novak and Sons,18,86.0,Australia,Secondary,3.8,90,10198,164
+69,Russell Group,14,91.0,South America,Secondary,3.8,90,19699,91
+70,Hancock Inc,11,91.0,Australia,Primary,3.5,60,17741,184
+71,Gray Group,15,77.0,Africa,Primary,3.5,60,9451,136
+72,House-Glover,10,80.0,South America,Primary,4.0,30,16573,105
+73,Henderson-Bernard,16,84.0,Africa,Primary,3.2,60,18646,158
+74,"Stanley, Tucker and Lee",8,91.0,Asia,Secondary,4.1,30,11232,173
+75,Novak PLC,14,91.0,Australia,Primary,4.3,90,11865,188
+76,"Daniels, Adkins and Brown",17,92.0,North America,Primary,3.7,60,9471,162
+77,"Woods, Calhoun and Schmidt",18,88.0,Africa,Primary,3.6,30,7704,170
+78,Yu Inc,14,87.0,South America,Primary,4.0,30,6375,160
+79,"Hensley, Powell and David",12,83.0,Asia,Primary,3.4,60,10355,137
+80,"Sanchez, Wheeler and Harvey",14,81.0,Asia,Secondary,3.2,30,5317,189
+81,Sandoval-Cunningham,9,90.0,Europe,Primary,3.9,30,17357,58
+82,Donovan-Harris,17,79.0,Europe,Secondary,3.3,90,15968,80
+83,"Edwards, Baker and Anderson",12,90.0,Asia,Primary,3.3,30,14949,80
+84,"Evans, Stewart and Walton",8,93.0,Australia,Primary,3.8,60,19877,147
+85,Smith PLC,17,88.0,Africa,Primary,3.9,90,6669,128
+86,"Ferrell, Jones and Lewis",17,90.0,Africa,Secondary,3.6,30,12018,145
+87,Anderson-Bailey,8,91.0,Australia,Primary,4.2,60,6729,161
+88,Suarez LLC,15,89.0,Asia,Secondary,3.7,90,17022,184
+89,Moore-Bass,16,90.0,Europe,Primary,3.7,60,18528,119
+90,"Turner, Riggs and Roman",9,81.0,Africa,Secondary,3.7,90,17295,169
+91,"Smith, Montoya and Evans",13,77.0,Asia,Primary,4.2,30,7979,175
+92,"Garcia, Humphrey and Baker",13,81.0,North America,Secondary,3.9,90,19419,121
+93,Newton and Sons,11,78.0,Australia,Primary,4.0,30,13004,193
+94,Campbell-Clark,19,85.0,South America,Primary,4.1,30,6524,126
+95,Harris-Walters,12,88.0,South America,Primary,3.6,60,14068,186
+96,Wagner-King,16,82.0,Europe,Secondary,4.0,60,9438,129
+97,Davis Group,11,82.0,Europe,Primary,4.1,30,17487,98
+98,Williams-Cook,12,89.0,Europe,Secondary,4.4,30,13595,123
+99,Walsh LLC,13,79.0,North America,Primary,3.1,60,13751,83
+100,Figueroa PLC,16,81.0,North America,Secondary,4.3,30,15450,176
+101,"Patterson, Smith and Jones",15,,North America,Primary,3.5,60,5841,115
+102,"Mckee, Gardner and Davenport",14,n/a,Europe,Secondary,3.9,30,16246,64
+103,"Tran, Jordan and Williams",12,78.0,Africa,Secondary,15.0,90,14143,157
+104,Nolan-Flynn,-5,90.0,Africa,Secondary,3.6,60,19884,164
+105,Nolan and Sons,12,86.0, asia ,Secondary,3.2,30,17125,76
+106,"Wright, Garcia and Deleon",18,77.0,North America,Primary,3.4,30,14043,70
+107,Dickson-Brady,19,87.0,Asia,Primary,3.5,90,8792,124
+108,Hancock and Sons,15,77.0,North America,Secondary,3.4,60,9334,101
+109,Johnson-Doyle,18,79.0,Europe,Primary,3.4,30,7330,69
+110,Patton-Jenkins,17,89.0,South America,Secondary,3.8,30,9728,163
+111,"Shields, Cochran and Adams",19,83.0,North America,Primary,3.5,60,13847,177
+112,"Rodriguez, Brennan and Garrison",14,89.0,Australia,Primary,3.9,30,5423,74
+113,Gonzalez Group,17,87.0,North America,Secondary,3.1,90,17529,119
+114,Torres-Pope,10,84.0,South America,Secondary,3.9,90,9557,97
+115,Walker Ltd,15,93.0,Australia,Primary,3.7,60,11690,136
+116,Ross LLC,10,82.0,North America,Primary,4.0,90,9722,153
+117,Rasmussen LLC,13,81.0,North America,Primary,3.3,90,17657,154
+118,May-Ross,16,84.0,South America,Primary,3.2,90,13494,143
+119,"Rivera, Johnson and Wiley",8,80.0,South America,Primary,3.8,90,9719,163
+120,White-Estes,18,87.0,North America,Primary,3.4,90,7594,130
+121,Johnson-Carlson,9,80.0,Australia,Primary,4.2,30,6858,169
+122,Chandler-Edwards,15,93.0,South America,Secondary,3.5,60,16557,120
+123,"Joyce, Wilson and Lam",11,84.0,Europe,Secondary,3.3,90,8122,181
+124,Scott Ltd,12,90.0,North America,Secondary,4.2,60,10568,180
+125,Smith-Frost,12,91.0,South America,Primary,3.9,30,15812,176
+126,"Mcdaniel, Bentley and Mclaughlin",13,82.0,Europe,Primary,4.1,60,11180,167
+127,Diaz Inc,11,86.0,Asia,Secondary,3.4,30,17706,156
+128,"Mccall, Hanson and Alvarado",19,92.0,North America,Secondary,3.6,60,15873,89
+129,Cortez LLC,17,82.0,Africa,Primary,3.2,30,18845,163
+130,"Parker, Ortiz and Powell",8,89.0,South America,Secondary,3.6,30,15727,90
+131,Spencer-Lee,12,82.0,Australia,Secondary,4.0,60,15646,71
+132,"Bentley, Byrd and Orr",14,93.0,North America,Secondary,3.9,90,19539,175
+133,"Carroll, Sullivan and Bass",11,87.0,North America,Primary,4.3,60,8727,74
+134,Mitchell-Jordan,19,92.0,North America,Secondary,3.7,30,16370,127
+135,"Lawson, Morris and Ramos",8,81.0,South America,Primary,3.6,90,7385,113
+136,"Lewis, Kennedy and Santana",10,79.0,Australia,Primary,3.2,90,19267,148
+137,"Jackson, Miller and Robertson",17,79.0,Australia,Primary,3.7,60,9161,168
+138,"Harvey, Davis and Crane",15,92.0,Asia,Primary,4.0,60,7588,69
+139,Chambers and Sons,12,88.0,Europe,Secondary,3.7,60,9097,167
+140,Hernandez Inc,15,78.0,Australia,Secondary,3.6,60,10881,198
+141,Riggs PLC,18,83.0,Australia,Primary,3.1,90,19173,63
+142,Gibson Ltd,12,90.0,Australia,Primary,3.4,30,18138,141
+143,"Lee, Horton and Snyder",12,88.0,North America,Primary,4.0,90,15800,86
+144,Hernandez Ltd,18,77.0,Australia,Secondary,4.1,60,5546,199
+145,Stafford Inc,12,82.0,Asia,Primary,3.6,90,8289,84
+146,Robinson-Brock,12,91.0,Australia,Primary,3.4,60,18511,174
+147,"Holmes, Williams and Wright",9,84.0,Australia,Secondary,3.2,90,17356,108
+148,Bryant Group,14,93.0,North America,Primary,4.1,60,10992,74
+149,"Schmidt, Hansen and Stewart",9,84.0,South America,Primary,4.0,90,16015,118
+150,Salazar-Ball,13,78.0,Africa,Secondary,3.4,60,5410,194
+151,"Simmons, Meadows and Griffin",9,87.0,South America,Primary,3.7,90,16486,128
+152,Manning Group,8,93.0,Europe,Primary,3.5,30,13071,80
+153,Green-Wright,10,83.0,Africa,Secondary,3.6,60,17175,189
+154,"Ramirez, Strickland and Washington",10,92.0,South America,Secondary,4.0,90,18659,176
+155,Hill Inc,12,77.0,Asia,Secondary,3.6,30,12264,164
+156,"Mitchell, Nelson and Flores",18,83.0,South America,Primary,4.3,30,15564,142
+157,"Miller, Hernandez and Reyes",9,93.0,Australia,Primary,4.2,90,6501,105
+158,Mccarthy Inc,8,77.0,North America,Primary,3.5,30,7063,195
+159,Russell-Daniels,16,80.0,Europe,Secondary,3.4,60,19249,110
+160,Brown-Wall,17,76.0,Asia,Secondary,4.2,90,7370,84
+161,Stein-Silva,9,88.0,Africa,Secondary,3.1,30,5243,142
+162,"Smith, Gilmore and Johnston",10,81.0,Australia,Primary,3.3,30,11897,185
+163,Smith-Bell,15,90.0,Europe,Primary,3.8,90,6786,166
+164,Castaneda-Ashley,8,89.0,South America,Secondary,4.3,60,15795,184
+165,Medina-Navarro,8,77.0,North America,Primary,3.7,90,11580,160
+166,"Hurst, Freeman and Nelson",15,77.0,Europe,Primary,3.2,30,14966,88
+167,Johnson-Rogers,18,87.0,South America,Primary,4.0,60,11240,186
+168,"Yates, Ramsey and Pittman",14,78.0,Europe,Primary,4.0,90,18972,192
+169,Hooper PLC,11,83.0,North America,Primary,4.2,90,11532,157
+170,Meadows PLC,13,88.0,North America,Primary,3.6,30,7500,172
+171,"Alvarado, Miller and Patterson",9,84.0,North America,Secondary,4.1,90,11105,84
+172,White-Green,16,86.0,South America,Primary,4.0,90,11730,141
+173,Lewis-Murphy,19,77.0,Africa,Secondary,3.5,30,10119,141
+174,Ramirez-Bean,10,88.0,Asia,Primary,3.4,90,6773,140
+175,King-Miller,12,86.0,Africa,Primary,4.1,90,18847,194
+176,Curry Inc,16,76.0,Europe,Primary,4.3,30,18589,119
+177,Walker-Jones,12,93.0,Australia,Primary,3.6,90,7972,87
+178,"Williams, Johnson and Wright",10,89.0,South America,Primary,4.4,30,6503,186
+179,Howell and Sons,13,79.0,North America,Primary,3.5,90,10314,196
+180,Wells Inc,10,79.0,South America,Secondary,3.9,60,16042,71
+181,"Gould, Marshall and Scott",15,87.0,Asia,Primary,3.6,30,8531,182
+182,Jackson-Lawson,12,88.0,Europe,Primary,3.9,30,13633,129
+183,"Higgins, Strickland and Martin",17,77.0,Asia,Primary,3.4,60,8460,86
+184,Rodriguez-Johnson,8,85.0,Australia,Primary,3.7,90,7116,148
+185,Johnston-Odonnell,16,91.0,North America,Primary,4.1,90,6180,152
+186,Sanders-Espinoza,15,93.0,South America,Primary,4.2,90,14433,160
+187,Vargas Ltd,14,81.0,South America,Secondary,3.6,90,10321,94
+188,Garcia LLC,13,78.0,South America,Secondary,4.2,90,8986,162
+189,"Burke, Martinez and Riggs",14,92.0,North America,Primary,4.1,30,8630,136
+190,Reed Group,9,86.0,Australia,Primary,3.4,60,17717,140
+191,"Wood, Hunter and Peterson",18,91.0,Europe,Secondary,3.4,30,7399,116
+192,Short-Garcia,18,77.0,Africa,Primary,4.3,60,15288,177
+193,Reid-Poole,15,88.0,Asia,Secondary,4.2,90,15534,133
+194,"Hernandez, Thompson and Boyd",9,84.0,North America,Primary,3.9,90,18047,121
+195,"Nelson, Morton and Medina",9,82.0,North America,Primary,3.7,60,5932,145
+196,Marshall-Petersen,9,87.0,Australia,Primary,3.8,90,12581,199
+197,"Adams, Christian and Rivas",15,92.0,South America,Secondary,3.8,90,8084,133
+198,Ramirez Group,8,84.0,North America,Primary,4.2,90,18719,138
+199,Christensen PLC,10,77.0,Africa,Primary,4.0,90,12199,185
+200,"Barnett, Rogers and Snyder",13,93.0,Africa,Primary,3.6,90,17688,137
+201,White-Lewis,18,88.0,South America,Primary,3.2,90,6548,193
+202,Peterson-Beard,19,91.0,North America,Primary,4.4,60,14874,89
+203,"Beard, Peters and Black",10,93.0,Africa,Primary,3.5,30,15748,151
+204,Miller Ltd,9,82.0,Australia,Secondary,3.6,30,17970,135
+205,Freeman-Chang,19,94.0,Asia,Secondary,4.3,90,6531,159
+206,"Alvarez, Joseph and West",12,79.0,Europe,Primary,3.4,30,17552,175
+207,Holt-Torres,10,77.0,Australia,Secondary,4.2,90,6657,180
+208,"Wood, Tran and Cooper",8,88.0,South America,Secondary,4.2,90,15125,84
+209,"Pierce, Bell and Chavez",10,91.0,South America,Primary,4.1,90,18255,93
+210,King-Martinez,13,88.0,South America,Primary,3.4,90,12277,123
+211,Stewart Ltd,11,82.0,Australia,Primary,4.2,60,12684,100
+212,"Tapia, Vaughn and Lee",15,84.0,South America,Secondary,3.5,90,11256,179
+213,"Washington, Hardy and Bray",11,90.0,South America,Secondary,3.3,90,9096,64
+214,"Carlson, Hooper and Wall",16,93.0,North America,Secondary,4.0,60,13452,82
+215,Perez-White,12,84.0,Europe,Secondary,3.8,30,18615,162
+216,Erickson and Sons,13,93.0,Europe,Secondary,3.6,60,11495,179
+217,Williams-Brown,9,83.0,Europe,Primary,3.1,30,6623,136
+218,Terry-Martinez,15,89.0,Africa,Primary,3.3,60,16559,171
+219,Garcia-Smith,9,76.0,Africa,Primary,3.4,90,7449,191
+220,Harrison-Alexander,9,90.0,South America,Primary,3.4,30,6996,63
+221,Sheppard LLC,17,84.0,Africa,Primary,3.2,90,19829,178
+222,Wilson-Jones,16,86.0,Africa,Primary,4.0,30,9772,160
+223,Jones-Soto,17,83.0,North America,Primary,4.0,60,6402,185
+224,Hernandez PLC,16,85.0,South America,Secondary,4.4,60,14079,56
+225,Miller-Wright,14,94.0,Asia,Primary,3.4,30,5266,142
+226,"Duran, Obrien and Gibbs",18,87.0,North America,Primary,4.1,30,17045,136
+227,Rowe Group,13,91.0,South America,Primary,3.3,90,17765,169
+228,Kerr-Evans,10,77.0,Europe,Primary,4.1,60,12498,60
+229,"Branch, Torres and Oliver",11,92.0,Africa,Primary,3.5,60,10080,182
+230,"Choi, Garcia and Farmer",8,90.0,Asia,Primary,3.3,90,10848,63
+231,"Clark, Guerrero and Moore",13,84.0,Europe,Primary,3.6,60,12204,149
+232,Arnold and Sons,15,83.0,South America,Primary,4.1,90,9369,72
+233,Ortiz Ltd,17,94.0,North America,Primary,3.3,30,9813,133
+234,"Harrison, Johnson and Roberts",12,82.0,South America,Primary,3.9,90,11981,93
+235,Warner-Gibson,8,89.0,Australia,Primary,4.3,60,15073,162
+236,"Hall, Baker and Moody",8,77.0,Australia,Secondary,3.9,90,10952,182
+237,"Guerrero, Peck and Coleman",8,79.0,Europe,Primary,3.9,30,17801,163
+238,"Walker, Hernandez and Baker",18,83.0,Europe,Primary,3.6,90,14293,59
+239,Jones and Sons,13,83.0,Asia,Primary,4.1,90,14403,86
+240,Larson-Holloway,18,81.0,Africa,Primary,4.3,60,5424,98
+241,Gonzales-Harrison,16,78.0,Africa,Primary,4.1,30,16534,165
+242,Lyons-Bender,15,80.0,Australia,Primary,3.3,30,6213,166
+243,"Fernandez, Kim and George",9,91.0,North America,Primary,4.4,90,10236,139
+244,Navarro-Munoz,12,92.0,Africa,Primary,4.2,60,16662,95
+245,Davis Ltd,11,90.0,Africa,Primary,3.4,60,13094,57
+246,"Matthews, Smith and Hubbard",15,90.0,Asia,Primary,3.8,30,15026,73
+247,Johnston-Hines,19,89.0,North America,Primary,3.8,90,17601,155
+248,Ruiz Ltd,13,88.0,Europe,Primary,3.7,60,16142,183
+249,Moon-White,16,88.0,North America,Secondary,3.3,90,7114,161
+250,"Graham, Olsen and Costa",16,79.0,Africa,Secondary,3.3,60,10286,108
+251,Bailey-Cook,9,81.0,Australia,Secondary,3.9,30,14024,121
+252,"Garcia, Martin and Jenkins",16,78.0,Europe,Primary,3.9,30,14696,199
+253,Roberts-Landry,19,92.0,North America,Primary,3.5,30,14234,61
+254,"Johnson, Miller and King",18,90.0,Africa,Primary,3.4,60,8453,197
+255,Cordova Group,15,92.0,Europe,Primary,3.8,60,15517,128
+256,"Bryan, Smith and Booth",18,83.0,South America,Secondary,3.7,30,16282,66
+257,Gutierrez-Lopez,15,80.0,Asia,Primary,3.9,90,10121,132
+258,Dean-Jimenez,10,90.0,South America,Secondary,3.8,30,6739,132
+259,Wolf-Harris,15,80.0,South America,Primary,3.2,90,9754,149
+260,"Anderson, Roberts and Gilmore",10,91.0,Europe,Primary,4.3,30,16814,131
+261,Martinez-Dudley,16,84.0,South America,Primary,4.2,30,13148,56
+262,"Lloyd, Mckinney and Collins",11,80.0,Africa,Primary,3.6,60,5828,123
+263,Tran Inc,18,88.0,Europe,Secondary,3.5,60,5133,78
+264,Gay Inc,19,83.0,Africa,Secondary,3.6,30,5741,153
+265,Valentine-Holland,13,86.0,Asia,Primary,3.2,90,13261,166
+266,Jimenez Ltd,17,88.0,Asia,Secondary,3.3,60,6584,151
+267,Hicks-Hill,13,90.0,North America,Primary,3.4,90,13341,153
+268,Baird-Sanchez,10,89.0,Africa,Primary,4.1,30,13508,167
+269,"Thomas, Lee and Greene",10,82.0,Australia,Secondary,3.9,90,7662,151
+270,"Suarez, Shields and Hill",17,82.0,Africa,Secondary,4.2,90,13721,176
+271,Morgan-French,8,83.0,Australia,Primary,4.0,90,11824,129
+272,Hoover-Campbell,17,85.0,Europe,Primary,4.4,90,17827,199
+273,Monroe-Carpenter,17,85.0,Australia,Secondary,3.8,30,16815,148
+274,"Burns, Hernandez and Ryan",17,93.0,South America,Primary,3.2,60,5310,163
+275,Cook-Hines,19,80.0,Australia,Primary,3.8,90,15018,171
+276,Gibson-Morris,10,85.0,South America,Primary,3.8,90,15849,173
+277,Pollard and Sons,10,84.0,Australia,Primary,3.8,90,13950,141
+278,"Reyes, Chase and Jenkins",19,81.0,Asia,Primary,3.7,90,9038,122
+279,Garner-Thornton,12,90.0,South America,Primary,4.0,60,16308,176
+280,Hughes-Alvarado,19,81.0,South America,Primary,3.3,60,16085,190
+281,"Pollard, Simpson and Johnson",10,81.0,South America,Secondary,3.5,60,16700,71
+282,"Sanford, Rivera and Garcia",19,85.0,Australia,Primary,3.4,90,13824,120
+283,Garcia-Lozano,9,87.0,Africa,Primary,3.9,90,8972,63
+284,Bowen Group,11,77.0,Australia,Primary,3.6,30,16753,171
+285,"Booker, Jones and Harrington",8,93.0,South America,Secondary,4.4,90,7587,155
+286,Morgan-Schwartz,11,90.0,Australia,Primary,3.5,30,9676,66
+287,"Miller, Murphy and Craig",16,89.0,Europe,Primary,4.2,60,5611,95
+288,"James, Stewart and Higgins",8,94.0,Asia,Secondary,3.6,90,13116,98
+289,Brennan-Johnson,8,81.0,Australia,Secondary,3.9,60,10489,123
+290,Young Ltd,15,92.0,Europe,Primary,3.3,60,13261,170
+291,Bright-Francis,13,79.0,Australia,Secondary,3.7,30,9215,98
+292,Good-Hodges,12,86.0,Africa,Primary,4.1,60,7875,154
+293,"Brennan, Wallace and Benson",14,88.0,Europe,Primary,3.3,60,7303,173
+294,Williams Inc,14,80.0,Australia,Primary,4.1,90,10400,128
+295,Howard-Jordan,12,88.0,Asia,Primary,4.0,60,6017,81
+296,Schmidt PLC,18,85.0,North America,Primary,4.3,90,16527,130
+297,"Sparks, Jackson and Miller",12,83.0,South America,Primary,3.4,30,7188,173
+298,Harvey-Allen,17,83.0,Australia,Secondary,4.0,90,19955,171
+299,"Thomas, Murray and King",11,88.0,South America,Secondary,3.9,90,17900,71
+300,Estrada-Nolan,13,77.0,Europe,Primary,3.8,90,6011,191
+301,Santana-Byrd,10,79.0,Europe,Primary,4.2,90,12239,80
+302,Jones LLC,15,78.0,Europe,Secondary,3.8,60,18249,65
+303,"Evans, Hayden and Vaughn",15,86.0,North America,Primary,3.8,90,16022,129
+304,Bruce-Gonzalez,8,89.0,Australia,Primary,3.9,60,5742,159
+305,Castaneda-Rodriguez,8,93.0,South America,Primary,3.2,60,12734,59
+306,Armstrong-Andrews,10,90.0,South America,Primary,4.4,60,15582,158
+307,"Phillips, Spence and Barrett",14,83.0,Australia,Primary,4.0,30,15842,189
+308,Smith-Grimes,9,79.0,Europe,Secondary,3.8,90,13664,83
+309,"Beltran, Lozano and Mcgee",8,94.0,Africa,Secondary,3.7,60,16781,190
+310,Parsons-Hall,11,80.0,North America,Primary,3.6,90,9516,99
+311,Robinson-Lee,18,84.0,Europe,Primary,4.1,30,19479,55
+312,Byrd-Le,17,77.0,Australia,Primary,3.9,30,16522,63
+313,"Becker, Taylor and Davis",15,80.0,Africa,Primary,3.4,30,19151,65
+314,"Lucas, Parker and Alexander",11,91.0,Australia,Secondary,4.1,90,10224,198
+315,"Diaz, Anderson and Browning",11,81.0,South America,Secondary,3.3,30,15816,184
+316,Burgess-Thompson,8,86.0,Australia,Primary,3.9,90,17045,95
+317,Buchanan LLC,15,77.0,Asia,Primary,3.5,90,15540,148
+318,"Shaw, Nelson and Martin",14,79.0,Europe,Primary,3.6,60,17360,188
+319,Coffey-Phillips,12,91.0,South America,Secondary,3.3,90,12586,65
+320,Brock-Mcdonald,16,86.0,Australia,Secondary,3.6,60,9177,103
+321,Taylor and Sons,15,91.0,Asia,Primary,3.2,30,16871,99
+322,"Ramsey, Whitney and Coffey",17,87.0,South America,Primary,4.2,30,8082,194
+323,"Diaz, Gibbs and Smith",13,81.0,North America,Primary,4.3,90,8470,99
+324,"Martinez, Richardson and Curry",15,92.0,Europe,Secondary,4.0,60,16530,103
+325,Richards-Carson,12,83.0,Asia,Primary,3.8,60,10886,129
+326,Rodriguez-Hall,15,84.0,Europe,Primary,4.1,60,16836,171
+327,Harvey PLC,14,77.0,Asia,Primary,4.2,30,17144,88
+328,Herman-Walker,17,86.0,Europe,Primary,3.6,60,7497,101
+329,Reid Group,11,85.0,South America,Primary,4.0,60,16220,137
+330,"Turner, Ortiz and Taylor",18,89.0,Europe,Secondary,3.7,30,17005,141
+331,Torres Group,15,79.0,North America,Secondary,4.3,90,15515,66
+332,Davis PLC,9,93.0,Europe,Secondary,4.0,60,17522,52
+333,Price LLC,11,77.0,Asia,Secondary,3.3,60,8583,180
+334,"Avery, Horton and Fernandez",18,88.0,North America,Primary,3.9,30,12916,175
+335,"Newton, Moore and Perry",14,76.0,North America,Primary,3.8,60,9501,188
+336,Bass PLC,19,88.0,North America,Primary,4.1,30,19905,96
+337,Crosby-Ramirez,11,79.0,South America,Primary,3.8,60,18356,141
+338,"Wood, Ramos and Sampson",14,84.0,Australia,Primary,3.4,60,16423,108
+339,Garcia-Jennings,9,88.0,South America,Secondary,4.2,30,17445,59
+340,"Winters, Newman and Brown",16,85.0,South America,Primary,3.9,30,16515,94
+341,Lopez-Martinez,18,90.0,North America,Secondary,3.8,90,19056,75
+342,Davis-Lewis,19,92.0,Asia,Primary,3.7,90,5762,70
+343,"Harper, Smith and Buchanan",17,88.0,Europe,Secondary,3.3,30,18933,131
+344,Zhang PLC,19,91.0,Europe,Primary,4.3,90,9903,92
+345,Jones PLC,14,88.0,Australia,Primary,3.8,90,11288,86
+346,Willis and Sons,19,94.0,Asia,Primary,3.2,30,12161,110
+347,Schroeder-Kramer,17,93.0,Australia,Primary,3.6,30,17673,134
+348,"Smith, Garrison and Thomas",15,85.0,Australia,Primary,3.6,30,11150,161
+349,Fernandez and Sons,14,78.0,North America,Primary,3.9,90,18075,114
+350,Guerrero Inc,10,83.0,Asia,Primary,4.1,60,7527,150
+351,Smith and Sons,8,93.0,Europe,Primary,3.7,30,17473,120
+352,"Morris, Thompson and Williams",14,84.0,North America,Primary,3.8,30,11685,77
+353,"Fisher, Wilson and Brown",9,87.0,Asia,Primary,4.1,30,19151,149
+354,Strickland-Palmer,9,89.0,Europe,Primary,3.8,90,8977,197
+355,Hayes and Sons,10,78.0,Europe,Primary,3.5,30,13079,88
+356,"Williams, Logan and Camacho",14,81.0,Australia,Primary,4.1,30,10916,115
+357,"Turner, Schneider and Johnson",17,87.0,South America,Primary,3.7,30,7219,128
+358,Boone-Simmons,17,83.0,Australia,Primary,4.2,60,12212,136
+359,Henry Group,10,81.0,Asia,Secondary,3.9,60,16391,102
+360,Lam LLC,14,93.0,Europe,Primary,3.5,90,16386,176
+361,"Hernandez, Martinez and Weber",12,91.0,Africa,Primary,3.6,30,6865,195
+362,"Kelley, Nguyen and Vang",10,88.0,Europe,Secondary,3.8,90,16914,169
+363,"Phillips, Wagner and Jordan",12,91.0,South America,Primary,3.2,90,18890,155
+364,"Wilson, Pena and Rich",12,80.0,North America,Primary,4.0,60,16718,159
+365,"Le, Lewis and Hayes",17,85.0,North America,Primary,3.6,90,13300,158
+366,Gutierrez Group,13,89.0,Europe,Secondary,4.2,30,14729,72
+367,Perry-Davis,13,79.0,South America,Primary,3.9,60,14227,153
+368,Edwards-Scott,9,81.0,Australia,Primary,3.8,90,13499,193
+369,Mcdaniel Group,15,83.0,Asia,Primary,3.7,30,16133,179
+370,Davis Inc,15,78.0,Europe,Secondary,3.6,90,6406,80
+371,Reynolds Ltd,13,84.0,North America,Primary,3.4,60,12912,140
+372,"Watson, Anderson and Brown",19,84.0,Asia,Primary,3.2,30,5732,80
+373,"Hoffman, Santiago and Jenkins",18,90.0,Europe,Primary,4.3,90,17132,113
+374,"Pugh, Henderson and Moon",13,86.0,Europe,Primary,4.3,90,8798,154
+375,Schmitt PLC,18,84.0,Africa,Primary,3.1,60,15061,101
+376,Bell-Lane,8,89.0,North America,Primary,3.4,90,17326,67
+377,Moore Group,16,79.0,Australia,Secondary,3.5,60,12496,80
+378,Boone LLC,16,93.0,North America,Secondary,3.5,90,11367,151
+379,"Richardson, Farmer and Andrews",15,87.0,Africa,Primary,4.2,90,16566,127
+380,Bruce-Villegas,10,82.0,Australia,Primary,3.4,60,6916,97
+381,"Austin, Day and Johnson",14,84.0,South America,Primary,3.3,30,11286,159
+382,"Gallegos, Adams and White",19,93.0,South America,Primary,4.3,30,7838,193
+383,"Farmer, Dorsey and Bell",10,82.0,South America,Primary,3.7,30,5878,142
+384,Kane PLC,14,93.0,South America,Primary,3.8,90,13109,155
+385,"Morales, Thomas and Schultz",15,85.0,North America,Primary,3.2,60,5505,107
+386,Bennett Group,16,81.0,Africa,Primary,4.1,90,14267,177
+387,Moore-Collins,9,81.0,Australia,Primary,3.8,30,11010,189
+388,Frank-Bradley,11,94.0,North America,Primary,3.2,60,18599,114
+389,Ware and Sons,13,92.0,Europe,Primary,3.2,30,19176,81
+390,Webster Inc,17,88.0,Africa,Secondary,4.2,30,14998,160
+391,"Miller, Ramos and Coleman",11,91.0,Asia,Primary,4.1,90,14340,140
+392,"Ramos, Nelson and Fischer",10,82.0,Africa,Primary,4.0,60,9740,197
+393,Reed Inc,18,91.0,Asia,Secondary,3.3,30,17289,156
+394,Gregory-Watkins,10,89.0,Australia,Secondary,3.3,30,7396,133
+395,"Estrada, Williams and Foster",10,86.0,North America,Primary,3.4,60,11786,147
+396,"Brown, Harris and Dougherty",9,83.0,South America,Primary,4.1,60,16382,145
+397,Duran LLC,8,92.0,Australia,Primary,4.2,90,6526,168
+398,Wilson-Jimenez,9,90.0,Asia,Primary,3.6,60,12039,105
+399,Thompson-James,12,82.0,Australia,Primary,3.9,60,14275,175
+400,"Hall, Hansen and Barnett",8,78.0,Europe,Secondary,4.1,30,12529,55
+401,Jones-Hensley,8,94.0,Asia,Primary,3.7,90,16281,84
+402,Graham Group,12,78.0,Australia,Primary,3.6,90,6350,146
+403,Atkins PLC,14,87.0,Australia,Primary,4.0,60,17373,110
+404,Berry-Mckinney,9,76.0,Australia,Primary,3.7,90,7174,108
+405,Roberts-Sullivan,8,89.0,Europe,Primary,4.2,90,19095,159
+406,Jackson-Meza,11,83.0,Asia,Primary,4.0,60,6678,77
+407,Collier-Gillespie,10,83.0,Australia,Secondary,4.2,90,19327,85
+408,Kim Inc,16,86.0,Australia,Primary,3.9,60,7688,163
+409,"Miller, Harrell and Reese",19,79.0,North America,Primary,3.6,30,16248,164
+410,Cook and Sons,10,90.0,Asia,Secondary,3.9,60,11291,140
+411,Dixon Inc,11,81.0,North America,Secondary,3.2,90,14066,123
+412,"Hicks, Bullock and Bailey",18,92.0,Australia,Secondary,3.4,30,14943,181
+413,"Mullen, Brewer and Hernandez",18,77.0,North America,Primary,4.3,60,8921,177
+414,Thomas and Sons,18,87.0,Europe,Primary,3.8,60,5197,143
+415,Morrison Ltd,17,84.0,North America,Primary,3.8,30,7830,171
+416,Thompson Ltd,8,81.0,Asia,Primary,3.2,90,5990,152
+417,Marshall-Elliott,16,90.0,Africa,Primary,3.7,90,11590,72
+418,"Cole, Glass and Cunningham",10,81.0,Africa,Primary,3.5,30,13377,103
+419,"Downs, Morris and Maddox",17,87.0,Australia,Primary,4.2,60,16158,67
+420,Hernandez-Jones,11,77.0,Africa,Primary,3.2,60,12118,80
+421,Welch-Hogan,12,88.0,Australia,Primary,4.0,30,7877,81
+422,"Brown, Romero and Collins",8,79.0,Asia,Primary,4.3,90,13568,183
+423,Johnson-Wood,10,89.0,Asia,Primary,4.2,30,17008,81
+424,Jones-Lin,12,85.0,South America,Secondary,3.4,60,14447,70
+425,Gilbert PLC,8,85.0,North America,Primary,3.8,60,11024,91
+426,Ford-Spencer,18,89.0,North America,Secondary,3.4,30,13336,51
+427,"Huang, Cole and Pacheco",15,83.0,Australia,Primary,4.3,90,7932,60
+428,"Lopez, Jacobs and Mason",14,80.0,North America,Secondary,3.4,60,16801,132
+429,Hayes LLC,9,85.0,North America,Primary,4.3,90,7938,108
+430,"Miller, Lucas and Williams",9,92.0,North America,Secondary,4.2,60,17673,130
+431,"Kim, Gonzales and Mills",8,83.0,Africa,Primary,3.5,90,17853,128
+432,Cox LLC,13,87.0,Africa,Primary,3.7,90,17658,101
+433,Ortiz-Morgan,11,79.0,Asia,Secondary,4.3,90,5391,110
+434,"Williams, Mccoy and Cook",19,92.0,Australia,Primary,4.3,90,5023,147
+435,Davis-Gregory,11,86.0,Australia,Primary,3.4,30,13061,66
+436,King-York,8,93.0,Asia,Primary,4.3,90,13515,156
+437,"Marks, Cook and Aguilar",19,78.0,Africa,Primary,3.2,30,7187,151
+438,Rangel LLC,14,88.0,South America,Primary,3.3,60,9778,117
+439,"Hale, Myers and Larson",19,82.0,Europe,Secondary,3.7,30,8827,70
+440,Collins Group,17,78.0,South America,Secondary,3.2,60,12365,170
+441,"Conner, Li and Santiago",13,93.0,North America,Primary,3.4,60,10051,169
+442,"Osborn, Gaines and Davis",18,81.0,Asia,Primary,4.0,30,14884,61
+443,"Henderson, Cox and Cox",19,80.0,Asia,Primary,3.6,90,13412,63
+444,Bean LLC,10,77.0,Africa,Primary,3.6,90,12408,193
+445,Lee-Cooke,15,78.0,Europe,Primary,4.1,30,6989,54
+446,"Wise, Conley and Stephenson",14,83.0,Africa,Primary,3.9,90,15562,72
+447,Stanley PLC,9,76.0,North America,Primary,3.2,30,19786,164
+448,Harper and Sons,13,78.0,South America,Secondary,4.3,90,5829,94
+449,White Ltd,14,85.0,Europe,Secondary,3.6,60,11990,95
+450,"Lamb, Martin and Kim",12,81.0,Asia,Secondary,4.2,90,5567,113
+451,Diaz-Ball,28,67.0,Europe,Primary,2.1,60,2568,270
+452,Bishop-Goodwin,28,64.0,Australia,Primary,3.0,60,3226,209
+453,Young-Allen,28,72.0,South America,Primary,2.3,60,3316,457
+454,Mckee-Lee,20,65.0,South America,Primary,2.2,30,4669,343
+455,"Valentine, Joyce and Murray",29,75.0,Europe,Primary,3.0,90,1410,326
+456,Strickland-Shaw,20,71.0,Europe,Primary,2.9,60,3358,398
+457,Burch-Montoya,29,65.0,Australia,Primary,2.7,90,2469,214
+458,"Taylor, Wright and Davidson",29,68.0,Asia,Primary,2.6,90,1771,452
+459,Spencer-Garcia,20,61.0,South America,Primary,2.2,90,1896,210
+460,"Rosales, Mitchell and Hines",29,63.0,North America,Primary,2.1,60,3936,290
+461,Cole-Palmer,29,71.0,North America,Primary,2.1,60,1454,469
+462,Davis-Lozano,30,66.0,Europe,Primary,2.1,30,2236,365
+463,Wilkerson-Arias,26,72.0,Australia,Secondary,3.0,30,3659,362
+464,Brown-Shaw,29,72.0,Asia,Secondary,2.2,60,3412,289
+465,Hughes Inc,24,62.0,Africa,Secondary,2.7,60,4886,493
+466,Walker-Flores,29,65.0,Africa,Primary,2.8,90,3504,313
+467,Combs Ltd,27,62.0,Europe,Primary,2.7,60,1974,377
+468,Moody-Taylor,21,72.0,North America,Primary,2.7,60,3987,371
+469,Lowery-Kennedy,23,70.0,North America,Primary,2.4,90,4223,255
+470,Blake Group,27,71.0,South America,Primary,3.0,60,4623,411
+471,Gilbert-Bullock,26,62.0,Australia,Primary,2.5,90,4539,495
+472,Scott and Sons,27,61.0,Asia,Primary,2.8,60,2207,210
+473,"Bentley, Lynch and Henderson",21,65.0,North America,Secondary,2.9,90,1659,238
+474,Young-Martinez,29,73.0,South America,Primary,2.7,90,2766,284
+475,Barnes PLC,21,65.0,Australia,Primary,3.0,90,2676,483
+476,Brown-Copeland,30,64.0,Africa,Primary,2.2,90,1203,401
+477,Carlson-Smith,22,61.0,Australia,Secondary,2.0,90,1358,350
+478,"Andrews, Higgins and Carter",23,61.0,South America,Primary,2.2,30,3614,349
+479,Mendez and Sons,24,72.0,Australia,Secondary,2.5,30,4665,335
+480,"Butler, Beck and Miller",22,66.0,Asia,Primary,2.4,30,1764,428
+481,Jones-Fox,24,63.0,Australia,Primary,2.3,90,1252,277
+482,"Hartman, Romero and Smith",30,65.0,North America,Primary,2.5,90,4976,316
+483,Williams-Hughes,28,66.0,Europe,Secondary,2.5,90,4550,443
+484,King-Smith,21,66.0,Africa,Primary,2.9,90,1142,457
+485,Cooper Ltd,30,75.0,Europe,Secondary,2.1,30,4888,429
+486,"Fuller, Ingram and Moss",23,62.0,Australia,Secondary,2.4,30,3798,422
+487,Anderson-Bell,29,64.0,South America,Primary,2.9,30,4744,234
+488,Li-Thompson,28,65.0,Africa,Primary,2.3,90,2876,206
+489,"Marshall, Dominguez and Welch",26,62.0,North America,Primary,2.1,30,3320,498
+490,Brown Group,21,72.0,Asia,Primary,2.9,60,4605,376
+491,Carter Inc,27,69.0,Europe,Primary,2.5,60,1705,341
+492,Blackwell LLC,30,70.0,Europe,Primary,2.0,90,4643,369
+493,Robertson-Hays,27,74.0,Asia,Primary,2.9,60,1082,372
+494,"Kennedy, Johnson and Lucas",27,73.0,Asia,Primary,2.7,30,4983,316
+495,Kelly-Norman,27,72.0,Australia,Secondary,2.3,90,3985,413
+496,"Rivera, Martinez and Richardson",27,63.0,Asia,Primary,2.8,90,4034,448
+497,Paul-Kline,28,72.0,Europe,Secondary,2.1,60,3906,459
+498,Morgan-Lopez,28,73.0,Europe,Secondary,2.0,30,1789,302
+499,"Jimenez, Glass and Stone",20,74.0,Africa,Primary,2.7,60,2122,388
+500,Acosta Inc,21,70.0,South America,Primary,2.2,30,3002,428
