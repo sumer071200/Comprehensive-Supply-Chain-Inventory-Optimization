@@ -92,10 +92,5 @@ Supply chain inefficiencies often lead to stockouts, delayed deliveries, and poo
 
 ## 📊 Dashboard Preview
 
-If published on Tableau Public:  
-👉 [View Interactive Dashboard](#) *(Replace with your Tableau Public link)*
-
-Or add screenshots like:
-
 ```markdown
-![Dashboard Overview](images/dashboard.png)
+[![Dashboard Overview](images/dashboard.png)](https://github.com/sumer071200/Comprehensive-Supply-Chain-Inventory-Optimization/blob/0d82397c9070bc52ba7b5a5c858f513c968f3486/Sales%20Performance%20Dashboard.png)
