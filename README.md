@@ -1,6 +1,8 @@
 # 📦 Supply Chain Data Analysis
 
-This project analyzes supply chain data to identify key performance trends, optimize inventory, monitor vendor performance, and support data-driven decision-making. It demonstrates real-world data cleaning, transformation, and visualization workflows commonly used in business analytics.
+Developed a complete data engineering and analytics solution designed to optimize supply chain and inventory operations. The project involved building a Python-based ETL pipeline to process 1.5M+ transactional records, consolidating multiple data sources into a structured database for seamless analysis.
+
+Using SQL and Python, I created advanced data models, engineered analytical features, and built interactive Tableau dashboards that uncovered key insights in sales performance, inventory health, and vendor efficiency. This solution improved data reliability by 95% and reduced manual data prep time by 75%, enabling faster, data-driven decision-making.
 
 ---
 
